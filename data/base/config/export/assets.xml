@@ -1,0 +1,102 @@
+<ModOps>
+  <!--
+    # By Althandir / Altdolphin
+    # NOTE: 
+    # GUIDs mitght be all over the place (not outside of my Range but inside this mod) due to my experiments all the time
+    # or my stupid brain getting new Ideas all the time and never finishing something >~<
+ 
+    ###  
+    #   GUID-Ranges:  
+    #   1600000000
+    #   
+    #   
+    #   
+    #   
+    ###
+
+    Modtools - Helper Website
+    https://a1800.net/?aGAME=a117
+    Modloder Reference
+    https://jakobharder.github.io/anno-mod-loader/
+
+    For Properties see properties-meta.xml from game.rda
+  -->
+  
+  <!-- Common Specialists -->
+  <Group>
+    <Include File="items-common/AreaUpgradePonies-C.xml" />
+
+    <Include File="items-common/MaintenanceAllUpholsterers-C.xml"/>
+
+    
+    <Include File="items-common/ProdAreaUpgradeForestries-C.xml" />
+
+    <Include File="items-common/ProductivityAllExtractors-C-Boost.xml" />
+
+    <Include File="items-common/WarehouseCapacityUpgrade-C.xml"/>
+  </Group>
+
+  <!-- Rare Specialists -->
+  <Group>
+    <Include File="items-rare/AdditionalClayWaterSlots-R.xml"/>
+    <Include File="items-rare/ModuleUpgradeReed-R.xml" />
+    <Include File="items-rare/ProdAreaUpgradeHuntersAndEels-R.xml" />
+    <Include File="items-rare/ProductivityAllCoastalProductions-R.xml" />
+    <Include File="items-rare/ProductivityAllFarms-R.xml" />
+    <Include File="items-rare/ProductivityAllForestries-R.xml" />
+    <Include File="items-rare/ProductivityAllPastures-R.xml" />
+    <Include File="items-rare/ProductivityAllPlantations-R.xml" />
+    <Include File="items-rare/ProductivityByFuelAllFuelConsumers-R.xml" />
+
+    <Include File="items-rare/WarehouseCapacityUpgrade-R.xml" />
+  </Group>
+
+  <!-- Epic Specialists -->
+  <Group>
+    <Include File="items-epic/AdditionalCocklesRomanCelticSeashell-E.xml" />
+    <Include File="items-epic/AdditionalCopperAllMines-E.xml" />
+    <Include File="items-epic/AdditionalMarbleAllQuarries-E.xml" />
+    <Include File="items-epic/AdditionalMineralsAllQuarriesAndMines-E.xml" />
+    <Include File="items-epic/AdditionalTinAllMines-E.xml" />
+    <Include File="items-epic/AdditionalSilverAllMines-E.xml" />
+
+    <Include File="items-epic/ModuleUpgradeAllFarms-E.xml" />
+    <Include File="items-epic/ModuleUpgradeAllPlantations-E.xml" />
+    <Include File="items-epic/ModuleUpgradePastures-E.xml" />
+    <Include File="items-epic/ModuleUpgradeSandarak-E.xml" />
+
+    <Include File="items-epic/ProductivityAllArtisans-E.xml" />  
+    <Include File="items-epic/ProductivityAllCookhouses-E.xml" />
+    <Include File="items-epic/ProductivityAllDressers-E.xml" />
+    <Include File="items-epic/ProductivityAllFisheries-E.xml" />
+    <Include File="items-epic/ProductivityAllPitsAndQuarries-E.xml" />
+    <Include File="items-epic/ProductivityAllUpholsterers-E.xml" />
+    <Include File="items-epic/ProductivityAllVictuallers-E.xml" />
+    <Include File="items-epic/ProductivityAllWorkshops-E.xml" />
+
+    <Include File="items-epic/ReplaceInputFineGlassWorks-SiliziaReplaceGlass-E.xml" />
+    <Include File="items-epic/ReplaceInputNecklaces-SilberReplaceGold-E.xml" />
+
+  </Group>
+
+  <!-- Legendary Specialists -->
+  <Group>
+    <Include File="items-legendary/AdditionalGoodsExtractors-L-Boost.xml" />
+    <Include File="items-legendary/AdditionalGoodsHoney-L.xml" />
+
+    <Include File="items-legendary/CrazyLatiumFisheries-L.xml" />
+    <Include File="items-legendary/ProdAreaUpgradeHuntersAndEels-L.xml" />
+  </Group>
+
+  <!-- Add to Pools -->
+  <Include File="pools.xml" />
+
+
+  <!-- Add to Traderpools --> 
+  <Include File="pools/Traders/pools-common.xml" />
+  <Include File="pools/Traders/pools-rare.xml" />
+  <Include File="pools/Traders/pools-epic.xml" />
+  <Include File="pools/Traders/pools-legendary.xml" />
+
+
+</ModOps>
