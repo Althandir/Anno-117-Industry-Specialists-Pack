@@ -7,7 +7,7 @@
  
     ###  
     #   GUID-Ranges:  
-    #   1600000002 - 1600000004
+    #   1600000002 - 1600000003
     #   1600000025 - 1600000028
     #   1600000033 - 1600000034 (Warehouse - Common)
     #   1600000106 - 1600000113
@@ -40,7 +40,7 @@
     <Include File="items-common/AreaUpgradePonies-C.xml" />
     <Include File="items-common/MaintenanceAllUpholsterers-C.xml"/>
     <Include File="items-common/ProdAreaUpgradeForestries-C.xml" />
-    <Include File="items-common/ProductivityAllExtractors-C-Boost.xml" />
+    <Include File="items-common/ProductivityAllExtractors-C.xml" />
     
     <Include File="items-common/WarehouseCapacityUpgrade-C.xml"/>
   </Group>
