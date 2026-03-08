@@ -4,7 +4,7 @@
     EVEN NUMBER == DESCRIPTION
   --> 
   
-  <!-- Specialist ProductivityAllExtractors-C-Boost -->
+  <!-- Specialist ProductivityAllExtractors-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -16,11 +16,6 @@
       <Text>
           <Text>Commence à étudier les fondements des éléments naturels. Avec quelques accidents…</Text>
           <LineId>1600000003</LineId> 
-      </Text>
-      <!-- Boost Description -->
-      <Text>
-          <Text>A cruellement besoin d’un maître…</Text>
-          <LineId>1600000004</LineId> 
       </Text>
     </ModOp>
   </Group>
