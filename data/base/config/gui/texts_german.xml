@@ -4,7 +4,7 @@
     EVEN NUMBER == DESCRIPTION
   --> 
 
-  <!-- Specialist ProductivityAllExtractors-C -->
+  <!-- Specialist ProductivityAllExtractors-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -14,13 +14,13 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Beginnt, die Grundlagen der Naturelemente zu studieren. Mit ein paar Unfällen...</Text>
+          <Text>Beherrscht alle Grundlagen der Extraktion.</Text>
           <LineId>1600000003</LineId> 
       </Text>
     </ModOp>
   </Group>
   
-  <!-- Specialist ProdAreaUpgradeForestries-C -->
+  <!-- Specialist AreaUpgradeForestries-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -180,7 +180,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ReplaceInputFineGlassWorks-SiliziaReplaceGlass-E -->
+  <!-- Specialist ReplaceInputFineGlass-SiliziaRGlass-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -196,7 +196,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ReplaceInputNecklaces-SilberReplaceGold-E -->
+  <!-- Specialist ReplaceInputNecklaces-SilberRGold-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -212,7 +212,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AdditionalGoodsExtractors-L-Boost -->
+  <!-- Specialist AdditionalGoodsExtractors-L -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -227,7 +227,7 @@
       </Text>
       <!-- Boost Hint -->
       <Text>
-          <Text>Bereit für einen jungen Lehrling.</Text>
+          <Text>PlaceholderText</Text>
           <LineId>1600000136</LineId> 
       </Text>
     </ModOp>

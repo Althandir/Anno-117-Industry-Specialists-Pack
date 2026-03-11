@@ -1,42 +1,42 @@
 <ModOps>
-<!-- Item Definition GUID:1600000002 - 1600000003 | LineID:1600000002 - 1600000003 -->
+<!-- Item Definition GUID:1600000132 - 1600000133 | LineID:1600000132 - 1600000133 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000002</GUID>
-            <Name>Specialist ProductivityAllExtractors-C</Name>
-            <IconFilename>data/base/graphics/icons/other/junior_alchemist.png</IconFilename>
-            <InfoDescription>1600000003</InfoDescription>
+            <GUID>1600000132</GUID>
+            <Name>Specialist ReplaceInputNecklaces-SilberRGold-E</Name>
+            <IconFilename>data/base/graphics/icons/other/celtic_male_ReplaceInputNecklaces-SilberRGold-E.png</IconFilename>
+            <InfoDescription>1600000133</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000003</GUID>
+                <GUID>1600000133</GUID>
               </Item>
             </Buffs>
-            <Targets> 
+            <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>50607</GUID>
+                <GUID>3192</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>5000</TradePrice>
-            <BarkPool>80242</BarkPool> <!-- <GUID>80242</GUID> -->
-            <Rarity>Common</Rarity> 
+            <TradePrice>60000</TradePrice>
+            <BarkPool>83294</BarkPool> <!-- <GUID>83294</GUID> -->
+            <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000002</OasisId>
+            <OasisId>1600000132</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,25 +51,30 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000003</GUID>
-                    <Name>Specialist ProductivityAllExtractors-C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/junior_alchemist.png</IconFilename>
+                    <GUID>1600000133</GUID>
+                    <Name>Specialist ReplaceInputNecklaces-SilberRGold-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/celtic_male_ReplaceInputNecklaces-SilberRGold-E.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000002</OasisId>
+                    <OasisId>1600000132</OasisId>
                 </Text>
                 <HealthUpgrade/>
-                <BuildingUpgrade/>
+                <BuildingUpgrade>
+                  <AdditionalAttributes>
+                  </AdditionalAttributes>
+                </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
-                  <ProductivityUpgrade>
-                    <Value>10</Value>
-                    <Percental>1</Percental>
-                  </ProductivityUpgrade>
+                  <ReplaceInputs>
+                    <Item>
+                      <OldInput>31698</OldInput>
+                      <NewInput>2129</NewInput>
+                    </Item>
+                  </ReplaceInputs>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>
@@ -82,6 +87,7 @@
             </Values>
         </Asset>
     </ModOp>
+    
   </Group>
 
 </ModOps>

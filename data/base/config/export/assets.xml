@@ -39,8 +39,8 @@
   <Group>
     <Include File="items-common/AreaUpgradePonies-C.xml" />
     <Include File="items-common/MaintenanceAllUpholsterers-C.xml"/>
-    <Include File="items-common/ProdAreaUpgradeForestries-C.xml" />
-    <Include File="items-common/ProductivityAllExtractors-C.xml" />
+    <Include File="items-common/AreaUpgradeForestries-C.xml" />
+    <Include File="items-common/ProductivityAllExtractors-E.xml" />
     
     <Include File="items-common/WarehouseCapacityUpgrade-C.xml"/>
   </Group>
@@ -83,14 +83,14 @@
     <Include File="items-epic/ProductivityAllVictuallers-E.xml" />
     <Include File="items-epic/ProductivityAllWorkshops-E.xml" />
 
-    <Include File="items-epic/ReplaceInputFineGlassWorks-SiliziaReplaceGlass-E.xml" />
-    <Include File="items-epic/ReplaceInputNecklaces-SilberReplaceGold-E.xml" />
+    <Include File="items-epic/ReplaceInputFineGlass-SiliziaRGlass-E.xml" />
+    <Include File="items-epic/ReplaceInputNecklaces-SilberRGold-E.xml" />
 
   </Group>
 
   <!-- Legendary Specialists -->
   <Group>
-    <Include File="items-legendary/AdditionalGoodsExtractors-L-Boost.xml" />
+    <Include File="items-legendary/AdditionalGoodsExtractors-L.xml" />
     <Include File="items-legendary/AdditionalGoodsHoney-L.xml" />
 
     <Include File="items-legendary/CrazyLatiumFisheries-L.xml" />
