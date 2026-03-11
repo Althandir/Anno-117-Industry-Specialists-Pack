@@ -52,21 +52,7 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist WarehouseCapacityUpgrade-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Warehouse Worker</Text>
-          <LineId>1600000033</LineId> <!-- <GUID>1600000033</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Uses some extra hands to organize the goods here and there.</Text>
-          <LineId>1600000034</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
 
   <!-- Specialist AdditionalMineralsAllQuarriesAndMines-E -->
   <Group>
@@ -393,21 +379,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist WarehouseCapacityUpgrade-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Expericened Warehouse Worker</Text>
-          <LineId>1600000212</LineId> <!-- <GUID>1600000212</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>A living catalog for the warehouses.</Text>
-          <LineId>1600000213</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
 
   <!-- Specialist ProductivityAllCookhouses-E -->
   <Group>

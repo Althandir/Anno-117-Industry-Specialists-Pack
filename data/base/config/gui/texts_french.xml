@@ -52,21 +52,7 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist WarehouseCapacityUpgrade-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Ouvrier d’entrepôt</Text>
-          <LineId>1600000033</LineId> <!-- <GUID>1600000033</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Utilise quelques mains supplémentaires pour organiser les marchandises ici et là.</Text>
-          <LineId>1600000034</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
+
 
   <!-- Specialist AdditionalMineralsAllQuarriesAndMines-E -->
   <Group>
@@ -389,22 +375,6 @@
       <Text>
           <Text>"La cuisson améliore le goût, pourquoi cela ne fonctionnerait-il pas pour d'autres choses ?"</Text>
           <LineId>1600000205</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist WarehouseCapacityUpgrade-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Magasinier expérimenté</Text>
-          <LineId>1600000212</LineId> <!-- <GUID>1600000212</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Un catalogue vivant pour les entrepôts.</Text>
-          <LineId>1600000213</LineId> 
       </Text>
     </ModOp>
   </Group>
