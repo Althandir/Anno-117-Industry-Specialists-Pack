@@ -9,7 +9,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Apprenti alchimiste</Text>
+          <Text>Vullius Brixantus, PlaceholderText</Text>
           <LineId>1600000002</LineId> <!-- <GUID>1600000002</GUID> -->
       </Text>
       <!-- Description -->
@@ -217,17 +217,17 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Vullius Brixantus, le maître alchimiste</Text>
+          <Text>PlaceholderText</Text>
           <LineId>1600000134</LineId> <!-- <GUID>1600000134</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Un véritable maître des éléments naturels. Prêt à vous servir.</Text>
+          <Text>PlaceholderText</Text>
           <LineId>1600000135</LineId> 
       </Text>
       <!-- Boost Hint -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>[PH] 30x Extractor on Island</Text>
           <LineId>1600000136</LineId> 
       </Text>
     </ModOp>

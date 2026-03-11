@@ -9,12 +9,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Alchemy Apprentice</Text>
+          <Text>Vullius Brixantus, Trained Extractor</Text>
           <LineId>1600000002</LineId> <!-- <GUID>1600000002</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Knows all the fundamentals of extraction.</Text>
+          <Text>Knows all the fundamentals of the extraction of elements.</Text>
           <LineId>1600000003</LineId> 
       </Text>
     </ModOp>
@@ -217,17 +217,17 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Vullius Brixantus, the Master Alchemist</Text>
+          <Text>PlaceholderText</Text>
           <LineId>1600000134</LineId> <!-- <GUID>1600000134</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>A true master of the natural elements. Ready and at your service.</Text>
+          <Text>PlaceholderText</Text>
           <LineId>1600000135</LineId> 
       </Text>
       <!-- Boost Hint -->
       <Text>
-          <Text>PlaceholderText</Text>
+          <Text>[PH] 30x Extractor on Island</Text>
           <LineId>1600000136</LineId> 
       </Text>
     </ModOp>
