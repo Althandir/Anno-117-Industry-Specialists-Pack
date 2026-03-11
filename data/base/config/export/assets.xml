@@ -77,6 +77,7 @@
     <Include File="items-epic/ProductivityAllArtisans-E.xml" />  
     <Include File="items-epic/ProductivityAllCookhouses-E.xml" />
     <Include File="items-epic/ProductivityAllDressers-E.xml" />
+    <Include File="items-epic/ProductivityAllExtractors-E.xml" />
     <Include File="items-epic/ProductivityAllFisheries-E.xml" />
     <Include File="items-epic/ProductivityAllPitsAndQuarries-E.xml" />
     <Include File="items-epic/ProductivityAllUpholsterers-E.xml" />
