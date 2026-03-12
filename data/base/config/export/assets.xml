@@ -39,8 +39,6 @@
     <Include File="items-common/MaintenanceAllUpholsterers-C.xml"/>
     <Include File="items-common/AreaUpgradeForestries-C.xml" />
     <Include File="items-common/ProductivityAllExtractors-E.xml" />
-    
-    <Include File="items-common/WarehouseCapacityUpgrade-C.xml"/>
   </Group>
 
   <!-- Rare Specialists -->
@@ -54,8 +52,6 @@
     <Include File="items-rare/ProductivityAllPastures-R.xml" />
     <Include File="items-rare/ProductivityAllPlantations-R.xml" />
     <Include File="items-rare/ProductivityByFuelAllFuelConsumers-R.xml" />
-
-    <Include File="items-rare/WarehouseCapacityUpgrade-R.xml" />
   </Group>
 
   <!-- Epic Specialists -->
@@ -98,7 +94,6 @@
 
   <!-- Add to Pools -->
   <Include File="pools.xml" />
-
   
   <!-- Add to Traderpools --> 
   <Include File="pools/Traders/pools-common.xml" />
