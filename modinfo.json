@@ -19,7 +19,7 @@
   "ModName": {
     "English": "Industry Specialists Pack by Althandir / Altdolphin",
     "German": "Industrie Spezialisten Pack von Althandir / Altdolphin",
-    "French": "Pack Spécialistes Étendu par Althandir / Altdolphin",
+    "French": "Pack Spécialistes de l'industrie par Althandir / Altdolphin",
     "Italian": "[EN] Extended Specialists Pack by Althandir / Altdolphin",
     "Polish": "[EN] Extended Specialists Pack by Althandir / Altdolphin",
     "Spanish": "[EN] Extended Specialists Pack by Althandir / Altdolphin",
@@ -30,17 +30,17 @@
     "Russian": "[EN] Extended Specialists Pack by Althandir / Altdolphin"
   },
   "Description": {
-    "English": "Adds new different Specialists to Anno 117.",
-    "German": "Fügt neue verschiedene Spezialisten zu Anno 117 hinzu.",
-    "French": "Ajoute de nouveaux spécialistes à Anno 117.",
-    "Italian": "[EN] Adds new different Specialists to Anno 117.",
-    "Polish": "[EN] Adds new different Specialists to Anno 117.",
-    "Spanish": "[EN] Adds new different Specialists to Anno 117.",
-    "Chinese": "[EN] Adds new different Specialists to Anno 117.",
-    "Japanese": "[EN] Adds new different Specialists to Anno 117.",
-    "Korean": "[EN] Adds new different Specialists to Anno 117.",
-    "Taiwanese": "[EN] Adds new different Specialists to Anno 117.",
-    "Russian": "[EN] Adds new different Specialists to Anno 117."
+    "English": "Adds new Specialists with a focus on Productionbuildings to Anno 117.",
+    "German": "Fügt neue Spezialisten mit Fokus auf Produktionsgebäude zu Anno 117 hinzu.",
+    "French": "Ajoute à Anno 117 de nouveaux spécialistes spécialisés dans les bâtiments de production.",
+    "Italian": "[EN] Adds new Specialists with a focus on Productionbuildings to Anno 117.",
+    "Polish": "[EN] Adds new Specialists with a focus on Productionbuildings to Anno 117.",
+    "Spanish": "[EN] Adds new Specialists with a focus on Productionbuildings to Anno 117.",
+    "Chinese": "[EN] Adds new Specialists with a focus on Productionbuildings to Anno 117.",
+    "Japanese": "[EN] Adds new Specialists with a focus on Productionbuildings to Anno 117.",
+    "Korean": "[EN] Adds new Specialists with a focus on Productionbuildings to Anno 117.",
+    "Taiwanese": "[EN] Adds new Specialists with a focus on Productionbuildings to Anno 117.",
+    "Russian": "[EN] Adds new Specialists with a focus on Productionbuildings to Anno 117."
   },
   "Category": {
     "English": "Gameplay",
