@@ -38,7 +38,6 @@
     <Include File="items-common/AreaUpgradePonies-C.xml" />
     <Include File="items-common/MaintenanceAllUpholsterers-C.xml"/>
     <Include File="items-common/AreaUpgradeForestries-C.xml" />
-    <Include File="items-common/ProductivityAllExtractors-E.xml" />
   </Group>
 
   <!-- Rare Specialists -->
