@@ -7,12 +7,12 @@
         <Values>
           <Standard>
             <GUID>1600000134</GUID>
-            <Name>Specialist AdditionalGoodsExtractors-L-Boost</Name>
-            <IconFilename>data/base/graphics/icons/other/senior_alchemist.png</IconFilename>
+            <Name>Specialist AdditionalGoodsExtractors-L</Name>
+            <IconFilename>data/base/graphics/icons/other/junior_alchemist.png</IconFilename>
             <InfoDescription>1600000135</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>Radius</EffectScope> 
+            <EffectScope>ObjectsInArea</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
@@ -41,25 +41,40 @@
 
           <ItemWithBoost>
             <BoostCondition>
-              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
-              <Values>
-                <PreConditionList>
-                  <Condition>
-                  <Template>ConditionItemUsed</Template>
+            <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+            <Values>
+              <PreConditionList>
+                <Condition>
+                  <Template>ConditionObjectCount</Template>
                   <Values>
                     <Condition/>
-                    <ConditionItemUsed>
-                      <TargetItem>1600000002</TargetItem> <!--<GUID>1600000002</GUID> -->
-                      <ItemAmount>1</ItemAmount>
-                      <ItemCountCalculation>InSameObject</ItemCountCalculation>
-                    </ConditionItemUsed>
-                  <ObjectFilter>
-                    <UseContextObjects>1</UseContextObjects>
-                  </ObjectFilter>
+                    <ConditionObjectCount>
+                      <Amount>30</Amount>
+                    </ConditionObjectCount>
+                    <ObjectFilter>
+                      <ObjectGUID>50607</ObjectGUID>
+                      <ObjectLocations>
+                        <Template>LocationFilter</Template>
+                        <Values>
+                          <LocationFilter>
+                            <ObjectLocations>
+                              <ObjectFilter>
+                                <Template>ObjectFilter</Template>
+                                <Values>
+                                  <ObjectFilter>
+                                    <UseContextObjects>1</UseContextObjects>
+                                  </ObjectFilter>
+                                </Values>
+                              </ObjectFilter>
+                            </ObjectLocations>
+                          </LocationFilter>
+                        </Values>
+                      </ObjectLocations>
+                    </ObjectFilter>
                   </Values>
-                  </Condition>
-                </PreConditionList>
-              </Values>
+                </Condition>
+              </PreConditionList>
+            </Values>
             </BoostCondition>
             <BoostBuffs>
               <Item>
@@ -84,7 +99,7 @@
                 <Standard>
                     <GUID>1600000135</GUID>
                     <Name>Specialist AdditionalGoodsExtractors-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/senior_alchemist.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/junior_alchemist.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000134</OasisId>
@@ -134,7 +149,7 @@
                 <Standard>
                     <GUID>1600000136</GUID>
                     <Name>Specialist AdditionalGoodsExtractors-L BuildingBuff Boosted</Name>
-                    <IconFilename>data/base/graphics/icons/other/senior_alchemist.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/other/junior_alchemist.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000134</OasisId>

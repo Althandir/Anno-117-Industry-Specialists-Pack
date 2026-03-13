@@ -1,42 +1,42 @@
 <ModOps>
-<!-- Item Definition GUID:1600000025 - 1600000026 | LineID:1600000025 - 1600000026 -->
+<!-- Item Definition GUID:1600000002 - 1600000003 | LineID:1600000002 - 1600000003 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000025</GUID>
-            <Name>Specialist ProdAreaUpgradeForestries-C</Name>
-            <IconFilename>data/base/graphics/icons/other/celtic_male_forestries.png</IconFilename>
-            <InfoDescription>1600000026</InfoDescription>
+            <GUID>1600000002</GUID>
+            <Name>Specialist ProductivityAllExtractors-E</Name>
+            <IconFilename>data/base/graphics/icons/other/senior_alchemist.png</IconFilename>
+            <InfoDescription>1600000003</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000026</GUID>
+                <GUID>1600000003</GUID>
               </Item>
             </Buffs>
-            <Targets> <!-- Targets of Buff -->
+            <Targets> 
               <Item>
-                <GUID>50251</GUID>
+                <GUID>50607</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Agriculture</Niche> 
-            <TradePrice>6000</TradePrice>
-            <BarkPool>83294</BarkPool> <!-- <GUID>83294</GUID> -->
-            <Rarity>Common</Rarity> 
+            <Niche>Economy</Niche> 
+            <TradePrice>80000</TradePrice>
+            <BarkPool>80242</BarkPool> <!-- <GUID>80242</GUID> -->
+            <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000025</OasisId>
+            <OasisId>1600000002</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,16 +51,15 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000026</GUID>
-                    <Name>Specialist ProdAreaUpgradeForestries-C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/celtic_male_forestries.png</IconFilename>
+                    <GUID>1600000003</GUID>
+                    <Name>Specialist ProductivityAllExtractors-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/senior_alchemist.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000025</OasisId>
+                    <OasisId>1600000002</OasisId>
                 </Text>
                 <HealthUpgrade/>
-                <BuildingUpgrade>
-                </BuildingUpgrade>
+                <BuildingUpgrade/>
                 <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
@@ -68,13 +67,9 @@
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
                   <ProductivityUpgrade>
-                    <Value>10</Value>
+                    <Value>35</Value>
                     <Percental>1</Percental>
                   </ProductivityUpgrade>
-                  <NeededAreaUpgrade>
-                    <Value>-15</Value>
-                    <Percental>1</Percental>
-                  </NeededAreaUpgrade>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>
@@ -87,7 +82,6 @@
             </Values>
         </Asset>
     </ModOp>
-    
   </Group>
 
 </ModOps>

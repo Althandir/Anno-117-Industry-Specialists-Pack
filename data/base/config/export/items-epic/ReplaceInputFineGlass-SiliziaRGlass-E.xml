@@ -1,48 +1,42 @@
 <ModOps>
-<!-- Item Definition GUID:1600000212 - 1600000213 | LineID:1600000212 - 1600000213 -->
+<!-- Item Definition GUID:1600000130 - 1600000131 | LineID:1600000130 - 1600000131 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000212</GUID>
-            <Name>Specialist WarehouseCapacity R</Name>
-            <IconFilename>data/base/graphics/icons/other/roman_male_WarehouseCapaR.png</IconFilename>
-            <InfoDescription>1600000213</InfoDescription>
+            <GUID>1600000130</GUID>
+            <Name>Specialist ReplaceInputFineGlass-SiliziaRGlass-E</Name>
+            <IconFilename>data/base/graphics/icons/other/celtic_male_ReplaceInputFineGlass-SiliziaRGlass-E.png</IconFilename>
+            <InfoDescription>1600000131</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000213</GUID>
+                <GUID>1600000131</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>38564</GUID>
-              </Item>
-              <Item>
-                <GUID>38552</GUID>
-              </Item>
-              <Item>
-                <GUID>37202</GUID>
+                <GUID>3202</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>21500</TradePrice>
-            <BarkPool>80249</BarkPool> <!-- <GUID>80249</GUID> -->
-            <Rarity>Rare</Rarity> 
+            <TradePrice>60000</TradePrice>
+            <BarkPool>83294</BarkPool> <!-- <GUID>83294</GUID> -->
+            <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000212</OasisId>
+            <OasisId>1600000130</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -57,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000213</GUID>
-                    <Name>Specialist WarehouseCapacity R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/roman_male_WarehouseCapaR.png</IconFilename>
+                    <GUID>1600000131</GUID>
+                    <Name>Specialist ReplaceInputFineGlass-SiliziaRGlass-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/celtic_male_ReplaceInputFineGlass-SiliziaRGlass-E.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000212</OasisId>
+                    <OasisId>1600000130</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -72,25 +66,28 @@
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade/>
-                <FactoryUpgrade/>
+                <FactoryUpgrade>
+                  <AdditionalOutput>
+                    <Item>
+                      <Product>2151</Product>
+                      <AdditionalOutputCycle>10</AdditionalOutputCycle>
+                      <Amount>1</Amount>
+                    </Item>
+                  </AdditionalOutput>
+                  <ReplaceInputs>
+                    <Item>
+                      <OldInput>2117</OldInput>
+                      <NewInput>2091</NewInput>
+                    </Item>
+                  </ReplaceInputs>
+                </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade>
-                  <MaintenanceFactorUpgrade>
-                    <Value>-25</Value>
-                    <Percental>1</Percental>
-                  </MaintenanceFactorUpgrade>
-                  <WorkforceMaintenanceFactorUpgrade>
-                    <Value>-50</Value>
-                    <Percental>1</Percental>
-                  </WorkforceMaintenanceFactorUpgrade>
-                </MaintenanceUpgrade>
+                <MaintenanceUpgrade/>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>
                 <AqueductUpgrade/>
-                <WarehouseUpgrade>
-                  <StorageCapacityModifier>30</StorageCapacityModifier>
-                </WarehouseUpgrade>
+                <WarehouseUpgrade/>
                 <IrrigationUpgrade/>
             </Values>
         </Asset>

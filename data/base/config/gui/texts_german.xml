@@ -4,23 +4,23 @@
     EVEN NUMBER == DESCRIPTION
   --> 
 
-  <!-- Specialist ProductivityAllExtractors-C -->
+  <!-- Specialist ProductivityAllExtractors-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Alchemielehrling</Text>
+          <Text>Vullius Brixantus, Ausgebildeter Extractor</Text>
           <LineId>1600000002</LineId> <!-- <GUID>1600000002</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Beginnt, die Grundlagen der Naturelemente zu studieren. Mit ein paar Unfällen...</Text>
+          <Text>Beherrscht alle Grundlagen der Extraktion der Elemente.</Text>
           <LineId>1600000003</LineId> 
       </Text>
     </ModOp>
   </Group>
   
-  <!-- Specialist ProdAreaUpgradeForestries-C -->
+  <!-- Specialist AreaUpgradeForestries-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -52,21 +52,6 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist WarehouseCapacityUpgrade-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Lagerarbeiter</Text>
-          <LineId>1600000033</LineId> <!-- <GUID>1600000033</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Nutzt ein paar zusätzliche Hände, um die Waren hier und da zu organisieren.</Text>
-          <LineId>1600000034</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
 
   <!-- Specialist AdditionalMineralsAllQuarriesAndMines-E -->
   <Group>
@@ -180,7 +165,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ReplaceInputFineGlassWorks-SiliziaReplaceGlass-E -->
+  <!-- Specialist ReplaceInputFineGlass-SiliziaRGlass-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -196,7 +181,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ReplaceInputNecklaces-SilberReplaceGold-E -->
+  <!-- Specialist ReplaceInputNecklaces-SilberRGold-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -212,22 +197,22 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AdditionalGoodsExtractors-L-Boost -->
+  <!-- Specialist AdditionalGoodsExtractors-L -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Vullius Brixantus, der Meisteralchemist</Text>
+          <Text>PlaceholderText</Text>
           <LineId>1600000134</LineId> <!-- <GUID>1600000134</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Ein wahrer Meister der Naturelemente. Bereit und zu deinen Diensten.</Text>
+          <Text>PlaceholderText</Text>
           <LineId>1600000135</LineId> 
       </Text>
       <!-- Boost Hint -->
       <Text>
-          <Text>Bereit für einen jungen Lehrling.</Text>
+          <Text>[PH] 30x Extractor on Island</Text>
           <LineId>1600000136</LineId> 
       </Text>
     </ModOp>
@@ -389,22 +374,6 @@
       <Text>
           <Text>„Backen lässt es doch besser schmecken, warum sollte das nicht auch bei anderen Dingen funktionieren?“</Text>
           <LineId>1600000205</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist WarehouseCapacityUpgrade-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Erfahrener Lagerarbeiter</Text>
-          <LineId>1600000212</LineId> <!-- <GUID>1600000212</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Ein lebender Katalog für das Warenlager.</Text>
-          <LineId>1600000213</LineId> 
       </Text>
     </ModOp>
   </Group>

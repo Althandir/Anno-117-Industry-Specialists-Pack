@@ -9,7 +9,6 @@
     #   GUID-Ranges:  
     #   1600000002 - 1600000003
     #   1600000025 - 1600000028
-    #   1600000033 - 1600000034 (Warehouse - Common)
     #   1600000106 - 1600000113
     #   1600000118 - 1600000123
     #   1600000130 - 1600000133 (ReplaceInput)
@@ -17,7 +16,6 @@
     #   1600000152 - 1600000155
     #   1600000192 - 1600000195
     #   1600000198 - 1600000205
-    #   1600000212 - 1600000213 (Warehouse - Rare)
     #   1600000248 - 1600000253
     #   1600000270 - 1600000283
     #   1600000319 - 1600000326
@@ -39,10 +37,7 @@
   <Group>
     <Include File="items-common/AreaUpgradePonies-C.xml" />
     <Include File="items-common/MaintenanceAllUpholsterers-C.xml"/>
-    <Include File="items-common/ProdAreaUpgradeForestries-C.xml" />
-    <Include File="items-common/ProductivityAllExtractors-C.xml" />
-    
-    <Include File="items-common/WarehouseCapacityUpgrade-C.xml"/>
+    <Include File="items-common/AreaUpgradeForestries-C.xml" />
   </Group>
 
   <!-- Rare Specialists -->
@@ -56,8 +51,6 @@
     <Include File="items-rare/ProductivityAllPastures-R.xml" />
     <Include File="items-rare/ProductivityAllPlantations-R.xml" />
     <Include File="items-rare/ProductivityByFuelAllFuelConsumers-R.xml" />
-
-    <Include File="items-rare/WarehouseCapacityUpgrade-R.xml" />
   </Group>
 
   <!-- Epic Specialists -->
@@ -77,20 +70,21 @@
     <Include File="items-epic/ProductivityAllArtisans-E.xml" />  
     <Include File="items-epic/ProductivityAllCookhouses-E.xml" />
     <Include File="items-epic/ProductivityAllDressers-E.xml" />
+    <Include File="items-epic/ProductivityAllExtractors-E.xml" />
     <Include File="items-epic/ProductivityAllFisheries-E.xml" />
     <Include File="items-epic/ProductivityAllPitsAndQuarries-E.xml" />
     <Include File="items-epic/ProductivityAllUpholsterers-E.xml" />
     <Include File="items-epic/ProductivityAllVictuallers-E.xml" />
     <Include File="items-epic/ProductivityAllWorkshops-E.xml" />
 
-    <Include File="items-epic/ReplaceInputFineGlassWorks-SiliziaReplaceGlass-E.xml" />
-    <Include File="items-epic/ReplaceInputNecklaces-SilberReplaceGold-E.xml" />
+    <Include File="items-epic/ReplaceInputFineGlass-SiliziaRGlass-E.xml" />
+    <Include File="items-epic/ReplaceInputNecklaces-SilberRGold-E.xml" />
 
   </Group>
 
   <!-- Legendary Specialists -->
   <Group>
-    <Include File="items-legendary/AdditionalGoodsExtractors-L-Boost.xml" />
+    <Include File="items-legendary/AdditionalGoodsExtractors-L.xml" />
     <Include File="items-legendary/AdditionalGoodsHoney-L.xml" />
 
     <Include File="items-legendary/CrazyLatiumFisheries-L.xml" />
@@ -99,7 +93,6 @@
 
   <!-- Add to Pools -->
   <Include File="pools.xml" />
-
   
   <!-- Add to Traderpools --> 
   <Include File="pools/Traders/pools-common.xml" />
