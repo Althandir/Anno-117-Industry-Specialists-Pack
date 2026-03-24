@@ -1,27 +1,27 @@
 <ModOps>
-<!-- Item Definition GUID:1600000428 - 1600000431 | LineID:1600000428 - 1600000429  -->
+<!-- Item Definition GUID:1600000430 - 1600000431 | LineID:1600000430 - 1600000430  -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
             <Values>
             <Standard>
-                <GUID>1600000428</GUID>
-                <Name>Specialist ProdGatherers-E</Name>
+                <GUID>1600000430</GUID>
+                <Name>Specialist ProdRefineries-E</Name>
                 <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
-                <InfoDescription>1600000429</InfoDescription>
+                <InfoDescription>1600000431</InfoDescription>
             </Standard>
             <Effect>
                 <EffectScope>Radius</EffectScope>  
                 <SourceCategory>Item</SourceCategory>
                 <Buffs>
                     <Item>
-                        <GUID>1600000429</GUID>
+                        <GUID>1600000431</GUID>
                     </Item>
                 </Buffs>
                 <Targets> <!-- Targets of Buff -->
                 <Item>
-                    <GUID>50602</GUID>
+                    <GUID>50613</GUID>
                 </Item>
                 </Targets>
                 <HideInGovernorsBar>1</HideInGovernorsBar>
@@ -36,7 +36,7 @@
                 <DefaultLockedState>0</DefaultLockedState>
             </Locked>
             <Text>
-                <OasisId>1600000428</OasisId>
+                <OasisId>1600000430</OasisId>
             </Text>
         </Values>
       </Asset>
@@ -51,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000429</GUID>
-                    <Name>Specialist ProdGatherers-E BuildingBuff</Name>
+                    <GUID>1600000431</GUID>
+                    <Name>Specialist ProdRefineries-E BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000428</OasisId>
+                    <OasisId>1600000430</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade/>
@@ -82,6 +82,5 @@
             </Values>
         </Asset>
     </ModOp>
-    </Group>
 
 </ModOps>

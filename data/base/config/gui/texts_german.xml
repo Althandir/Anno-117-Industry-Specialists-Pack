@@ -602,4 +602,36 @@
     </ModOp>
   </Group>
 
+  <!-- Specialist ProdGatherers-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>PlaceholderText, Vom Glück verfolgter Sammler</Text>
+          <LineId>1600000428</LineId> <!-- <GUID>1600000428</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Hat immer das richtige Händchen beim Sammeln. &#xD;(Industry-Pack)</Text>
+          <LineId>1600000429</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist ProdRefineries-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>PlaceholderText, Materialexperte</Text>
+          <LineId>1600000430</LineId> <!-- <GUID>1600000430</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Stellt dir jedes Material zum Bau deiner Städte zur Verfügung. &#xD;(Industry-Pack)</Text>
+          <LineId>1600000431</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
 </ModOps>

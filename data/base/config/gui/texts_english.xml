@@ -621,4 +621,19 @@
     </ModOp>
   </Group>
 
+  <!-- Specialist ProdRefineries-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>PlaceholderText, PlaceholderText</Text>
+          <LineId>1600000430</LineId> <!-- <GUID>1600000430</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>PlaceholderText &#xD;(Industry-Pack)</Text>
+          <LineId>1600000431</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
 </ModOps>

@@ -19,7 +19,7 @@
     #   1600000248 - 1600000253
     #   1600000270 - 1600000283
     #   1600000319 - 1600000326
-    #
+    #   1600000428 - 1600000431
     #
     #
     #   
@@ -73,6 +73,7 @@
     <Include File="items-epic/ProductivityAllExtractors-E.xml" />
     <Include File="items-epic/ProductivityAllFisheries-E.xml" />
     <Include File="items-epic/ProdGatherers-E.xml" />
+    <Include File="items-epic/ProdRefineries-E.xml" />
     <Include File="items-epic/ProductivityAllPitsAndQuarries-E.xml" />
     <Include File="items-epic/ProductivityAllUpholsterers-E.xml" />
     <Include File="items-epic/ProductivityAllVictuallers-E.xml" />
