@@ -1,42 +1,42 @@
 <ModOps>
-<!-- Item Definition GUID:1600000194 - 1600000195 | LineID:1600000194 - 1600000195 -->
+<!-- Item Definition GUID:1600000025 - 1600000026 | LineID:1600000025 - 1600000026 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000194</GUID>
-            <Name>Specialist MaintenanceAllUpholsterers-C</Name>
-            <IconFilename>data/base/graphics/icons/unchanged/celtic_female_MaintenanceAllUpholsterersC.png</IconFilename>
-            <InfoDescription>1600000195</InfoDescription>
+            <GUID>1600000025</GUID>
+            <Name>Specialist Area-Forestries-C</Name>
+            <IconFilename>data/base/graphics/icons/other/c_m_Area-Forestries-C.png</IconFilename>
+            <InfoDescription>1600000026</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000195</GUID>
+                <GUID>1600000026</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>51929</GUID>
+                <GUID>50251</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Economy</Niche> 
-            <TradePrice>5000</TradePrice>
-            <BarkPool>83365</BarkPool> <!-- <GUID>83365</GUID> -->
+            <Niche>Agriculture</Niche> 
+            <TradePrice>6000</TradePrice>
+            <BarkPool>83294</BarkPool> <!-- <GUID>83294</GUID> -->
             <Rarity>Common</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000194</OasisId>
+            <OasisId>1600000025</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000195</GUID>
-                    <Name>Specialist MaintenanceAllUpholsterers-C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/unchanged/celtic_female_MaintenanceAllUpholsterersC.png</IconFilename>
+                    <GUID>1600000026</GUID>
+                    <Name>Specialist Area-Forestries-C BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/c_m_Area-Forestries-C.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000194</OasisId>
+                    <OasisId>1600000025</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -66,18 +66,18 @@
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <ResidenceUpgrade/>
-                <FactoryUpgrade/>
+                <FactoryUpgrade>
+                  <ProductivityUpgrade>
+                    <Value>0</Value>
+                    <Percental>1</Percental>
+                  </ProductivityUpgrade>
+                  <NeededAreaUpgrade>
+                    <Value>-15</Value>
+                    <Percental>1</Percental>
+                  </NeededAreaUpgrade>
+                </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade>
-                  <MaintenanceFactorUpgrade>
-                    <Value>-50</Value>
-                    <Percental>1</Percental>
-                  </MaintenanceFactorUpgrade>
-                  <WorkforceMaintenanceFactorUpgrade>
-                    <Value>-25</Value>
-                    <Percental>1</Percental>
-                  </WorkforceMaintenanceFactorUpgrade>
-                </MaintenanceUpgrade>
+                <MaintenanceUpgrade/>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>

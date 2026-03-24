@@ -35,9 +35,9 @@
   
   <!-- Common Specialists -->
   <Group>
-    <Include File="items-common/AreaUpgradePonies-C.xml" />
-    <Include File="items-common/MaintenanceAllUpholsterers-C.xml"/>
-    <Include File="items-common/AreaUpgradeForestries-C.xml" />
+    <Include File="items-common/Area-Forest-Ponies-C.xml" />
+    <Include File="items-common/Upkeep-Upholsterer-C.xml"/>
+    <Include File="items-common/Area-Forestries-C.xml" />
   </Group>
 
   <!-- Rare Specialists -->

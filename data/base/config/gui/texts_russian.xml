@@ -20,7 +20,7 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist AreaUpgradeForestries-C -->
+  <!-- Specialist Area-Forestries-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -36,7 +36,7 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist AreaUpgradePonies-C -->
+  <!-- Specialist Area-Forest-Ponies-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -313,7 +313,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist MaintenanceAllUpholsterers-C -->
+  <!-- Specialist Upkeep-Upholsterer-C -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->

@@ -9,8 +9,8 @@
         <Values>
           <Standard>
             <GUID>1600000027</GUID>
-            <Name>Specialist AreaUpgradePonies-C</Name>
-            <IconFilename>data/base/graphics/icons/other/celtic_female_AreaUpgradePoniesC.png</IconFilename>
+            <Name>Specialist Area-Forest-Ponies-C</Name>
+            <IconFilename>data/base/graphics/icons/other/c_f_Area-Forest-Ponies-C.png</IconFilename>
             <InfoDescription>1600000028</InfoDescription>
           </Standard>
           <Effect>
@@ -54,8 +54,8 @@
             <Values>
                 <Standard>
                     <GUID>1600000028</GUID>
-                    <Name>Specialist AreaUpgradePonies-C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/celtic_female_AreaUpgradePoniesC.png</IconFilename>
+                    <Name>Specialist Area-Forest-Ponies-C BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/c_f_Area-Forest-Ponies-C.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000027</OasisId>
@@ -68,6 +68,10 @@
                 </Buff>
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
+                  <NeededAreaUpgrade>
+                    <Value>-10</Value>
+                    <Percental>1</Percental>
+                  </NeededAreaUpgrade>
                   <CanUseForest>1</CanUseForest>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
