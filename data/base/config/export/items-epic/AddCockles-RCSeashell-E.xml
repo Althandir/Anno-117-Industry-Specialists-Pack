@@ -1,33 +1,33 @@
 <ModOps>
-<!-- Item Definition GUID:1600000280 - 1600000281 | LineID:1600000280 - 1600000281 -->
+<!-- Item Definition GUID:1600000278 - 1600000279 | LineID:1600000278 - 1600000279 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000280</GUID>
-            <Name>Specialist AdditionalCopperAllMines-E</Name>
-            <IconFilename>data/base/graphics/icons/other/celtic_male_AdditionalCopperAllMines-E.png</IconFilename>
-            <InfoDescription>1600000281</InfoDescription>
+            <GUID>1600000278</GUID>
+            <Name>Specialist AddCockles-RCSeashell-E</Name>
+            <IconFilename>data/base/graphics/icons/other/m_AddCockles-RCSeashell-E.png</IconFilename>
+            <InfoDescription>1600000279</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000281</GUID>
+                <GUID>1600000279</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>50225</GUID>
+                <GUID>8431</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Economy</Niche> 
+            <Niche>Nautics</Niche> 
             <TradePrice>82000</TradePrice>
             <BarkPool>80248</BarkPool> <!-- <GUID>80248</GUID> -->
             <Rarity>Epic</Rarity> 
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000280</OasisId>
+            <OasisId>1600000278</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000281</GUID>
-                    <Name>Specialist AdditionalCopperAllMines-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/celtic_male_AdditionalCopperAllMines-E.png</IconFilename>
+                    <GUID>1600000279</GUID>
+                    <Name>Specialist AddCockles-RCSeashell-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/m_AddCockles-RCSeashell-E.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000280</OasisId>
+                    <OasisId>1600000278</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -73,7 +73,7 @@
                   </ProductivityUpgrade>
                   <AdditionalOutput>
                     <Item>
-                      <Product>2099</Product>
+                      <Product>2097</Product>
                       <AdditionalOutputCycle>1</AdditionalOutputCycle>
                       <Amount>1</Amount>
                     </Item>
@@ -82,11 +82,11 @@
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>200</Value>
+                    <Value>50</Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>200</Value>
+                    <Value>50</Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>

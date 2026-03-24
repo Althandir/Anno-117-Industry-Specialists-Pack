@@ -1,42 +1,42 @@
 <ModOps>
-<!-- Item Definition GUID:1600000319 - 1600000320 | LineID:1600000319 - 1600000320 -->
+<!-- Item Definition GUID:1600000204 - 1600000205 | LineID:1600000204 - 1600000205 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000319</GUID>
-            <Name>Specialist AdditionalMarbleAllQuarries-E</Name>
-            <IconFilename>data/base/graphics/icons/other/roman_female_AdditionalMarbleAllQuarries-E.png</IconFilename>
-            <InfoDescription>1600000320</InfoDescription>
+            <GUID>1600000204</GUID>
+            <Name>Specialist Prod-NFuel-FuelConsumer-R</Name>
+            <IconFilename>data/base/graphics/icons/other/celtic_male_ProdByFuelR.png</IconFilename>
+            <InfoDescription>1600000205</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000320</GUID>
+                <GUID>1600000205</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>50608</GUID>
+                <GUID>71197</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>82000</TradePrice>
-            <BarkPool>83337</BarkPool> <!-- <GUID>83337</GUID> -->
-            <Rarity>Epic</Rarity> 
+            <TradePrice>21250</TradePrice>
+            <BarkPool>80246</BarkPool> <!-- <GUID>80246</GUID> -->
+            <Rarity>Rare</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000319</OasisId>
+            <OasisId>1600000204</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,15 +51,23 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000320</GUID>
-                    <Name>Specialist AdditionalMarbleAllQuarries-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/roman_female_AdditionalMarbleAllQuarries-E.png</IconFilename>
+                    <GUID>1600000205</GUID>
+                    <Name>Specialist Prod-NFuel-FuelConsumer-R BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/celtic_male_ProdByFuelR.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000319</OasisId>
+                    <OasisId>1600000204</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
+                  <AdditionalAttributes>
+                    <FireSafety>
+                      <AmountOrPercent>
+                        <Value>-5</Value>
+                        <Percental>0</Percental>
+                      </AmountOrPercent>
+                    </FireSafety>
+                  </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
@@ -68,28 +76,13 @@
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
                   <ProductivityUpgrade>
-                    <Value>0</Value>
+                    <Value>30</Value>
                     <Percental>1</Percental>
-                  </ProductivityUpgrade>
-                  <AdditionalOutput>
-                    <Item>
-                      <Product>2084</Product>
-                      <AdditionalOutputCycle>1</AdditionalOutputCycle>
-                      <Amount>1</Amount>
-                    </Item>
-                  </AdditionalOutput>
+			            </ProductivityUpgrade>
+                  <FuelDurationPercent>-30</FuelDurationPercent>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade>
-                  <WorkforceMaintenanceFactorUpgrade>
-                    <Value>200</Value>
-                    <Percental>1</Percental>
-                  </WorkforceMaintenanceFactorUpgrade>
-                  <MaintenanceFactorUpgrade>
-                    <Value>200</Value>
-                    <Percental>1</Percental>
-                  </MaintenanceFactorUpgrade>
-                </MaintenanceUpgrade>
+                <MaintenanceUpgrade/>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>

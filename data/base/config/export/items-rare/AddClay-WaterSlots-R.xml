@@ -7,8 +7,8 @@
         <Values>
           <Standard>
             <GUID>1600000192</GUID>
-            <Name>Specialist AdditionalClayWaterSlots-R</Name>
-            <IconFilename>data/base/graphics/icons/other/roman_male_ClayWaterSlots.png</IconFilename>
+            <Name>Specialist AddClay-WaterSlots-R</Name>
+            <IconFilename>data/base/graphics/icons/other/r_m_AddClay-WaterSlots-R.png</IconFilename>
             <InfoDescription>1600000193</InfoDescription>
           </Standard>
           <Effect>
@@ -64,8 +64,8 @@
             <Values>
                 <Standard>
                     <GUID>1600000193</GUID>
-                    <Name>Specialist AdditionalClayWaterSlots-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/roman_male_ClayWaterSlots.png</IconFilename>
+                    <Name>Specialist AddClay-WaterSlots-R BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/r_m_AddClay-WaterSlots-R.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000192</OasisId>

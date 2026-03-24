@@ -4,7 +4,7 @@
     EVEN NUMBER == DESCRIPTION
   --> 
   
-  <!-- Specialist ProductivityAllExtractors-E -->
+  <!-- Specialist Prod-Extractors-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -52,7 +52,7 @@
     </ModOp>
   </Group>
   
-  <!-- Specialist AdditionalMineralsAllQuarriesAndMines-E -->
+  <!-- Specialist AddMineral-QuarriesMines-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -148,7 +148,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AdditionalSilverAllMines-E -->
+  <!-- Specialist AddSilver-Mines-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -164,7 +164,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ReplaceInputFineGlass-SiliziaRGlass-E -->
+  <!-- Specialist ReInput-FGlass-SiliziaRGlass-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -180,7 +180,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ReplaceInputNecklaces-SilberRGold-E -->
+  <!-- Specialist ReInput-Neck-SilberRGold-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -281,7 +281,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AdditionalClayWaterSlots-R -->
+  <!-- Specialist AddClay-WaterSlots-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -345,7 +345,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ProductivityAllCoastalProductions-R -->
+  <!-- Specialist Prod-Coastal-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -361,7 +361,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ProductivityByFuelAllFuelConsumers-R -->
+  <!-- Specialist Prod-NFuel-FuelConsumer-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -491,7 +491,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AdditionalCocklesRomanCelticSeashell-E -->
+  <!-- Specialist AddCockles-RCSeashell-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -507,7 +507,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AdditionalCopperAllMines-E -->
+  <!-- Specialist AddCopper-Mines-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -523,7 +523,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AdditionalTinAllMines-E -->
+  <!-- Specialist AddTin-Mines-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -539,7 +539,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AdditionalMarbleAllQuarries-E -->
+  <!-- Specialist AddMarble-Quarries-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -571,7 +571,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ProductivityAllPitsAndQuarries-E -->
+  <!-- Specialist Prod-PitsQuarries-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -603,7 +603,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ProdGatherers-E -->
+  <!-- Specialist Prod-Gatherers-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -619,7 +619,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ProdRefineries-E -->
+  <!-- Specialist Prod-Refineries-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->

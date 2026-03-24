@@ -1,42 +1,42 @@
 <ModOps>
-<!-- Item Definition GUID:1600000282 - 1600000283 | LineID:1600000282 - 1600000283 -->
+<!-- Item Definition GUID:1600000130 - 1600000131 | LineID:1600000130 - 1600000131 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000282</GUID>
-            <Name>Specialist AdditionalTinAllMines-E</Name>
-            <IconFilename>data/base/graphics/icons/other/celtic_male_AdditionalTinAllMines-E.png</IconFilename>
-            <InfoDescription>1600000283</InfoDescription>
+            <GUID>1600000130</GUID>
+            <Name>Specialist ReInput-FGlass-SiliziaRGlass-E</Name>
+            <IconFilename>data/base/graphics/icons/other/c_m_ReInput-FGlass-SiliziaRGlass-E.png</IconFilename>
+            <InfoDescription>1600000131</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000283</GUID>
+                <GUID>1600000131</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>50225</GUID>
+                <GUID>3202</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>82000</TradePrice>
-            <BarkPool>80248</BarkPool> <!-- <GUID>80248</GUID> -->
+            <TradePrice>60000</TradePrice>
+            <BarkPool>83294</BarkPool> <!-- <GUID>83294</GUID> -->
             <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000282</OasisId>
+            <OasisId>1600000130</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000283</GUID>
-                    <Name>Specialist AdditionalTinAllMines-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/celtic_male_AdditionalTinAllMines-E.png</IconFilename>
+                    <GUID>1600000131</GUID>
+                    <Name>Specialist ReInput-FGlass-SiliziaRGlass-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/c_m_ReInput-FGlass-SiliziaRGlass-E.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000282</OasisId>
+                    <OasisId>1600000130</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -67,29 +67,22 @@
                 </Buff>
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
-                  <ProductivityUpgrade>
-                    <Value>0</Value>
-                    <Percental>1</Percental>
-                  </ProductivityUpgrade>
                   <AdditionalOutput>
                     <Item>
-                      <Product>2100</Product>
-                      <AdditionalOutputCycle>1</AdditionalOutputCycle>
+                      <Product>2151</Product>
+                      <AdditionalOutputCycle>10</AdditionalOutputCycle>
                       <Amount>1</Amount>
                     </Item>
                   </AdditionalOutput>
+                  <ReplaceInputs>
+                    <Item>
+                      <OldInput>2117</OldInput>
+                      <NewInput>2091</NewInput>
+                    </Item>
+                  </ReplaceInputs>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade>
-                  <WorkforceMaintenanceFactorUpgrade>
-                    <Value>200</Value>
-                    <Percental>1</Percental>
-                  </WorkforceMaintenanceFactorUpgrade>
-                  <MaintenanceFactorUpgrade>
-                    <Value>200</Value>
-                    <Percental>1</Percental>
-                  </MaintenanceFactorUpgrade>
-                </MaintenanceUpgrade>
+                <MaintenanceUpgrade/>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>

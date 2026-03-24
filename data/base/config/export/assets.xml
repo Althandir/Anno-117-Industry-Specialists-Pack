@@ -42,25 +42,25 @@
 
   <!-- Rare Specialists -->
   <Group>
-    <Include File="items-rare/AdditionalClayWaterSlots-R.xml"/>
+    <Include File="items-rare/AddClay-WaterSlots-R.xml"/>
     <Include File="items-rare/ModuleUpgradeReed-R.xml" />
     <Include File="items-rare/AddSame-Area-HuntersEels-R.xml" />
-    <Include File="items-rare/ProductivityAllCoastalProductions-R.xml" />
+    <Include File="items-rare/Prod-Coastal-R.xml" />
     <Include File="items-rare/ProductivityAllFarms-R.xml" />
     <Include File="items-rare/ProductivityAllForestries-R.xml" />
     <Include File="items-rare/ProductivityAllPastures-R.xml" />
     <Include File="items-rare/ProductivityAllPlantations-R.xml" />
-    <Include File="items-rare/ProductivityByFuelAllFuelConsumers-R.xml" />
+    <Include File="items-rare/Prod-NFuel-FuelConsumer-R.xml" />
   </Group>
 
   <!-- Epic Specialists -->
   <Group>
-    <Include File="items-epic/AdditionalCocklesRomanCelticSeashell-E.xml" />
-    <Include File="items-epic/AdditionalCopperAllMines-E.xml" />
-    <Include File="items-epic/AdditionalMarbleAllQuarries-E.xml" />
-    <Include File="items-epic/AdditionalMineralsAllQuarriesAndMines-E.xml" />
-    <Include File="items-epic/AdditionalTinAllMines-E.xml" />
-    <Include File="items-epic/AdditionalSilverAllMines-E.xml" />
+    <Include File="items-epic/AddCockles-RCSeashell-E.xml" />
+    <Include File="items-epic/AddCopper-Mines-E.xml" />
+    <Include File="items-epic/AddMarble-Quarries-E.xml" />
+    <Include File="items-epic/AddMineral-QuarriesMines-E.xml" />
+    <Include File="items-epic/AddTin-Mines-E.xml" />
+    <Include File="items-epic/AddSilver-Mines-E.xml" />
 
     <Include File="items-epic/AddSame-Area-HuntersEels-E.xml" />
 
@@ -72,17 +72,17 @@
     <Include File="items-epic/ProductivityAllArtisans-E.xml" />  
     <Include File="items-epic/ProductivityAllCookhouses-E.xml" />
     <Include File="items-epic/ProductivityAllDressers-E.xml" />
-    <Include File="items-epic/ProductivityAllExtractors-E.xml" />
+    <Include File="items-epic/Prod-Extractors-E.xml" />
     <Include File="items-epic/ProductivityAllFisheries-E.xml" />
-    <Include File="items-epic/ProdGatherers-E.xml" />
-    <Include File="items-epic/ProdRefineries-E.xml" />
-    <Include File="items-epic/ProductivityAllPitsAndQuarries-E.xml" />
+    <Include File="items-epic/Prod-Gatherers-E.xml" />
+    <Include File="items-epic/Prod-Refineries-E.xml" />
+    <Include File="items-epic/Prod-PitsQuarries-E.xml" />
     <Include File="items-epic/ProductivityAllUpholsterers-E.xml" />
     <Include File="items-epic/ProductivityAllVictuallers-E.xml" />
     <Include File="items-epic/ProductivityAllWorkshops-E.xml" />
 
-    <Include File="items-epic/ReplaceInputFineGlass-SiliziaRGlass-E.xml" />
-    <Include File="items-epic/ReplaceInputNecklaces-SilberRGold-E.xml" />
+    <Include File="items-epic/ReInput-FGlass-SiliziaRGlass-E.xml" />
+    <Include File="items-epic/ReInput-Neck-SilberRGold-E.xml" />
 
   </Group>
 

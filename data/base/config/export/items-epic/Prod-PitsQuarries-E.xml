@@ -7,8 +7,8 @@
         <Values>
           <Standard>
             <GUID>1600000323</GUID>
-            <Name>Specialist ProductivityAllPitsAndQuarries-E</Name>
-            <IconFilename>data/base/graphics/icons/other/roman_female_ProductivityAllPitsAndQuarries-E.png</IconFilename>
+            <Name>Specialist Prod-PitsQuarries-E</Name>
+            <IconFilename>data/base/graphics/icons/other/r_f_Prod-PitsQuarries-E.png</IconFilename>
             <InfoDescription>1600000324</InfoDescription>
           </Standard>
           <Effect>
@@ -54,8 +54,8 @@
             <Values>
               <Standard>
                   <GUID>1600000324</GUID>
-                  <Name>Specialist ProductivityAllPitsAndQuarries-E BuildingBuff</Name>
-                  <IconFilename>data/base/graphics/icons/other/roman_female_ProductivityAllPitsAndQuarries-E.png</IconFilename>
+                  <Name>Specialist Prod-PitsQuarries-E BuildingBuff</Name>
+                  <IconFilename>data/base/graphics/icons/other/r_f_Prod-PitsQuarries-E.png</IconFilename>
               </Standard>
               <HealthUpgrade/>
               <Text>
