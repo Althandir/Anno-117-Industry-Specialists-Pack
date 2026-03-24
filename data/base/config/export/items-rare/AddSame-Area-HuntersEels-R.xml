@@ -7,7 +7,7 @@
         <Values>
           <Standard>
             <GUID>1600000200</GUID>
-            <Name>Specialist ProdAreaUpgradeHuntersAndEels-R</Name>
+            <Name>Specialist AddSame-Area-HuntersEels-R</Name>
             <IconFilename>data/base/graphics/icons/other/female_ProdAreaUpgradeHunterAndEelsR.png</IconFilename>
             <InfoDescription>1600000201</InfoDescription>
           </Standard>
@@ -55,7 +55,7 @@
             <Values>
                 <Standard>
                     <GUID>1600000201</GUID>
-                    <Name>Specialist ProdAreaUpgradeHuntersAndEels-R BuildingBuff</Name>
+                    <Name>Specialist AddSame-Area-HuntersEels-R BuildingBuff</Name>
                     <IconFilename>data/base/graphics/icons/other/female_ProdAreaUpgradeHunterAndEelsR.png</IconFilename>
                 </Standard>
                 <Text>
@@ -70,12 +70,15 @@
                 </Buff>
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
-                  <ProductivityUpgrade>
-                    <Value>20</Value>
-                    <Percental>1</Percental>
-			            </ProductivityUpgrade>
+                  <AdditionalOutput>
+                    <Item>
+                      <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
+                      <AdditionalOutputCycle>10</AdditionalOutputCycle>
+                      <Amount>1</Amount>
+                    </Item>
+                  </AdditionalOutput>
                   <NeededAreaUpgrade>
-                    <Value>-30</Value>
+                    <Value>-20</Value>
                     <Percental>1</Percental>
                   </NeededAreaUpgrade>
                 </FactoryUpgrade>

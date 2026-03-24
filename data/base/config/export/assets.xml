@@ -44,7 +44,7 @@
   <Group>
     <Include File="items-rare/AdditionalClayWaterSlots-R.xml"/>
     <Include File="items-rare/ModuleUpgradeReed-R.xml" />
-    <Include File="items-rare/ProdAreaUpgradeHuntersAndEels-R.xml" />
+    <Include File="items-rare/AddSame-Area-HuntersEels-R.xml" />
     <Include File="items-rare/ProductivityAllCoastalProductions-R.xml" />
     <Include File="items-rare/ProductivityAllFarms-R.xml" />
     <Include File="items-rare/ProductivityAllForestries-R.xml" />
@@ -61,6 +61,8 @@
     <Include File="items-epic/AdditionalMineralsAllQuarriesAndMines-E.xml" />
     <Include File="items-epic/AdditionalTinAllMines-E.xml" />
     <Include File="items-epic/AdditionalSilverAllMines-E.xml" />
+
+    <Include File="items-epic/AddSame-Area-HuntersEels-E.xml" />
 
     <Include File="items-epic/ModuleUpgradeAllFarms-E.xml" />
     <Include File="items-epic/ModuleUpgradeAllPlantations-E.xml" />
@@ -90,11 +92,12 @@
     <Include File="items-legendary/AdditionalGoodsHoney-L.xml" />
 
     <Include File="items-legendary/CrazyLatiumFisheries-L.xml" />
-    <Include File="items-legendary/ProdAreaUpgradeHuntersAndEels-L.xml" />
+
   </Group>
 
   <!-- Add to Pools -->
-  <Include File="pools.xml" />
+  <Include File="pools/AssetList/AssetListPool.xml" />
+  <Include File="pools/RewardPool/AllItems&Specialists.xml" />
   
   <!-- Add to Traderpools --> 
   <Include File="pools/Traders/pools-common.xml" />

@@ -52,8 +52,6 @@
     </ModOp>
   </Group>
   
-
-
   <!-- Specialist AdditionalMineralsAllQuarriesAndMines-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -267,7 +265,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ProdAreaUpgradeHuntersAndEels-L -->
+  <!-- Specialist AddSame-Area-HuntersEels-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -331,7 +329,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ProdAreaUpgradeHuntersAndEels-R -->
+  <!-- Specialist AddSame-Area-HuntersEels-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->

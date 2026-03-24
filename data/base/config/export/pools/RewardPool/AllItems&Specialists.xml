@@ -3,10 +3,7 @@
 <!-- RewardList All Items & Specialists Items-->
 <Group>
     <ModOp Type="add" GUID="43037,82598" Path="/Values/RewardPool/ItemsPool">
-    <!-- Common -->
-        <Item>
-            <ItemLink>1600000002</ItemLink>
-        </Item>
+        <!-- Common -->
         <Item>
             <ItemLink>1600000025</ItemLink>
         </Item>
@@ -48,6 +45,9 @@
 
         <!-- Epic -->
         <Item>
+            <ItemLink>1600000002</ItemLink>
+        </Item>
+        <Item>
             <ItemLink>1600000282</ItemLink>
         </Item>
         <Item>
@@ -81,6 +81,9 @@
             <ItemLink>1600000139</ItemLink>
         </Item>
         <Item>
+            <ItemLink>1600000154</ItemLink>
+        </Item>
+        <Item>
             <ItemLink>1600000248</ItemLink>
         </Item>
         <Item>
@@ -111,9 +114,6 @@
         <!-- Legendary -->
         <Item>
             <ItemLink>1600000152</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>1600000154</ItemLink>
         </Item>
         <Item>
             <ItemLink>1600000137</ItemLink>

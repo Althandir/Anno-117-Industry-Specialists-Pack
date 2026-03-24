@@ -7,12 +7,12 @@
         <Values>
           <Standard>
             <GUID>1600000154</GUID>
-            <Name>Specialist ProdAreaUpgrade HuntersAndEels L</Name>
-            <IconFilename>data/base/graphics/icons/other/male_HunterL.png</IconFilename>
+            <Name>Specialist AddSame-Area-HuntersEels-E</Name>
+            <IconFilename>data/base/graphics/icons/other/m_Hunter-E.png</IconFilename>
             <InfoDescription>1600000155</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>ObjectsInArea</EffectScope> 
+            <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
@@ -31,9 +31,9 @@
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>650000</TradePrice>
+            <TradePrice>80000</TradePrice>
             <BarkPool>80249</BarkPool> <!-- <GUID>80249</GUID> -->
-            <Rarity>Legendary</Rarity> 
+            <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
@@ -55,8 +55,8 @@
             <Values>
                 <Standard>
                     <GUID>1600000155</GUID>
-                    <Name>Specialist ProdAreaUpgrade HuntersAndEels L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/male_HunterL.png</IconFilename>
+                    <Name>Specialist AddSame-Area-HuntersEels-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/m_Hunter-E.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000154</OasisId>
@@ -73,8 +73,8 @@
                   <AdditionalOutput>
                     <Item>
                       <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                      <AdditionalOutputCycle>4</AdditionalOutputCycle>
-                      <Amount>2</Amount>
+                      <AdditionalOutputCycle>5</AdditionalOutputCycle>
+                      <Amount>1</Amount>
                     </Item>
                   </AdditionalOutput>
                   <NeededAreaUpgrade>
