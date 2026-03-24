@@ -1,86 +1,87 @@
 <ModOps>
 <!-- Item Definition GUID:1600000430 - 1600000431 | LineID:1600000430 - 1600000430  -->
-  <Group>
-    <ModOp Type="addNextSibling" GUID="106410">
-      <Asset>
-        <Template>Item</Template>
-            <Values>
-            <Standard>
-                <GUID>1600000430</GUID>
-                <Name>Specialist Prod-Refineries-E</Name>
-                <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
-                <InfoDescription>1600000431</InfoDescription>
-            </Standard>
-            <Effect>
-                <EffectScope>Radius</EffectScope>  
-                <SourceCategory>Item</SourceCategory>
-                <Buffs>
-                    <Item>
-                        <GUID>1600000431</GUID>
-                    </Item>
-                </Buffs>
-                <Targets> <!-- Targets of Buff -->
-                <Item>
-                    <GUID>50613</GUID>
-                </Item>
-                </Targets>
-                <HideInGovernorsBar>1</HideInGovernorsBar>
-            </Effect>
-            <Item>
-                <Niche>Economy</Niche>  
-                <TradePrice>80000</TradePrice> 
-                <BarkPool>83296</BarkPool> <!-- <GUID>83296</GUID> -->
-                <Rarity>Epic</Rarity> 
-            </Item>
-            <Locked>
-                <DefaultLockedState>0</DefaultLockedState>
-            </Locked>
-            <Text>
-                <OasisId>1600000430</OasisId>
-            </Text>
-        </Values>
-      </Asset>
-    </ModOp>
-  </Group>
-
-  <!-- Buff Definitions-->
-  <Group>
-    <!-- Buff Definition -->
-    <ModOp Type="addNextSibling" GUID="80193">
+    <Group>
+        <ModOp Type="addNextSibling" GUID="106410">
         <Asset>
-            <Template>BuildingBuff</Template>
-            <Values>
+            <Template>Item</Template>
+                <Values>
                 <Standard>
-                    <GUID>1600000431</GUID>
-                    <Name>Specialist Prod-Refineries-E BuildingBuff</Name>
+                    <GUID>1600000430</GUID>
+                    <Name>Specialist Prod-Refineries-E</Name>
                     <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    <InfoDescription>1600000431</InfoDescription>
                 </Standard>
+                <Effect>
+                    <EffectScope>Radius</EffectScope>  
+                    <SourceCategory>Item</SourceCategory>
+                    <Buffs>
+                        <Item>
+                            <GUID>1600000431</GUID>
+                        </Item>
+                    </Buffs>
+                    <Targets> <!-- Targets of Buff -->
+                    <Item>
+                        <GUID>50613</GUID>
+                    </Item>
+                    </Targets>
+                    <HideInGovernorsBar>1</HideInGovernorsBar>
+                </Effect>
+                <Item>
+                    <Niche>Economy</Niche>  
+                    <TradePrice>80000</TradePrice> 
+                    <BarkPool>83296</BarkPool> <!-- <GUID>83296</GUID> -->
+                    <Rarity>Epic</Rarity> 
+                </Item>
+                <Locked>
+                    <DefaultLockedState>0</DefaultLockedState>
+                </Locked>
                 <Text>
                     <OasisId>1600000430</OasisId>
                 </Text>
-                <HealthUpgrade/>
-                <BuildingUpgrade/>
-                <DistributionUpgrade/>
-                <Buff>
-                    <SourceCategory>Item</SourceCategory>
-                </Buff>
-                <ResidenceUpgrade/>
-                <FactoryUpgrade>
-                    <ProductivityUpgrade>
-                        <Value>35</Value>
-                        <Percental>1</Percental>
-                    </ProductivityUpgrade>
-                </FactoryUpgrade>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
-    </ModOp>
+        </ModOp>
+    </Group>
+
+  <!-- Buff Definitions-->
+    <Group>
+        <!-- Buff Definition -->
+        <ModOp Type="addNextSibling" GUID="80193">
+            <Asset>
+                <Template>BuildingBuff</Template>
+                <Values>
+                    <Standard>
+                        <GUID>1600000431</GUID>
+                        <Name>Specialist Prod-Refineries-E BuildingBuff</Name>
+                        <IconFilename>data/base/graphics/icons/_Placeholder.jpeg</IconFilename>
+                    </Standard>
+                    <Text>
+                        <OasisId>1600000430</OasisId>
+                    </Text>
+                    <HealthUpgrade/>
+                    <BuildingUpgrade/>
+                    <DistributionUpgrade/>
+                    <Buff>
+                        <SourceCategory>Item</SourceCategory>
+                    </Buff>
+                    <ResidenceUpgrade/>
+                    <FactoryUpgrade>
+                        <ProductivityUpgrade>
+                            <Value>35</Value>
+                            <Percental>1</Percental>
+                        </ProductivityUpgrade>
+                    </FactoryUpgrade>
+                    <ModuleOwnerUpgrade/>
+                    <MaintenanceUpgrade/>
+                    <CityInstitutionUpgrade/>
+                    <IncidentInfectableUpgrade/>
+                    <RecruitmentUpgrade/>
+                    <AqueductUpgrade/>
+                    <WarehouseUpgrade/>
+                    <IrrigationUpgrade/>
+                </Values>
+            </Asset>
+        </ModOp>
+    </Group>
 
 </ModOps>
