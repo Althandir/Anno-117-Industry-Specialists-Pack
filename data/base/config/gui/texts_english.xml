@@ -605,4 +605,20 @@
     </ModOp>
   </Group>
 
+  <!-- Specialist ProdGatherers-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>PlaceholderText, PlaceholderText</Text>
+          <LineId>1600000428</LineId> <!-- <GUID>1600000428</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>PlaceholderText &#xD;(Industry-Pack)</Text>
+          <LineId>1600000429</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
 </ModOps>
