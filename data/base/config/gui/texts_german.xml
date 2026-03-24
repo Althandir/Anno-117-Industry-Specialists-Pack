@@ -271,7 +271,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Silvius Vercannos, Legendärer Jäger</Text>
+          <Text>Silvius Vercannos, Erfahrener Jäger</Text>
           <LineId>1600000154</LineId> <!-- <GUID>1600000154</GUID> -->
       </Text>
       <!-- Description -->
