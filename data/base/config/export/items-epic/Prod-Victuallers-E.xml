@@ -1,42 +1,42 @@
 <ModOps>
-<!-- Item Definition GUID:1600000108 - 1600000109 | LineID:1600000108 - 1600000109 -->
+<!-- Item Definition GUID:1600000120 - 1600000121 | LineID:1600000120 - 1600000121 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000108</GUID>
-            <Name>Specialist ModuleUpgradeAllFarms-E</Name>
-            <IconFilename>data/base/graphics/icons/other/roman_male_ModuleUpgradeFarmsE.png</IconFilename>
-            <InfoDescription>1600000109</InfoDescription>
+            <GUID>1600000120</GUID>
+            <Name>Specialist Prod-Victuallers-E</Name>
+            <IconFilename>data/base/graphics/icons/other/c_f_Victuallers-E.png</IconFilename>
+            <InfoDescription>1600000121</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000109</GUID>
+                <GUID>1600000121</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>42602</GUID>
+                <GUID>50606</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Agriculture</Niche> 
-            <TradePrice>70000</TradePrice>
-            <BarkPool>83308</BarkPool> <!-- <GUID>83308</GUID> -->
+            <Niche>Economy</Niche> 
+            <TradePrice>75000</TradePrice>
+            <BarkPool>83338</BarkPool> <!-- <GUID>83338</GUID> -->
             <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000108</OasisId>
+            <OasisId>1600000120</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000109</GUID>
-                    <Name>Specialist ModuleUpgradeAllFarms-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/roman_male_ModuleUpgradeFarmsE.png</IconFilename>
+                    <GUID>1600000121</GUID>
+                    <Name>Specialist Prod-Victuallers-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/c_f_Victuallers-E.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000108</OasisId>
+                    <OasisId>1600000120</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -68,26 +68,12 @@
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
                   <ProductivityUpgrade>
-                    <Value>0</Value>
+                    <Value>35</Value>
                     <Percental>1</Percental>
 			            </ProductivityUpgrade>
-                  <AdditionalOutput>
-                    <Item>
-                      <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                      <AdditionalOutputCycle>8</AdditionalOutputCycle>
-                      <Amount>1</Amount>
-                    </Item>
-                  </AdditionalOutput>
                 </FactoryUpgrade>
-                <ModuleOwnerUpgrade>
-                  <ModuleLimitPercent>50</ModuleLimitPercent> <!--NOTE: Module Count is directly linked to productivity. e.g. -50% Modules = -50 Prod | See properties.xml in desc-->
-                </ModuleOwnerUpgrade>
-                <MaintenanceUpgrade>
-                  <WorkforceMaintenanceFactorUpgrade>
-                    <Value>50</Value>
-                    <Percental>1</Percental>
-                  </WorkforceMaintenanceFactorUpgrade>
-                </MaintenanceUpgrade>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>

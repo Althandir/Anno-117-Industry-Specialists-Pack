@@ -1,42 +1,42 @@
 <ModOps>
-<!-- Item Definition GUID:1600000198 - 1600000199 | LineID:1600000198 - 1600000199 -->
+<!-- Item Definition GUID:1600000112 - 1600000113 | LineID:1600000112 - 1600000113 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000198</GUID>
-            <Name>Specialist ModuleUpgrade Reed R</Name>
-            <IconFilename>data/base/graphics/icons/other/celtic_female_ModuleUpgradeReedR.png</IconFilename>
-            <InfoDescription>1600000199</InfoDescription>
+            <GUID>1600000112</GUID>
+            <Name>Specialist Module-Pastures-E</Name>
+            <IconFilename>data/base/graphics/icons/other/f_Module-Pastures-E.png</IconFilename>
+            <InfoDescription>1600000113</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000199</GUID>
+                <GUID>1600000113</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>5849</GUID>
+                <GUID>50224</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Agriculture</Niche> 
-            <TradePrice>18750</TradePrice>
-            <BarkPool>83353</BarkPool> <!-- <GUID>83353</GUID> -->
-            <Rarity>Rare</Rarity> 
+            <TradePrice>70000</TradePrice>
+            <BarkPool>83352</BarkPool> <!-- <GUID>83352</GUID> -->
+            <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000198</OasisId>
+            <OasisId>1600000112</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000199</GUID>
-                    <Name>Specialist ModuleUpgrade Reed R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/celtic_female_ModuleUpgradeReedR.png</IconFilename>
+                    <GUID>1600000113</GUID>
+                    <Name>Specialist Module-Pastures-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/f_Module-Pastures-E.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000198</OasisId>
+                    <OasisId>1600000112</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -71,18 +71,16 @@
                     <Value>0</Value>
                     <Percental>1</Percental>
 			            </ProductivityUpgrade>
-                  <AdditionalOutput>
-                    <Item>
-                      <Product>2103</Product>
-                      <AdditionalOutputCycle>6</AdditionalOutputCycle>
-                      <Amount>1</Amount>
-                    </Item>
-                  </AdditionalOutput>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade>
-                  <ModuleLimitPercent>50</ModuleLimitPercent>
+                  <ModuleLimitPercent>100</ModuleLimitPercent>
                 </ModuleOwnerUpgrade>
-                <MaintenanceUpgrade/>
+                <MaintenanceUpgrade>
+                  <WorkforceMaintenanceFactorUpgrade>
+                    <Value>50</Value>
+                    <Percental>1</Percental>
+                  </WorkforceMaintenanceFactorUpgrade>
+                </MaintenanceUpgrade>
                 <CityInstitutionUpgrade/>
                 <IncidentInfectableUpgrade/>
                 <RecruitmentUpgrade/>

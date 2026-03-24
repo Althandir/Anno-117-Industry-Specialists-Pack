@@ -1,27 +1,27 @@
 <ModOps>
-<!-- Item Definition GUID:1600000321 - 1600000322 | LineID:1600000321 - 1600000322 -->
+<!-- Item Definition GUID:1600000108 - 1600000109 | LineID:1600000108 - 1600000109 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000321</GUID>
-            <Name>Specialist ModuleUpgradeSandarak-E</Name>
-            <IconFilename>data/base/graphics/icons/other/roman_female_ModuleUpgradeSandarak-E.png</IconFilename>
-            <InfoDescription>1600000322</InfoDescription>
+            <GUID>1600000108</GUID>
+            <Name>Specialist Module-Farms-E</Name>
+            <IconFilename>data/base/graphics/icons/other/r_m_Module-FarmsE.png</IconFilename>
+            <InfoDescription>1600000109</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000322</GUID>
+                <GUID>1600000109</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>8579</GUID>
+                <GUID>42602</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
@@ -29,14 +29,14 @@
           <Item>
             <Niche>Agriculture</Niche> 
             <TradePrice>70000</TradePrice>
-            <BarkPool>83341</BarkPool> <!-- <GUID>83341</GUID> -->
+            <BarkPool>83308</BarkPool> <!-- <GUID>83308</GUID> -->
             <Rarity>Epic</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000321</OasisId>
+            <OasisId>1600000108</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000322</GUID>
-                    <Name>Specialist ModuleUpgradeSandarak-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/roman_female_ModuleUpgradeSandarak-E.png</IconFilename>
+                    <GUID>1600000109</GUID>
+                    <Name>Specialist Module-Farms-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/r_m_Module-FarmsE.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000321</OasisId>
+                    <OasisId>1600000108</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>
@@ -80,7 +80,7 @@
                   </AdditionalOutput>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade>
-                  <ModuleLimitPercent>50</ModuleLimitPercent>
+                  <ModuleLimitPercent>50</ModuleLimitPercent> <!--NOTE: Module Count is directly linked to productivity. e.g. -50% Modules = -50 Prod | See properties.xml in desc-->
                 </ModuleOwnerUpgrade>
                 <MaintenanceUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>

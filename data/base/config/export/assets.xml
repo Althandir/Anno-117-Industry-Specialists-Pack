@@ -43,13 +43,13 @@
   <!-- Rare Specialists -->
   <Group>
     <Include File="items-rare/AddClay-WaterSlots-R.xml"/>
-    <Include File="items-rare/ModuleUpgradeReed-R.xml" />
+    <Include File="items-rare/Module-Reed-R.xml" />
     <Include File="items-rare/AddSame-Area-HuntersEels-R.xml" />
     <Include File="items-rare/Prod-Coastal-R.xml" />
-    <Include File="items-rare/ProductivityAllFarms-R.xml" />
-    <Include File="items-rare/ProductivityAllForestries-R.xml" />
-    <Include File="items-rare/ProductivityAllPastures-R.xml" />
-    <Include File="items-rare/ProductivityAllPlantations-R.xml" />
+    <Include File="items-rare/Prod-Farms-R.xml" />
+    <Include File="items-rare/Prod-Forestries-R.xml" />
+    <Include File="items-rare/Prod-Pastures-R.xml" />
+    <Include File="items-rare/Prod-Plantations-R.xml" />
     <Include File="items-rare/Prod-NFuel-FuelConsumer-R.xml" />
   </Group>
 
@@ -64,22 +64,22 @@
 
     <Include File="items-epic/AddSame-Area-HuntersEels-E.xml" />
 
-    <Include File="items-epic/ModuleUpgradeAllFarms-E.xml" />
-    <Include File="items-epic/ModuleUpgradeAllPlantations-E.xml" />
-    <Include File="items-epic/ModuleUpgradePastures-E.xml" />
-    <Include File="items-epic/ModuleUpgradeSandarak-E.xml" />
+    <Include File="items-epic/Module-Farms-E.xml" />
+    <Include File="items-epic/Module-Plantations-E.xml" />
+    <Include File="items-epic/Module-Pastures-E.xml" />
+    <Include File="items-epic/Module-Sandarak-E.xml" />
 
-    <Include File="items-epic/ProductivityAllArtisans-E.xml" />  
-    <Include File="items-epic/ProductivityAllCookhouses-E.xml" />
-    <Include File="items-epic/ProductivityAllDressers-E.xml" />
+    <Include File="items-epic/Prod-Artisans-E.xml" />  
+    <Include File="items-epic/Prod-Kitchens-E.xml" />
+    <Include File="items-epic/Prod-Dressers-E.xml" />
     <Include File="items-epic/Prod-Extractors-E.xml" />
-    <Include File="items-epic/ProductivityAllFisheries-E.xml" />
+    <Include File="items-epic/Prod-Fisheries-E.xml" />
     <Include File="items-epic/Prod-Gatherers-E.xml" />
     <Include File="items-epic/Prod-Refineries-E.xml" />
     <Include File="items-epic/Prod-PitsQuarries-E.xml" />
-    <Include File="items-epic/ProductivityAllUpholsterers-E.xml" />
-    <Include File="items-epic/ProductivityAllVictuallers-E.xml" />
-    <Include File="items-epic/ProductivityAllWorkshops-E.xml" />
+    <Include File="items-epic/Prod-Upholsterers-E.xml" />
+    <Include File="items-epic/Prod-Victuallers-E.xml" />
+    <Include File="items-epic/Prod-Workshops-E.xml" />
 
     <Include File="items-epic/ReInput-FGlass-SiliziaRGlass-E.xml" />
     <Include File="items-epic/ReInput-Neck-SilberRGold-E.xml" />

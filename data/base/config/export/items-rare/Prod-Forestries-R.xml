@@ -1,27 +1,27 @@
 <ModOps>
-<!-- Item Definition GUID:1600000272 - 1600000273 | LineID:1600000272 - 1600000273 -->
+<!-- Item Definition GUID:1600000270 - 1600000271 | LineID:1600000270 - 1600000271 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
         <Template>Item</Template>
         <Values>
           <Standard>
-            <GUID>1600000272</GUID>
-            <Name>Specialist ProductivityAllFarms-R</Name>
-            <IconFilename>data/base/graphics/icons/other/celtic_male_ProductivityAllFarms-R.png</IconFilename>
-            <InfoDescription>1600000273</InfoDescription>
+            <GUID>1600000270</GUID>
+            <Name>Specialist Prod-Forestries-R</Name>
+            <IconFilename>data/base/graphics/icons/other/c_m_Prod-Forestries-R.png</IconFilename>
+            <InfoDescription>1600000271</InfoDescription>
           </Standard>
           <Effect>
             <EffectScope>Radius</EffectScope> 
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
-                <GUID>1600000273</GUID>
+                <GUID>1600000271</GUID>
               </Item>
             </Buffs>
             <Targets> <!-- Targets of Buff -->
               <Item>
-                <GUID>42602</GUID>
+                <GUID>50251</GUID>
               </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
@@ -36,7 +36,7 @@
             <DefaultLockedState>0</DefaultLockedState>
           </Locked>
           <Text>
-            <OasisId>1600000272</OasisId>
+            <OasisId>1600000270</OasisId>
           </Text>
         </Values>
       </Asset>
@@ -51,12 +51,12 @@
             <Template>BuildingBuff</Template>
             <Values>
                 <Standard>
-                    <GUID>1600000273</GUID>
-                    <Name>Specialist ProductivityAllFarms-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/celtic_male_ProductivityAllFarms-R.png</IconFilename>
+                    <GUID>1600000271</GUID>
+                    <Name>Specialist Prod-Forestries-R BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/other/c_m_Prod-Forestries-R.png</IconFilename>
                 </Standard>
                 <Text>
-                    <OasisId>1600000272</OasisId>
+                    <OasisId>1600000270</OasisId>
                 </Text>
                 <HealthUpgrade/>
                 <BuildingUpgrade>

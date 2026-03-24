@@ -68,7 +68,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ModuleUpgradeAllFarms-E -->
+  <!-- Specialist Module-Farms-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -84,7 +84,7 @@
     </ModOp>
   </Group>
 
-    <!-- Specialist ModuleUpgradeAllPlantations-E -->
+    <!-- Specialist Module-Plantations-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -100,7 +100,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ModuleUpgradePastures-E -->
+  <!-- Specialist Module-Pastures-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -116,7 +116,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ProductivityAllUpholsterers-E -->
+  <!-- Specialist Prod-Upholsterers-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -132,7 +132,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ProductivityAllVictuallers-E -->
+  <!-- Specialist Prod-Victuallers-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -233,7 +233,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ProductivityAllWorkshops-E -->
+  <!-- Specialist Prod-Workshops-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -313,7 +313,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ModuleUpgradeReed-R -->
+  <!-- Specialist Module-Reed-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -379,7 +379,7 @@
 
 
 
-  <!-- Specialist ProductivityAllCookhouses-E -->
+  <!-- Specialist Prod-Kitchens-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -395,7 +395,7 @@
     </ModOp>
   </Group>  
 
-  <!-- Specialist ProductivityAllDressers-E -->
+  <!-- Specialist Prod-Dressers-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -411,7 +411,7 @@
     </ModOp>
   </Group>  
 
-  <!-- Specialist ProductivityAllArtisans-E -->
+  <!-- Specialist Prod-Artisans-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -427,7 +427,7 @@
     </ModOp>
   </Group>  
 
-  <!-- Specialist ProductivityAllForestries-R -->
+  <!-- Specialist Prod-Forestries-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -443,7 +443,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ProductivityAllFarms-R -->
+  <!-- Specialist Prod-Farms-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -459,7 +459,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ProductivityAllPastures-R -->
+  <!-- Specialist Prod-Pastures-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -475,7 +475,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ProductivityAllPlantations-R -->
+  <!-- Specialist Prod-Plantations-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -555,7 +555,7 @@
     </ModOp>
   </Group>
     
-  <!-- Specialist ModuleUpgradeSandarak-E -->
+  <!-- Specialist Module-Sandarak-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
@@ -587,7 +587,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist ProductivityAllFisheries-E -->
+  <!-- Specialist Prod-Fisheries-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
