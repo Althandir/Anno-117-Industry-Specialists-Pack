@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000002</GUID>
             <Name>Specialist Prod-Extractors-E</Name>
-            <IconFilename>data/base/graphics/icons/other/m_Prod-Extractors-E.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/m_Prod-Extractors-E.png</IconFilename>
             <InfoDescription>1600000003</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000003</GUID>
                     <Name>Specialist Prod-Extractors-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/m_Prod-Extractors-E.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/m_Prod-Extractors-E.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000002</OasisId>

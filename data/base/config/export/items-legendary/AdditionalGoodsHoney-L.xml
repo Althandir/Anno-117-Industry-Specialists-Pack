@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000137</GUID>
             <Name>Specialist AdditionalGoodsHoney-L</Name>
-            <IconFilename>data/base/graphics/icons/other/animals/brown_bear.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/animals/brown_bear.png</IconFilename>
             <InfoDescription>1600000138</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000138</GUID>
                     <Name>Specialist AdditionalGoodsHoney-L BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/animals/brown_bear.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/animals/brown_bear.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000137</OasisId>

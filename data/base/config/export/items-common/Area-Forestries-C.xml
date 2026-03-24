@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000025</GUID>
             <Name>Specialist Area-Forestries-C</Name>
-            <IconFilename>data/base/graphics/icons/other/c_m_Area-Forestries-C.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/c_m_Area-Forestries-C.png</IconFilename>
             <InfoDescription>1600000026</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000026</GUID>
                     <Name>Specialist Area-Forestries-C BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/c_m_Area-Forestries-C.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/c_m_Area-Forestries-C.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000025</OasisId>

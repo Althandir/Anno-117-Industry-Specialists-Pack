@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000252</GUID>
             <Name>Specialist Prod-Artisans-E</Name>
-            <IconFilename>data/base/graphics/icons/other/f_Prod-Artisans-E.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/f_Prod-Artisans-E.png</IconFilename>
             <InfoDescription>1600000253</InfoDescription>
           </Standard>
           <Effect>
@@ -52,7 +52,7 @@
               <Standard>
                   <GUID>1600000253</GUID>
                   <Name>Specialist Prod-Artisans-E BuildingBuff</Name>
-                  <IconFilename>data/base/graphics/icons/other/f_Prod-Artisans-E.png</IconFilename>
+                  <IconFilename>data/base/graphics/icons/f_Prod-Artisans-E.png</IconFilename>
               </Standard>
               <HealthUpgrade/>
 

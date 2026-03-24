@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000278</GUID>
             <Name>Specialist AddCockles-RCSeashell-E</Name>
-            <IconFilename>data/base/graphics/icons/other/m_AddCockles-RCSeashell-E.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/m_AddCockles-RCSeashell-E.png</IconFilename>
             <InfoDescription>1600000279</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000279</GUID>
                     <Name>Specialist AddCockles-RCSeashell-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/m_AddCockles-RCSeashell-E.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/m_AddCockles-RCSeashell-E.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000278</OasisId>

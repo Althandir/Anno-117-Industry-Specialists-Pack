@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000139</GUID>
             <Name>Specialist Prod-Workshops-E</Name>
-            <IconFilename>data/base/graphics/icons/other/r_f_Prod-Workshops-E.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/r_f_Prod-Workshops-E.png</IconFilename>
             <InfoDescription>1600000140</InfoDescription>
           </Standard>
           <Effect>
@@ -52,7 +52,7 @@
               <Standard>
                   <GUID>1600000140</GUID>
                   <Name>Specialist Prod-Workshops-E BuildingBuff</Name>
-                  <IconFilename>data/base/graphics/icons/other/r_f_Prod-Workshops-E.png</IconFilename>
+                  <IconFilename>data/base/graphics/icons/r_f_Prod-Workshops-E.png</IconFilename>
               </Standard>
               <HealthUpgrade/>
 

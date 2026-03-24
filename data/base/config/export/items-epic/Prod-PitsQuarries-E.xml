@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000323</GUID>
             <Name>Specialist Prod-PitsQuarries-E</Name>
-            <IconFilename>data/base/graphics/icons/other/r_f_Prod-PitsQuarries-E.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/r_f_Prod-PitsQuarries-E.png</IconFilename>
             <InfoDescription>1600000324</InfoDescription>
           </Standard>
           <Effect>
@@ -55,7 +55,7 @@
               <Standard>
                   <GUID>1600000324</GUID>
                   <Name>Specialist Prod-PitsQuarries-E BuildingBuff</Name>
-                  <IconFilename>data/base/graphics/icons/other/r_f_Prod-PitsQuarries-E.png</IconFilename>
+                  <IconFilename>data/base/graphics/icons/r_f_Prod-PitsQuarries-E.png</IconFilename>
               </Standard>
               <HealthUpgrade/>
               <Text>

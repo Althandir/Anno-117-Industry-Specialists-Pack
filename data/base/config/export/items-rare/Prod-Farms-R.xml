@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000272</GUID>
             <Name>Specialist Prod-Farms-R</Name>
-            <IconFilename>data/base/graphics/icons/other/c_m_Prod-Farms-R.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/c_m_Prod-Farms-R.png</IconFilename>
             <InfoDescription>1600000273</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000273</GUID>
                     <Name>Specialist Prod-Farms-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/c_m_Prod-Farms-R.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/c_m_Prod-Farms-R.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000272</OasisId>

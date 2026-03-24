@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000274</GUID>
             <Name>Specialist Prod-Pastures-R</Name>
-            <IconFilename>data/base/graphics/icons/other/m_Prod-Pastures-R.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/m_Prod-Pastures-R.png</IconFilename>
             <InfoDescription>1600000275</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000275</GUID>
                     <Name>Specialist Prod-Pastures-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/m_Prod-Pastures-R.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/m_Prod-Pastures-R.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000274</OasisId>

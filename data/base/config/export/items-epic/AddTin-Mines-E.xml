@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000282</GUID>
             <Name>Specialist AddTin-Mines-E</Name>
-            <IconFilename>data/base/graphics/icons/other/c_m_AddTin-Mines-E.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/c_m_AddTin-Mines-E.png</IconFilename>
             <InfoDescription>1600000283</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000283</GUID>
                     <Name>Specialist AddTin-Mines-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/c_m_AddTin-Mines-E.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/c_m_AddTin-Mines-E.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000282</OasisId>

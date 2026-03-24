@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000319</GUID>
             <Name>Specialist AddMarble-Quarries-E</Name>
-            <IconFilename>data/base/graphics/icons/other/r_f_AddMarble-Quarries-E.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/r_f_AddMarble-Quarries-E.png</IconFilename>
             <InfoDescription>1600000320</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000320</GUID>
                     <Name>Specialist AddMarble-Quarries-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/r_f_AddMarble-Quarries-E.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/r_f_AddMarble-Quarries-E.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000319</OasisId>

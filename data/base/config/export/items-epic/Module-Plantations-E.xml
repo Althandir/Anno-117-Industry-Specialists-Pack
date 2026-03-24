@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000110</GUID>
             <Name>Specialist Module-Plantations-E</Name>
-            <IconFilename>data/base/graphics/icons/other/m_Module-Plantations-E.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/m_Module-Plantations-E.png</IconFilename>
             <InfoDescription>1600000111</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000111</GUID>
                     <Name>Specialist Module-Plantations-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/m_Module-Plantations-E.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/m_Module-Plantations-E.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000110</OasisId>

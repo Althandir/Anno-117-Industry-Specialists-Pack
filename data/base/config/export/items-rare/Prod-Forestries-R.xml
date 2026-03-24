@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000270</GUID>
             <Name>Specialist Prod-Forestries-R</Name>
-            <IconFilename>data/base/graphics/icons/other/c_m_Prod-Forestries-R.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/c_m_Prod-Forestries-R.png</IconFilename>
             <InfoDescription>1600000271</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000271</GUID>
                     <Name>Specialist Prod-Forestries-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/other/c_m_Prod-Forestries-R.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/c_m_Prod-Forestries-R.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000270</OasisId>
