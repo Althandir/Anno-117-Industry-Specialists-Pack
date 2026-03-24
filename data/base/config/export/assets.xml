@@ -96,7 +96,7 @@
   </Group>
 
   <!-- Add to Pools -->
-  <Include File="pools/AssetList/AssetListPool.xml" />
+  <Include File="pools/AssetList/AssetListPools.xml" />
   <Include File="pools/RewardPool/AllItems&Specialists.xml" />
   
   <!-- Add to Traderpools --> 
