@@ -242,6 +242,11 @@
           <Text>Hofft mit überdimensionierten Netzen sich eine Meerjungfrau angeln zu können. Stattdessen findet er Sandalen... und manchmal ein verirrtes Schaf.&#xD;(Industry-Pack)</Text>
           <LineId>1600000153</LineId> 
       </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Verschwendet zu viele Seile für seinen Traum. (3x Seilmacher auf Insel - nur in Latium gültig)</Text>
+          <LineId>1600000561</LineId> 
+      </Text>
     </ModOp>
   </Group>
 
