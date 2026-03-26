@@ -9,12 +9,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Vullius Brixantus, PlaceholderText</Text>
+          <Text>Vullius Brixantus, Trained Extractor</Text>
           <LineId>1600000002</LineId> <!-- <GUID>1600000002</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText &#xD;(Industry-Pack)</Text>
+          <Text>Knows all the fundamentals of the extraction of elements. &#xD;(Industry-Pack)</Text>
           <LineId>1600000003</LineId> 
       </Text>
     </ModOp>
@@ -198,38 +198,17 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AdditionalGoodsExtractors-L -->
+  <!-- Specialist Prod-Gatherers-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText</Text>
-          <LineId>1600000134</LineId> <!-- <GUID>1600000134</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>PlaceholderText</Text>
-          <LineId>1600000135</LineId> 
-      </Text>
-      <!-- Boost Hint -->
-      <Text>
-          <Text>[PH] 30x Extractor on Island</Text>
-          <LineId>1600000136</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist AdditionalGoodsHoney-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Wojtecus, le persan Bear adopté</Text>
+          <Text>Felix Selectorius, Lucky Gatherer</Text>
           <LineId>1600000137</LineId> <!-- <GUID>1600000137</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>"Vite ! Suivez l'ours ! Il nous mènera au miel !... ou attrapera un autre espion."&#xD;(Industry-Pack)</Text>
+          <Text>Always has a lucky touch when it comes to collecting. &#xD;(Industry-Pack)</Text>
           <LineId>1600000138</LineId> 
       </Text>
     </ModOp>
@@ -603,4 +582,35 @@
     </ModOp>
   </Group>
 
+  <!-- Specialist ReInput-Cloth-WoolRFlax-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Criticized Wool Weaver</Text>
+          <LineId>1600000428</LineId> <!-- <GUID>1600000428</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"Come on, don't be like that. With the right processing, wool can work just fine as a fabric." &#xD;(Industry-Pack)</Text>
+          <LineId>1600000429</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist Prod-Refineries-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Maternus Materiarus, Material Expert</Text>
+          <LineId>1600000430</LineId> <!-- <GUID>1600000430</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Provides you with all the materials you need to build your cities. &#xD;(Industry-Pack)</Text>
+          <LineId>1600000431</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
 </ModOps>

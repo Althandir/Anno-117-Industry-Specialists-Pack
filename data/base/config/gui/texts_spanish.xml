@@ -9,12 +9,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Alchemy Apprentice</Text>
+          <Text>Vullius Brixantus, Trained Extractor</Text>
           <LineId>1600000002</LineId> <!-- <GUID>1600000002</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Begins to study the fundamentals of the natural elements. </Text>
+          <Text>Knows all the fundamentals of the extraction of elements. &#xD;(Industry-Pack)</Text>
           <LineId>1600000003</LineId> 
       </Text>
     </ModOp>
@@ -30,7 +30,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Enjoys caring for trees.</Text>
+          <Text>Enjoys caring for trees. &#xD;(Industry-Pack)</Text>
           <LineId>1600000026</LineId> 
       </Text>
     </ModOp>
@@ -46,28 +46,12 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Keeps behaving like a wild pony.</Text>
+          <Text>Keeps behaving like a wild pony. &#xD;(Industry-Pack)</Text>
           <LineId>1600000028</LineId> 
       </Text>
     </ModOp>
   </Group>
   
-  <!-- Specialist WarehouseCapacityUpgrade-C -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Warehouse Worker</Text>
-          <LineId>1600000033</LineId> <!-- <GUID>1600000033</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Uses some extra hands to organize the goods here and there.</Text>
-          <LineId>1600000034</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist AddMineral-QuarriesMines-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -78,7 +62,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Knows where to find any needed minerals.</Text>
+          <Text>Knows where to find any needed minerals. &#xD;(Industry-Pack)</Text>
           <LineId>1600000107</LineId> 
       </Text>
     </ModOp>
@@ -94,7 +78,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Enjoys the countrylife.</Text>
+          <Text>Enjoys the countrylife. &#xD;(Industry-Pack)</Text>
           <LineId>1600000109</LineId> 
       </Text>
     </ModOp>
@@ -110,7 +94,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Reaps the fruits of what was planted generations ago.</Text>
+          <Text>Reaps the fruits of what was planted generations ago. &#xD;(Industry-Pack)</Text>
           <LineId>1600000111</LineId> 
       </Text>
     </ModOp>
@@ -126,7 +110,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Best caretaker any animal could dream of.</Text>
+          <Text>Best caretaker any animal could dream of. &#xD;(Industry-Pack)</Text>
           <LineId>1600000113</LineId> 
       </Text>
     </ModOp>
@@ -142,7 +126,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Always stocks up on every kind of fabric.</Text>
+          <Text>Always stocks up on every kind of fabric. &#xD;(Industry-Pack)</Text>
           <LineId>1600000119</LineId> 
       </Text>
     </ModOp>
@@ -158,7 +142,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Knows how to work with Liquids and Jars.</Text>
+          <Text>Knows how to work with Liquids and Jars. &#xD;(Industry-Pack)</Text>
           <LineId>1600000121</LineId> 
       </Text>
     </ModOp>
@@ -174,7 +158,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Has a talent for finding silver deposits.</Text>
+          <Text>Has a talent for finding silver deposits. &#xD;(Industry-Pack)</Text>
           <LineId>1600000123</LineId> 
       </Text>
     </ModOp>
@@ -190,7 +174,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Shapes the glass in form directly in front of your eyes.</Text>
+          <Text>Shapes the glass in form directly in front of your eyes. &#xD;(Industry-Pack)</Text>
           <LineId>1600000131</LineId> 
       </Text>
     </ModOp>
@@ -206,44 +190,23 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Silver is the new Gold!</Text>
+          <Text>Silver is the new Gold!&#xD;(Industry-Pack)</Text>
           <LineId>1600000133</LineId> 
       </Text>
     </ModOp>
   </Group>
 
-  <!-- Specialist AdditionalGoodsExtractors-L -->
+  <!-- Specialist Prod-Gatherers-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Vullius Brixantus, the Master Alchemist</Text>
-          <LineId>1600000134</LineId> <!-- <GUID>1600000134</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>A true master of the natural elements. Ready and at your service.</Text>
-          <LineId>1600000135</LineId> 
-      </Text>
-      <!-- Boost Hint -->
-      <Text>
-          <Text>Ready for a young apprentice.</Text>
-          <LineId>1600000136</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist AdditionalGoodsHoney-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Wojtecus, the adopted persian Bear</Text>
+          <Text>Felix Selectorius, Lucky Gatherer</Text>
           <LineId>1600000137</LineId> <!-- <GUID>1600000137</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>"Quick! Follow the bear! He will lead us to the honey!... or catches a spy again."</Text>
+          <Text>Always has a lucky touch when it comes to collecting. &#xD;(Industry-Pack)</Text>
           <LineId>1600000138</LineId> 
       </Text>
     </ModOp>
@@ -259,7 +222,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Dreams of an age of machines and steam.</Text>
+          <Text>Dreams of an age of machines and steam. &#xD;(Industry-Pack)</Text>
           <LineId>1600000140</LineId> 
       </Text>
     </ModOp>
@@ -270,12 +233,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Aquarius Crassicius, Neptune Blessed Fisherman</Text>
+          <Text>Aquarius Crassicius, Crazy Fisherman</Text>
           <LineId>1600000152</LineId> <!-- <GUID>1600000152</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Catches everything with giant nets. Sandales inclusive... and sometimes... a sheep? How?!</Text>
+          <Text>Has the hope to catch a mermaid by using overdimentional nets. Instead he finds sandals and sometimes a lost sheep. &#xD;(Industry-Pack)</Text>
           <LineId>1600000153</LineId> 
       </Text>
     </ModOp>
@@ -291,7 +254,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Such a great hunter, he would even catch mystical creatures.</Text>
+          <Text>Such a great hunter, he would even catch mystical creatures. &#xD;(Industry-Pack)</Text>
           <LineId>1600000155</LineId> 
       </Text>
     </ModOp>
@@ -307,7 +270,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Kept the fun from digging into Clay since the childhood.</Text>
+          <Text>Kept the fun from digging into Clay since the childhood. &#xD;(Industry-Pack)</Text>
           <LineId>1600000193</LineId> 
       </Text>
     </ModOp>
@@ -323,7 +286,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Teaches how to handle needle tools to prevent worker outages.</Text>
+          <Text>Teaches how to handle needle tools to prevent worker outages. &#xD;(Industry-Pack)</Text>
           <LineId>1600000195</LineId> 
       </Text>
     </ModOp>
@@ -339,7 +302,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>"Huh? What are you doing in my swamp?! "</Text>
+          <Text>"Huh? What are you doing in my swamp?! "&#xD;(Industry-Pack)</Text>
           <LineId>1600000199</LineId> 
       </Text>
     </ModOp>
@@ -355,7 +318,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Yearns for the hunt.</Text>
+          <Text>Yearns for the hunt. &#xD;(Industry-Pack)</Text>
           <LineId>1600000201</LineId> 
       </Text>
     </ModOp>
@@ -371,7 +334,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Could work at the beach all the time.</Text>
+          <Text>Could work at the beach all the time. &#xD;(Industry-Pack)</Text>
           <LineId>1600000203</LineId> 
       </Text>
     </ModOp>
@@ -387,24 +350,8 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>"Baking stuff makes it taste better, why shouldn't it work for other things?"</Text>
+          <Text>"Baking stuff makes it taste better, why shouldn't it work for other things?"&#xD;(Industry-Pack)</Text>
           <LineId>1600000205</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist WarehouseCapacityUpgrade-R -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Expericened Warehouse Worker</Text>
-          <LineId>1600000212</LineId> <!-- <GUID>1600000212</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>A living catalog for the warehouses.</Text>
-          <LineId>1600000213</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -419,7 +366,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>"Show me the kitchen and I'll whip up something delicious faster than you can blink."</Text>
+          <Text>"Show me the kitchen and I'll whip up something delicious faster than you can blink."&#xD;(Industry-Pack)</Text>
           <LineId>1600000249</LineId> 
       </Text>
     </ModOp>
@@ -435,7 +382,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>"Fine feathers make fine birds! You can never have enough clothes!"</Text>
+          <Text>"Fine feathers make fine birds! You can never have enough clothes!"&#xD;(Industry-Pack)</Text>
           <LineId>1600000251</LineId> 
       </Text>
     </ModOp>
@@ -451,7 +398,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Through her artistry, she shows the world her own beauty.</Text>
+          <Text>Through her artistry, she shows the world her own beauty. &#xD;(Industry-Pack)</Text>
           <LineId>1600000253</LineId> 
       </Text>
     </ModOp>
@@ -467,7 +414,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Making trees usable is his calling.</Text>
+          <Text>Making trees usable is his calling. &#xD;(Industry-Pack)</Text>
           <LineId>1600000271</LineId> 
       </Text>
     </ModOp>
@@ -483,7 +430,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>His mind is always on his fields.</Text>
+          <Text>His mind is always on his fields. &#xD;(Industry-Pack)</Text>
           <LineId>1600000273</LineId> 
       </Text>
     </ModOp>
@@ -499,7 +446,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Make sure that every animal fulfills its contribution.</Text>
+          <Text>Make sure that every animal fulfills its contribution. &#xD;(Industry-Pack)</Text>
           <LineId>1600000275</LineId> 
       </Text>
     </ModOp>
@@ -515,7 +462,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>"You don't need much variation to be happy."</Text>
+          <Text>"You don't need much variation to be happy."&#xD;(Industry-Pack)</Text>
           <LineId>1600000277</LineId> 
       </Text>
     </ModOp>
@@ -531,7 +478,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>The sea can always be heard whispering nearby.</Text>
+          <Text>The sea can always be heard whispering nearby. &#xD;(Industry-Pack)</Text>
           <LineId>1600000279</LineId> 
       </Text>
     </ModOp>
@@ -547,7 +494,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Similar to his brother Stannos, he has a sixth sense for copper deposits.</Text>
+          <Text>Similar to his brother Stannos, he has a sixth sense for copper deposits. &#xD;(Industry-Pack)</Text>
           <LineId>1600000281</LineId> 
       </Text>
     </ModOp>
@@ -563,7 +510,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Similar to his brother Coperovicos, he has a sixth sense for tin deposits.</Text>
+          <Text>Similar to his brother Coperovicos, he has a sixth sense for tin deposits. &#xD;(Industry-Pack)</Text>
           <LineId>1600000283</LineId> 
       </Text>
     </ModOp>
@@ -579,7 +526,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Has a keen sense for marble.</Text>
+          <Text>Has a keen sense for marble. &#xD;(Industry-Pack)</Text>
           <LineId>1600000320</LineId> 
       </Text>
     </ModOp>
@@ -595,7 +542,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Gets angry if the sandarak trees aren't perfectly in shape.</Text>
+          <Text>Gets angry if the sandarak trees aren't perfectly in shape. &#xD;(Industry-Pack)</Text>
           <LineId>1600000322</LineId> 
       </Text>
     </ModOp>
@@ -611,7 +558,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Makes the earth tremble by her mere presence.</Text>
+          <Text>Makes the earth tremble by her mere presence. &#xD;(Industry-Pack)</Text>
           <LineId>1600000324</LineId> 
       </Text>
     </ModOp>
@@ -627,10 +574,41 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Can communicate with the Fish.</Text>
+          <Text>Can communicate with the Fish. &#xD;(Industry-Pack)</Text>
           <LineId>1600000326</LineId> 
       </Text>
     </ModOp>
   </Group>
 
+  <!-- Specialist ReInput-Cloth-WoolRFlax-R -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Criticized Wool Weaver</Text>
+          <LineId>1600000428</LineId> <!-- <GUID>1600000428</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>"Come on, don't be like that. With the right processing, wool can work just fine as a fabric." &#xD;(Industry-Pack)</Text>
+          <LineId>1600000429</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist Prod-Refineries-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Maternus Materiarus, Material Expert</Text>
+          <LineId>1600000430</LineId> <!-- <GUID>1600000430</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Provides you with all the materials you need to build your cities. &#xD;(Industry-Pack)</Text>
+          <LineId>1600000431</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
 </ModOps>
