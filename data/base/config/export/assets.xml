@@ -12,7 +12,9 @@
     #   1600000106 - 1600000113
     #   1600000118 - 1600000123
     #   1600000130 - 1600000133 (ReplaceInput)
+    #   1600000137 - 1600000138
     #   1600000139 - 1600000140
+    #   1600000152 - 1600000153 + 1600000XXX
     #   1600000154 - 1600000155
     #   1600000192 - 1600000195
     #   1600000198 - 1600000205
@@ -45,12 +47,15 @@
     <Include File="items-rare/AddClay-WaterSlots-R.xml"/>
     <Include File="items-rare/Module-Reed-R.xml" />
     <Include File="items-rare/AddSame-Area-HuntersEels-R.xml" />
+
     <Include File="items-rare/Prod-Coastal-R.xml" />
     <Include File="items-rare/Prod-Farms-R.xml" />
     <Include File="items-rare/Prod-Forestries-R.xml" />
     <Include File="items-rare/Prod-Pastures-R.xml" />
     <Include File="items-rare/Prod-Plantations-R.xml" />
     <Include File="items-rare/Prod-NFuel-FuelConsumer-R.xml" />
+
+    <Include File="items-rare/ReInput-Cloth-WoolRFlax-R.xml" />
   </Group>
 
   <!-- Epic Specialists -->
@@ -88,7 +93,7 @@
 
   <!-- Legendary Specialists -->
   <Group>
-
+    <Include File="items-legendary/CrazyLatiumFisheries-L.xml" />
   </Group>
 
   <!-- Add to Pools -->

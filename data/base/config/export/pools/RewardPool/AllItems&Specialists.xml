@@ -78,6 +78,9 @@
             <ItemLink>1600000132</ItemLink>
         </Item>
         <Item>
+            <ItemLink>1600000137</ItemLink>
+        </Item>
+        <Item>
             <ItemLink>1600000139</ItemLink>
         </Item>
         <Item>
@@ -109,6 +112,15 @@
         </Item>
         <Item>
             <ItemLink>1600000325</ItemLink>
+        </Item>
+
+        <Item>
+            <ItemLink>1600000428</ItemLink>
+        </Item>
+
+        <!-- Legendary -->
+        <Item>
+            <ItemLink>1600000152</ItemLink>
         </Item>
 
     </ModOp>

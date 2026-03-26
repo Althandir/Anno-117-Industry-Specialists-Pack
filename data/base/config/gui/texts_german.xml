@@ -197,6 +197,22 @@
     </ModOp>
   </Group>
 
+  <!-- Specialist Prod-Gatherers-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>PlaceholderText Prod-Gatherers-E, von Glück verfolgter Sammler</Text>
+          <LineId>1600000137</LineId> <!-- <GUID>1600000137</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Hat immer das richtige Händchen beim Sammeln. &#xD;(Industry-Pack)</Text>
+          <LineId>1600000138</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
   <!-- Specialist Prod-Workshops-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -209,6 +225,22 @@
       <Text>
           <Text>Träumt von einem Zeitalter der Maschinen und des Dampfes. &#xD;(Industry-Pack)</Text>
           <LineId>1600000140</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist CrazyLatiumFisheries-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Aquarius Crassicius, Verrückter Fischer</Text>
+          <LineId>1600000152</LineId> <!-- <GUID>1600000152</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Hofft mit überdimensionierten Netzen sich eine Meerjungfrau angeln zu können. Stattdessen findet er Sandalen... und manchmal ein verirrtes Schaf.&#xD;(Industry-Pack)</Text>
+          <LineId>1600000153</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -549,17 +581,17 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist Prod-Gatherers-E -->
+  <!-- Specialist ReInput-Cloth-WoolRFlax-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText, Vom Glück verfolgter Sammler</Text>
+          <Text>PlaceholderText ReInput-Cloth-WoolRFlax-R, PlaceholderText</Text>
           <LineId>1600000428</LineId> <!-- <GUID>1600000428</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Hat immer das richtige Händchen beim Sammeln. &#xD;(Industry-Pack)</Text>
+          <Text>PlaceholderText &#xD;(Industry-Pack)</Text>
           <LineId>1600000429</LineId> 
       </Text>
     </ModOp>
@@ -570,7 +602,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText, Materialexperte</Text>
+          <Text>PlaceholderText Prod-Refineries-E, Materialexperte</Text>
           <LineId>1600000430</LineId> <!-- <GUID>1600000430</GUID> -->
       </Text>
       <!-- Description -->

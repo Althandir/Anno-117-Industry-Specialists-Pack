@@ -196,6 +196,22 @@
     </ModOp>
   </Group>
 
+  <!-- Specialist Prod-Gatherers-E -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>PlaceholderText Prod-Gatherers-E, Lucky Gatherer</Text>
+          <LineId>1600000137</LineId> <!-- <GUID>1600000137</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>PlaceholderText &#xD;(Industry-Pack)</Text>
+          <LineId>1600000138</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
   <!-- Specialist Prod-Workshops-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -208,6 +224,22 @@
       <Text>
           <Text>Dreams of an age of machines and steam. &#xD;(Industry-Pack)</Text>
           <LineId>1600000140</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist CrazyLatiumFisheries-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>Aquarius Crassicius, Crazy Fisherman</Text>
+          <LineId>1600000152</LineId> <!-- <GUID>1600000152</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Has the hope to catch a mermaid by using overdimentional nets. Instead he finds sandals and sometimes a lost sheep. &#xD;(Industry-Pack)</Text>
+          <LineId>1600000153</LineId> 
       </Text>
     </ModOp>
   </Group>
@@ -323,8 +355,6 @@
       </Text>
     </ModOp>
   </Group>
-
-
 
   <!-- Specialist Prod-Kitchens-E -->
   <Group>
@@ -550,7 +580,7 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist Prod-Gatherers-E -->
+  <!-- Specialist ReInput-Cloth-WoolRFlax-R -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
