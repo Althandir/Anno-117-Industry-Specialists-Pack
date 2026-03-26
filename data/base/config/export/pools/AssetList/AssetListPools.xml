@@ -110,16 +110,6 @@
             <ItemLink>1600000325</ItemLink>
         </Item>
 
-        <!-- Legendary -->
-        <Item>
-            <ItemLink>1600000152</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>1600000137</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>1600000134</ItemLink>
-        </Item>
         </ModOp>
     </Group>
 </ModOps>

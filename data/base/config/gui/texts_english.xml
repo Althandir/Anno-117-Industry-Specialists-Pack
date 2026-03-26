@@ -196,43 +196,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AdditionalGoodsExtractors-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>PlaceholderText</Text>
-          <LineId>1600000134</LineId> <!-- <GUID>1600000134</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>PlaceholderText. &#xD;(Industry-Pack)</Text>
-          <LineId>1600000135</LineId> 
-      </Text>
-      <!-- Boost Hint -->
-      <Text>
-          <Text>[PH] 30x Extractor on Island</Text>
-          <LineId>1600000136</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist AdditionalGoodsHoney-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Wojtecus, the Adopted Persian Bear</Text>
-          <LineId>1600000137</LineId> <!-- <GUID>1600000137</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>"Quick! Follow the bear! He will lead us to the honey!... or catches a spy again."&#xD;(Industry-Pack)</Text>
-          <LineId>1600000138</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist Prod-Workshops-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -245,22 +208,6 @@
       <Text>
           <Text>Dreams of an age of machines and steam. &#xD;(Industry-Pack)</Text>
           <LineId>1600000140</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist CrazyLatiumFisheries-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Aquarius Crassicius, Neptune Blessed Fisherman</Text>
-          <LineId>1600000152</LineId> <!-- <GUID>1600000152</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Catches everything with giant nets. Sandales inclusive... and sometimes... a sheep? How?!&#xD;(Industry-Pack)</Text>
-          <LineId>1600000153</LineId> 
       </Text>
     </ModOp>
   </Group>

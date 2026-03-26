@@ -197,43 +197,6 @@
     </ModOp>
   </Group>
 
-  <!-- Specialist AdditionalGoodsExtractors-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>PlaceholderText</Text>
-          <LineId>1600000134</LineId> <!-- <GUID>1600000134</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>PlaceholderText</Text>
-          <LineId>1600000135</LineId> 
-      </Text>
-      <!-- Boost Hint -->
-      <Text>
-          <Text>[PH] 30x Extractor on Island</Text>
-          <LineId>1600000136</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist AdditionalGoodsHoney-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Wojtecus, der adoptierte persische Bär</Text>
-          <LineId>1600000137</LineId> <!-- <GUID>1600000137</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>"Schnell! Folgt dem Bären! Er wird uns zum Honig führen! ... oder wieder einen Spion fangen."&#xD;(Industry-Pack)</Text>
-          <LineId>1600000138</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
   <!-- Specialist Prod-Workshops-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -246,22 +209,6 @@
       <Text>
           <Text>Träumt von einem Zeitalter der Maschinen und des Dampfes. &#xD;(Industry-Pack)</Text>
           <LineId>1600000140</LineId> 
-      </Text>
-    </ModOp>
-  </Group>
-
-  <!-- Specialist CrazyLatiumFisheries-L -->
-  <Group>
-    <ModOp Add="/TextExport/Texts">
-      <!-- Title -->
-      <Text>
-          <Text>Aquarius Crassicius, von Neptun Gesegneter Fischer</Text>
-          <LineId>1600000152</LineId> <!-- <GUID>1600000152</GUID> -->
-      </Text>
-      <!-- Description -->
-      <Text>
-          <Text>Fängt alles mit riesigen Netzen. Sandalen inklusive... und manchmal... ein Schaf? Wie?!&#xD;(Industry-Pack)</Text>
-          <LineId>1600000153</LineId> 
       </Text>
     </ModOp>
   </Group>

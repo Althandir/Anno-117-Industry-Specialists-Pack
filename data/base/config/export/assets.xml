@@ -12,8 +12,8 @@
     #   1600000106 - 1600000113
     #   1600000118 - 1600000123
     #   1600000130 - 1600000133 (ReplaceInput)
-    #   1600000134 - 1600000140
-    #   1600000152 - 1600000155
+    #   1600000139 - 1600000140
+    #   1600000154 - 1600000155
     #   1600000192 - 1600000195
     #   1600000198 - 1600000205
     #   1600000248 - 1600000253
@@ -88,10 +88,6 @@
 
   <!-- Legendary Specialists -->
   <Group>
-    <Include File="items-legendary/AdditionalGoodsExtractors-L.xml" />
-    <Include File="items-legendary/AdditionalGoodsHoney-L.xml" />
-
-    <Include File="items-legendary/CrazyLatiumFisheries-L.xml" />
 
   </Group>
 
