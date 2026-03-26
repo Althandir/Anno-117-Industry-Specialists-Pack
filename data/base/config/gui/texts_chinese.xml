@@ -241,6 +241,11 @@
           <Text>Has the hope to catch a mermaid by using overdimentional nets. Instead he finds sandals and sometimes a lost sheep. &#xD;(Industry-Pack)</Text>
           <LineId>1600000153</LineId> 
       </Text>
+      <!-- Description -->
+      <Text>
+          <Text>Wastes way to many ropes for his dream. (3x Ropemaker on Island - valid only in Latium)</Text>
+          <LineId>1600000561</LineId> 
+      </Text>
     </ModOp>
   </Group>
 
