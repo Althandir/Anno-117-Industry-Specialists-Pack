@@ -202,7 +202,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText Prod-Gatherers-E, von Glück verfolgter Sammler</Text>
+          <Text>Felix Selectorius, von Glück verfolgter Sammler</Text>
           <LineId>1600000137</LineId> <!-- <GUID>1600000137</GUID> -->
       </Text>
       <!-- Description -->
@@ -586,12 +586,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText ReInput-Cloth-WoolRFlax-R, PlaceholderText</Text>
+          <Text>Kritisierter Wollweber</Text>
           <LineId>1600000428</LineId> <!-- <GUID>1600000428</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText &#xD;(Industry-Pack)</Text>
+          <Text>"Jetzt habt euch nicht so. Wolle kann mit der richtigen Verarbeitung auch gut als Stoff herhalten." &#xD;(Industry-Pack)</Text>
           <LineId>1600000429</LineId> 
       </Text>
     </ModOp>
@@ -602,7 +602,7 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText Prod-Refineries-E, Materialexperte</Text>
+          <Text>Maternus Materiarus, Materialexperte</Text>
           <LineId>1600000430</LineId> <!-- <GUID>1600000430</GUID> -->
       </Text>
       <!-- Description -->

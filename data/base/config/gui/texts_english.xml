@@ -201,12 +201,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText Prod-Gatherers-E, Lucky Gatherer</Text>
+          <Text>Felix Selectorius, Lucky Gatherer</Text>
           <LineId>1600000137</LineId> <!-- <GUID>1600000137</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText &#xD;(Industry-Pack)</Text>
+          <Text>Always has a lucky touch when it comes to collecting. &#xD;(Industry-Pack)</Text>
           <LineId>1600000138</LineId> 
       </Text>
     </ModOp>
@@ -585,12 +585,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText, PlaceholderText</Text>
+          <Text>Criticized Wool Weaver</Text>
           <LineId>1600000428</LineId> <!-- <GUID>1600000428</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText &#xD;(Industry-Pack)</Text>
+          <Text>"Come on, don't be like that. With the right processing, wool can work just fine as a fabric." &#xD;(Industry-Pack)</Text>
           <LineId>1600000429</LineId> 
       </Text>
     </ModOp>
@@ -601,12 +601,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>PlaceholderText, PlaceholderText</Text>
+          <Text>Maternus Materiarus, Material Expert</Text>
           <LineId>1600000430</LineId> <!-- <GUID>1600000430</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>PlaceholderText &#xD;(Industry-Pack)</Text>
+          <Text>Provides you with all the materials you need to build your cities. &#xD;(Industry-Pack)</Text>
           <LineId>1600000431</LineId> 
       </Text>
     </ModOp>
