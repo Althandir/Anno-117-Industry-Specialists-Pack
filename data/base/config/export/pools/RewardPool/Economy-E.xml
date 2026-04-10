@@ -1,0 +1,70 @@
+<ModOps>
+<!-- Add to RewardPools -->
+<!-- RewardList Economy Epic -->
+<Group>
+    <ModOp Type="add" GUID="121854" Path="/Values/RewardPool/ItemsPool">
+        <Item>
+            <ItemLink>1600000002</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000282</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000106</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000118</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000120</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000122</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000130</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000132</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000139</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000248</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000250</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000252</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000278</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000280</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000319</ItemLink>
+        </Item>      
+        <Item>
+            <ItemLink>1600000323</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000325</ItemLink>
+        </Item>
+
+        <Item>
+            <ItemLink>1600000154</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000137</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000430</ItemLink>
+        </Item>
+    </ModOp>
+</Group>
+
+</ModOps>

@@ -1,49 +1,49 @@
 <ModOps>
-  <!--
-    # By Althandir / Altdolphin
-    # NOTE: 
-    # GUIDs might be all over the place (not outside of my Range but inside this mod) due to my experiments all the time
-    # or my stupid brain getting new Ideas all the time and never finishing something >~<
- 
-    ###  
-    #   GUID-Ranges:  
-    #   1600000002 - 1600000003
-    #   1600000025 - 1600000028
-    #   1600000106 - 1600000113
-    #   1600000118 - 1600000123
-    #   1600000130 - 1600000133 (ReplaceInput)
-    #   1600000137 - 1600000138
-    #   1600000139 - 1600000140
-    #   1600000152 - 1600000153 + 1600000XXX
-    #   1600000154 - 1600000155
-    #   1600000192 - 1600000195
-    #   1600000198 - 1600000205
-    #   1600000248 - 1600000253
-    #   1600000270 - 1600000283
-    #   1600000319 - 1600000326
-    #   1600000428 - 1600000431
-    #   
-    #
-    #   
-    ###
+<!--
+# By Althandir / Altdolphin
+# NOTE: 
+# GUIDs might be all over the place (not outside of my Range but inside this mod) due to my experiments all the time
+# or my stupid brain getting new Ideas all the time and never finishing something >~<
 
-    Modtools - Helper Website
-    https://a1800.net/?aGAME=a117
-    Modloder Reference
-    https://jakobharder.github.io/anno-mod-loader/
+###  
+#   GUID-Ranges:  
+#   1600000002 - 1600000003
+#   1600000025 - 1600000028
+#   1600000106 - 1600000113
+#   1600000118 - 1600000123
+#   1600000130 - 1600000133 (ReplaceInput)
+#   1600000137 - 1600000138
+#   1600000139 - 1600000140
+#   1600000152 - 1600000153 + 1600000XXX
+#   1600000154 - 1600000155
+#   1600000192 - 1600000195
+#   1600000198 - 1600000205
+#   1600000248 - 1600000253
+#   1600000270 - 1600000283
+#   1600000319 - 1600000326
+#   1600000428 - 1600000431
+#   
+#
+#   
+###
 
-    For Properties see properties-meta.xml from game.rda
-  -->
-  
-  <!-- Common Specialists -->
-  <Group>
+Modtools - Helper Website
+https://a1800.net/?aGAME=a117
+Modloder Reference
+https://jakobharder.github.io/anno-mod-loader/
+
+For Properties see properties-meta.xml from game.rda
+-->
+    
+<!-- Common Specialists -->
+<Group>
     <Include File="items-common/Area-Forest-Ponies-C.xml" />
     <Include File="items-common/Upkeep-Upholsterer-C.xml"/>
     <Include File="items-common/Area-Forestries-C.xml" />
-  </Group>
+</Group>
 
-  <!-- Rare Specialists -->
-  <Group>
+<!-- Rare Specialists -->
+<Group>
     <Include File="items-rare/AddClay-WaterSlots-R.xml"/>
     <Include File="items-rare/Module-Reed-R.xml" />
     <Include File="items-rare/AddSame-Area-HuntersEels-R.xml" />
@@ -56,10 +56,10 @@
     <Include File="items-rare/Prod-NFuel-FuelConsumer-R.xml" />
 
     <Include File="items-rare/ReInput-Cloth-WoolRFlax-R.xml" />
-  </Group>
+</Group>
 
-  <!-- Epic Specialists -->
-  <Group>
+<!-- Epic Specialists -->
+<Group>
     <Include File="items-epic/AddCockles-RCSeashell-E.xml" />
     <Include File="items-epic/AddCopper-Mines-E.xml" />
     <Include File="items-epic/AddMarble-Quarries-E.xml" />
@@ -89,22 +89,31 @@
     <Include File="items-epic/ReInput-FGlass-SiliziaRGlass-E.xml" />
     <Include File="items-epic/ReInput-Neck-SilberRGold-E.xml" />
 
-  </Group>
+</Group>
 
-  <!-- Legendary Specialists -->
-  <Group>
+<!-- Legendary Specialists -->
+<Group>
     <Include File="items-legendary/CrazyLatiumFisheries-L.xml" />
-  </Group>
+</Group>
 
-  <!-- Add to Pools -->
-  <Include File="pools/AssetList/AssetListPools.xml" />
-  <Include File="pools/RewardPool/AllItems&Specialists.xml" />
-  
-  <!-- Add to Traderpools --> 
-  <Include File="pools/Traders/pools-common.xml" />
-  <Include File="pools/Traders/pools-rare.xml" />
-  <Include File="pools/Traders/pools-epic.xml" />
-  <Include File="pools/Traders/pools-legendary.xml" />
+<!-- Add to Pools -->
+<Include File="pools/AssetList/AssetListPools.xml" />
+<Include File="pools/RewardPool/AllItems&Specialists.xml" />
+
+<Include File="pools/RewardPool/Economy-C.xml" />
+<Include File="pools/RewardPool/Economy-E.xml" />
+<Include File="pools/RewardPool/Economy-L.xml" />
+<Include File="pools/RewardPool/Economy-R.xml" />
+
+<Include File="pools/RewardPool/Nature-C.xml" />
+<Include File="pools/RewardPool/Nature-E.xml" />
+<Include File="pools/RewardPool/Nature-R.xml" />
+
+<!-- Add to Traderpools --> 
+<Include File="pools/Traders/pools-common.xml" />
+<Include File="pools/Traders/pools-rare.xml" />
+<Include File="pools/Traders/pools-epic.xml" />
+<Include File="pools/Traders/pools-legendary.xml" />
 
 
 </ModOps>
