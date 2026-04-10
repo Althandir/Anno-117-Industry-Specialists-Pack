@@ -7,7 +7,7 @@
 -->
 <!-- RewardPool Rare Traders -->
     <Group>
-      <ModOp Type="add" GUID="83449,83461,83465,83469,83477,83473,83481" Path="/Values/RewardPool/ItemsPool">
+        <ModOp Type="add" GUID="83449,83461,83465,83469,83477,83473,83481" Path="/Values/RewardPool/ItemsPool">
         <Item>
             <ItemLink>1600000192</ItemLink>
         </Item>
@@ -35,7 +35,10 @@
         <Item>
             <ItemLink>1600000276</ItemLink>
         </Item>
-      </ModOp>
+        <Item>
+            <ItemLink>1600000428</ItemLink>
+        </Item>
+        </ModOp>
     </Group>
 
 

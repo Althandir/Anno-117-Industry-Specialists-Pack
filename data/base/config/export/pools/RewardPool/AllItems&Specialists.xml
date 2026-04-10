@@ -41,7 +41,10 @@
         </Item>
         <Item>
             <ItemLink>1600000276</ItemLink>
-        </Item>        
+        </Item>
+        <Item>
+            <ItemLink>1600000428</ItemLink>
+        </Item>      
 
         <!-- Epic -->
         <Item>
@@ -113,9 +116,8 @@
         <Item>
             <ItemLink>1600000325</ItemLink>
         </Item>
-
         <Item>
-            <ItemLink>1600000428</ItemLink>
+            <ItemLink>1600000430</ItemLink>
         </Item>
 
         <!-- Legendary -->
