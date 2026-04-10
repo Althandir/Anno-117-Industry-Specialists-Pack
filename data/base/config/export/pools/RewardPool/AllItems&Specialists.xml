@@ -1,13 +1,52 @@
 <ModOps>
-<!-- 
-###
-#INFO: For some Reason Manx as Trader points to Voada RewardPool 
-#INFO: RewardPool GUID order for add is always: "Any","Traders&PirateLatium","Traders&PirateAlbion"
-### 
--->
-<!-- RewardPool Epic Traders -->
-    <Group>
-      <ModOp Type="add" GUID="83450,83462,83466,83470,83478,83474,83482" Path="/Values/RewardPool/ItemsPool">
+<!-- Add to RewardPools -->
+<!-- RewardList All Items & Specialists Items-->
+<Group>
+    <ModOp Type="add" GUID="43037,82598" Path="/Values/RewardPool/ItemsPool">
+        <!-- Common -->
+        <Item>
+            <ItemLink>1600000025</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000027</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000194</ItemLink>
+        </Item>
+
+        <!-- Rare -->
+        <Item>
+            <ItemLink>1600000192</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000198</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000200</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000202</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000204</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000270</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000272</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000274</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000276</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000428</ItemLink>
+        </Item>      
+
+        <!-- Epic -->
         <Item>
             <ItemLink>1600000002</ItemLink>
         </Item>
@@ -42,7 +81,13 @@
             <ItemLink>1600000132</ItemLink>
         </Item>
         <Item>
+            <ItemLink>1600000137</ItemLink>
+        </Item>
+        <Item>
             <ItemLink>1600000139</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000154</ItemLink>
         </Item>
         <Item>
             <ItemLink>1600000248</ItemLink>
@@ -71,18 +116,16 @@
         <Item>
             <ItemLink>1600000325</ItemLink>
         </Item>
-
-        <Item>
-            <ItemLink>1600000154</ItemLink>
-        </Item>
-        <Item>
-            <ItemLink>1600000137</ItemLink>
-        </Item>
         <Item>
             <ItemLink>1600000430</ItemLink>
         </Item>
-      </ModOp>
-    </Group>
 
+        <!-- Legendary -->
+        <Item>
+            <ItemLink>1600000152</ItemLink>
+        </Item>
+
+    </ModOp>
+</Group>
 
 </ModOps>

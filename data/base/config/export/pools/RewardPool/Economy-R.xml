@@ -1,0 +1,21 @@
+<ModOps>
+<!-- Add to RewardPools -->
+<!-- RewardList Economy Rare -->
+<Group>
+    <ModOp Type="add" GUID="121853" Path="/Values/RewardPool/ItemsPool">
+        <Item>
+            <ItemLink>1600000192</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000202</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000204</ItemLink>
+        </Item>
+        <Item>
+            <ItemLink>1600000428</ItemLink>
+        </Item>
+    </ModOp>
+</Group>
+
+</ModOps>

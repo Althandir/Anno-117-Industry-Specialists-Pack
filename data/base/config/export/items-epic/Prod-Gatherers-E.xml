@@ -1,0 +1,87 @@
+<ModOps>
+<!-- Item Definition GUID:1600000137 - 1600000138 | LineID:1600000137 - 1600000138  -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>Item</Template>
+            <Values>
+            <Standard>
+                <GUID>1600000137</GUID>
+                <Name>Specialist Prod-Gatherers-E</Name>
+                <IconFilename>data/base/graphics/icons/m_Prod-Gatherers-E.png</IconFilename>
+                <InfoDescription>1600000138</InfoDescription>
+            </Standard>
+            <Effect>
+                <EffectScope>Radius</EffectScope>  
+                <SourceCategory>Item</SourceCategory>
+                <Buffs>
+                    <Item>
+                        <GUID>1600000138</GUID>
+                    </Item>
+                </Buffs>
+                <Targets> <!-- Targets of Buff -->
+                <Item>
+                    <GUID>50602</GUID>
+                </Item>
+                </Targets>
+                <HideInGovernorsBar>1</HideInGovernorsBar>
+            </Effect>
+            <Item>
+                <Niche>Economy</Niche>  
+                <TradePrice>80000</TradePrice> 
+                <BarkPool>83296</BarkPool> <!-- <GUID>83296</GUID> -->
+                <Rarity>Epic</Rarity> 
+            </Item>
+            <Locked>
+                <DefaultLockedState>0</DefaultLockedState>
+            </Locked>
+            <Text>
+                <OasisId>1600000137</OasisId>
+            </Text>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+    <!-- Buff Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+        <Asset>
+            <Template>BuildingBuff</Template>
+            <Values>
+                <Standard>
+                    <GUID>1600000138</GUID>
+                    <Name>Specialist Prod-Gatherers-E BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/m_Prod-Gatherers-E.png</IconFilename>
+                </Standard>
+                <Text>
+                    <OasisId>1600000137</OasisId>
+                </Text>
+                <HealthUpgrade/>
+                <BuildingUpgrade/>
+                <DistributionUpgrade/>
+                <Buff>
+                    <SourceCategory>Item</SourceCategory>
+                </Buff>
+                <ResidenceUpgrade/>
+                <FactoryUpgrade>
+                    <ProductivityUpgrade>
+                        <Value>35</Value>
+                        <Percental>1</Percental>
+                    </ProductivityUpgrade>
+                </FactoryUpgrade>
+                <ModuleOwnerUpgrade/>
+                <MaintenanceUpgrade/>
+                <CityInstitutionUpgrade/>
+                <IncidentInfectableUpgrade/>
+                <RecruitmentUpgrade/>
+                <AqueductUpgrade/>
+                <WarehouseUpgrade/>
+                <IrrigationUpgrade/>
+            </Values>
+        </Asset>
+    </ModOp>
+    </Group>
+
+</ModOps>
