@@ -4,23 +4,23 @@ This mod adds Specialist focused on Ships into Anno 117. This Mod is part as a s
 ### Item Overview (AI Generated - Might contain Issues. Please point them out if you find some)
 ***
 ## Quick Links:
-1. [Common Specialists](#Common)
-2. [Rare Specialists](#Rare)
-3. [Epic Specialists](#Epic)
+1. [Common Specialists](#common-specialists-)
+2. [Rare Specialists](#rare-specialists-)
+3. [Epic Specialists](#epic-specialists-)
     1. [Additional-Goods](#Epic-Additional-Goods)
     2. [Module-Upgrade](#Epic-Module-Upgrade)
     3. [Production-Upgrade](#Epic-Production-Specialists)
     4. [Replace-Input](#Epic-Replace-Input)
 4. [Legendary Specialists](#Legendary)
 
-### Common Specialists <a name="Common"></a>
+### Common Specialists <a name="Common-Specialists"></a>
 | Image Preview | GUID | Internal Name | Item name (Title) | Description | Targets | Base Effects |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![data/base/graphics/icons/c_m_Area-Forestries-C.png](data/base/graphics/icons/c_m_Area-Forestries-C.png) | 1600000025 | Specialist Area-Forestries-C | Young Arborist | Enjoys caring for trees. &#xD;(Industry-Pack) | 50251 | • Area Reduction: 15% |
 | ![data/base/graphics/icons/c_f_Area-Forest-Ponies-C.png](data/base/graphics/icons/c_f_Area-Forest-Ponies-C.png) | 1600000027 | Specialist Area-Forest-Ponies-C | Wild Pony Huntress | Keeps behaving like a wild pony. &#xD;(Industry-Pack) | 5975 | • Area Reduction: 10%<br> • Can Use Forests: True |
 | ![data/base/graphics/icons/unchanged/c_f_Upkeep-Upholsterer-C.png](data/base/graphics/icons/unchanged/c_f_Upkeep-Upholsterer-C.png) | 1600000194 | Specialist Upkeep-Upholsterer-C | Upholsterer Trainer | Teaches how to handle needle tools to prevent worker outages. &#xD;(Industry-Pack) | 51929 | • -50% Maintenance Cost<br>• -25% Workforce Maintenance |
 
-### Rare Specialists <a name="Rare"></a>
+### Rare Specialists <a name="Rare-Specialists"></a>
 | Image Preview | GUID | Internal Name | Item name (Title) | Description | Targets | Base Effects |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![data/base/graphics/icons/f_AddSame-Area-HuntersEels-R.png](data/base/graphics/icons/f_AddSame-Area-HuntersEels-R.png) | 1600000200 | Specialist AddSame-Area-HuntersEels-R | Eager Huntress | Yearns for the hunt. (Industry-Pack) | 51906, 5299 | • Area Reduction: -20%<br>• Additional Output per 10th Cycle: +1 |
@@ -34,7 +34,7 @@ This mod adds Specialist focused on Ships into Anno 117. This Mod is part as a s
 | ![data/base/graphics/icons/r_m_AddClay-WaterSlots-R.png](data/base/graphics/icons/r_m_AddClay-WaterSlots-R.png) | 1600000192 | Specialist AddClay-WaterSlots-R | Clay Digger | Kept the fun from digging into Clay since the childhood. (Industry-Pack) | 2970, 3074, 3075, 2971, 31753 | • Additional Output per Cycle: +1<br>• +100% Maintenance Cost<br>• +25% Workforce Maintenance. |
 | ![data/base/graphics/icons/m_ReInput-Cloth-WoolRFlax-R.png](data/base/graphics/icons/m_ReInput-Cloth-WoolRFlax-R.png) | 1600000428 | Specialist ReInput-Cloth-WoolRFlax-R | Criticized Wool Weaver | "Come on, don't be like that. With the right processing, wool can work just fine as a fabric." (Industry-Pack) | 3079 | • -35% Productivity Upgrade<br>• Resource Replacement: Replaces input 2063 with 2073.<br>• -33% Workforce Maintenance<br>• Replace worker 2185 with 2184. |
 
-### Epic Specialists <a name="Epic"></a>
+### Epic Specialists <a name="Epic-Specialists"></a>
 #### Additional Goods Specialists <a name="Epic-Additional-Goods"></a>
 | Image Preview | GUID | Internal Name | Item name (Title) | Description | Targets | Base Effects |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
