@@ -7,11 +7,11 @@ This mod adds Specialist focused on Ships into Anno 117. This Mod is part as a s
 1. [Common Specialists](#common-specialists-)
 2. [Rare Specialists](#rare-specialists-)
 3. [Epic Specialists](#epic-specialists-)
-    1. [Additional-Goods](#Epic-Additional-Goods)
-    2. [Module-Upgrade](#Epic-Module-Upgrade)
-    3. [Production-Upgrade](#Epic-Production-Specialists)
-    4. [Replace-Input](#Epic-Replace-Input)
-4. [Legendary Specialists](#Legendary)
+    1. [Additional-Goods](#additional-goods-specialists-)
+    2. [Module-Upgrade](#module-upgrade-specialists-)
+    3. [Production-Upgrade](#production-specialists-)
+    4. [Replace-Input](#replace-input-specialists-)
+4. [Legendary Specialists](#legendary-specialists-)
 
 ### Common Specialists <a name="Common-Specialists"></a>
 | Image Preview | GUID | Internal Name | Item name (Title) | Description | Targets | Base Effects |
