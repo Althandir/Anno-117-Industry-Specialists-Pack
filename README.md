@@ -1,5 +1,5 @@
 # Industry Specialist Pack - Mod
-This mod adds Specialist focused on Industry Buildings into Anno 117. This Mod is part as a submod of "Extended Specialists Mod"
+This mod adds Specialists focused on Industry Buildings into Anno 117. This Mod is part as a submod of "Extended Specialists Mod"
 ***
 ### Item Overview (AI Generated - Might contain Issues. Please point them out if you find some)
 ***
