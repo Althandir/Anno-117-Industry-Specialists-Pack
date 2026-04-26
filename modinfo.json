@@ -63,6 +63,25 @@
 
   "CreatorName": "Althandir / Altdolphin",
   "CreatorContact": "althandir via Anno-Modding-Discord / https://github.com/Althandir/Anno117-ExtendedSpecialistsPack-Althandir-Altdolphin",
-  "Image": "ModListingImg.png"
+  "Image": "ModListingImg.png",
 
+  "Options": 
+  {
+    "TradePrice_Common":
+    {
+      "default": "4000"
+    },
+    "TradePrice_Rare":
+    {
+      "default": "22500"
+    },
+    "TradePrice_Epic":
+    {
+      "default": "120000"
+    },
+    "TradePrice_Legendary":
+    {
+      "default": "550000"
+    }
+  }
 }

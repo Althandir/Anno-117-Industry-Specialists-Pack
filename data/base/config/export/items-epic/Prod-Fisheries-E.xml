@@ -24,10 +24,11 @@
                 <GUID>50601</GUID>
               </Item>
             </Targets>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice>80000</TradePrice>
+            <TradePrice><ModValue Insert="$TradePrice_Epic"/></TradePrice>
             <BarkPool>80241</BarkPool> <!-- <GUID>80241</GUID> -->
             <Rarity>Epic</Rarity> 
           </Item>

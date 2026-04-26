@@ -20,15 +20,15 @@
                         </Item>
                     </Buffs>
                     <Targets> <!-- Targets of Buff -->
-                    <Item>
-                        <GUID>50613</GUID>
-                    </Item>
+                        <Item>
+                            <GUID>50613</GUID>
+                        </Item>
                     </Targets>
                     <HideInGovernorsBar>1</HideInGovernorsBar>
                 </Effect>
                 <Item>
                     <Niche>Economy</Niche>  
-                    <TradePrice>80000</TradePrice> 
+                    <TradePrice><ModValue Insert="$TradePrice_Epic"/></TradePrice> 
                     <BarkPool>83296</BarkPool> <!-- <GUID>83296</GUID> -->
                     <Rarity>Epic</Rarity> 
                 </Item>
