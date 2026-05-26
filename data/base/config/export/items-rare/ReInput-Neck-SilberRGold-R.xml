@@ -7,8 +7,8 @@
         <Values>
           <Standard>
             <GUID>1600000132</GUID>
-            <Name>Specialist ReInput-Neck-SilberRGold-E</Name>
-            <IconFilename>data/base/graphics/icons/c_m_ReInput-Neck-SilberRGold-E.png</IconFilename>
+            <Name>Specialist ReInput-Neck-SilberRGold-R</Name>
+            <IconFilename>data/base/graphics/icons/c_m_ReInput-Neck-SilberRGold-R.png</IconFilename>
             <InfoDescription>1600000133</InfoDescription>
           </Standard>
           <Effect>
@@ -28,9 +28,9 @@
           </Effect>
           <Item>
             <Niche>Economy</Niche> 
-            <TradePrice><ModValue Insert="$TradePrice_Epic"/></TradePrice>
+            <TradePrice><ModValue Insert="$TradePrice_Rare"/></TradePrice>
             <BarkPool>83294</BarkPool> <!-- <GUID>83294</GUID> -->
-            <Rarity>Epic</Rarity> 
+            <Rarity>Rare</Rarity> 
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
@@ -52,22 +52,25 @@
             <Values>
                 <Standard>
                     <GUID>1600000133</GUID>
-                    <Name>Specialist ReInput-Neck-SilberRGold-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/c_m_ReInput-Neck-SilberRGold-E.png</IconFilename>
+                    <Name>Specialist ReInput-Neck-SilberRGold-R BuildingBuff</Name>
+                    <IconFilename>data/base/graphics/icons/c_m_ReInput-Neck-SilberRGold-R.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000132</OasisId>
                 </Text>
-                <HealthUpgrade/>
                 <BuildingUpgrade>
                   <AdditionalAttributes>
+                    <Prestige>
+                      <AmountOrPercent>
+                        <Value>-2</Value>
+                        <Percental>0</Percental>
+                      </AmountOrPercent>
+                    </Prestige>
                   </AdditionalAttributes>
                 </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
                 <FactoryUpgrade>
                   <ReplaceInputs>
                     <Item>
@@ -76,14 +79,6 @@
                     </Item>
                   </ReplaceInputs>
                 </FactoryUpgrade>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>

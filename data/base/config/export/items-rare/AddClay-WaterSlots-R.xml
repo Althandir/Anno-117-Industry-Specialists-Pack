@@ -70,40 +70,28 @@
                 <Text>
                     <OasisId>1600000192</OasisId>
                 </Text>
-                <HealthUpgrade/>
-                <BuildingUpgrade>
-                </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
                 <FactoryUpgrade>
                   <AdditionalOutput>
                     <Item>
                       <Product>2086</Product>
-                      <AdditionalOutputCycle>1</AdditionalOutputCycle>
-                      <Amount>1</Amount>
+                      <AdditionalOutputCycle><ModValue Insert="$AdditionalGoods_SlotBuildings_Cycle_Rare"/></AdditionalOutputCycle>
+                      <Amount><ModValue Insert="$AdditionalGoods_SlotBuildings_Amount_Rare"/></Amount>
                     </Item>
                   </AdditionalOutput>
                 </FactoryUpgrade>
-                <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>100</Value>
+                    <Value><ModValue Insert="$AdditionalGoods_SlotBuildings_MaintenanceFactorUpgrade_Rare"/></Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>50</Value>
+                    <Value><ModValue Insert="$AdditionalGoods_SlotBuildings_WorkforceFactorUpgrade_Rare"/></Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>

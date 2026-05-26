@@ -56,6 +56,7 @@ For Properties see properties-meta.xml from game.rda
     <Include File="items-rare/Prod-NFuel-FuelConsumer-R.xml" />
 
     <Include File="items-rare/ReInput-Cloth-WoolRFlax-R.xml" />
+    <Include File="items-rare/ReInput-Neck-SilberRGold-R.xml" />
 </Group>
 
 <!-- Epic Specialists -->
@@ -87,7 +88,6 @@ For Properties see properties-meta.xml from game.rda
     <Include File="items-epic/Prod-Workshops-E.xml" />
 
     <Include File="items-epic/ReInput-FGlass-SiliziaRGlass-E.xml" />
-    <Include File="items-epic/ReInput-Neck-SilberRGold-E.xml" />
 
 </Group>
 
