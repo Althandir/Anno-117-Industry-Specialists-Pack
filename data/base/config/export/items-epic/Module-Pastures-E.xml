@@ -70,7 +70,7 @@
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value><ModValue Insert="$Pastures__ModuleUpgrade_WorkforceFactorUpgrade_Epic"/></Value>
+                    <Value><ModValue Insert="$Pastures_ModuleUpgrade_WorkforceFactorUpgrade_Epic"/></Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
