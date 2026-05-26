@@ -61,7 +61,6 @@
                 <Text>
                     <OasisId>1600000200</OasisId>
                 </Text>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
