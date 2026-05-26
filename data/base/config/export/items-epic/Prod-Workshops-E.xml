@@ -55,32 +55,18 @@
                   <Name>Specialist Prod-Workshops-E BuildingBuff</Name>
                   <IconFilename>data/base/graphics/icons/r_f_Prod-Workshops-E.png</IconFilename>
               </Standard>
-              <HealthUpgrade/>
-
               <Text>
                   <OasisId>1600000139</OasisId>
               </Text>
-              <BuildingUpgrade>
-              </BuildingUpgrade>
-              <DistributionUpgrade/>
               <Buff>
                   <SourceCategory>Item</SourceCategory>
               </Buff>
-              <ResidenceUpgrade/>
               <FactoryUpgrade>
                 <ProductivityUpgrade>
-                  <Value>35</Value>
+                  <Value><ModValue Insert="$Productivity_Epic"/></Value>
                   <Percental>1</Percental>
                 </ProductivityUpgrade>
               </FactoryUpgrade>
-              <ModuleOwnerUpgrade/>
-              <MaintenanceUpgrade/>
-              <CityInstitutionUpgrade/>
-              <IncidentInfectableUpgrade/>
-              <RecruitmentUpgrade/>
-              <AqueductUpgrade/>
-              <WarehouseUpgrade/>
-              <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>

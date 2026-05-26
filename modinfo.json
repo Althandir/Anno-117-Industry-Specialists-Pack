@@ -1,6 +1,6 @@
 {
   "ModID": "althandir-altdolphin-specialists-industry-pack",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Anno": 8,
   "IncompatibleIds": null,
   "ModDependencies": null,
@@ -82,6 +82,21 @@
     "TradePrice_Legendary":
     {
       "default": "550000"
+    },
+    "Productivity_Common":{
+      "default": "10"
+    },
+    "Productivity_Rare":{
+      "default": "20"
+    },
+    "Productivity_Epic":{
+      "default": "35"
+    },
+    "Productivity_Legendary":{
+      "default": "40"
+    },
+    "Productivity_Legendary_Boost":{
+      "default": "70"
     }
   }
 }
