@@ -71,7 +71,7 @@
                   </AdditionalOutput>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade>
-                  <ModuleLimitPercent>50</ModuleLimitPercent>
+                  <ModuleLimitPercent><ModValue Insert="$Farms_ModuleUpgrade_AmountInPercent"/></ModuleLimitPercent>
                 </ModuleOwnerUpgrade>
             </Values>
         </Asset>

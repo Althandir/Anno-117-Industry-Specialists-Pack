@@ -62,7 +62,7 @@
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <ModuleOwnerUpgrade>
-                  <ModuleLimitPercent><ModValue Insert="$Farms_ModuleUpgrade_AmountInPercent_Epic"/></ModuleLimitPercent> <!--NOTE: Module Count is directly linked to productivity. e.g. -50% Modules = -50 Prod | See properties.xml in desc-->
+                  <ModuleLimitPercent><ModValue Insert="$Farms_ModuleUpgrade_AmountInPercent"/></ModuleLimitPercent> <!--NOTE: Module Count is directly linked to productivity. e.g. -50% Modules = -50 Prod | See properties.xml in desc-->
                 </ModuleOwnerUpgrade>
                 <MaintenanceUpgrade>
                   <MaintenanceFactorUpgrade>
