@@ -76,10 +76,10 @@
                 <ResidenceUpgrade/>
                 <FactoryUpgrade>
                   <ProductivityUpgrade>
-                    <Value>30</Value>
+                    <Value><ModValue Insert="$Productivity_Rare * 1.5"/></Value>
                     <Percental>1</Percental>
 			            </ProductivityUpgrade>
-                  <FuelDurationPercent>-30</FuelDurationPercent>
+                  <FuelDurationPercent><ModValue Insert="$Productivity_Rare * -1.5"/></FuelDurationPercent>
                 </FactoryUpgrade>
                 <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade/>

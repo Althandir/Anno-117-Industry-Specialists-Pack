@@ -83,20 +83,61 @@
     {
       "default": "550000"
     },
-    "Productivity_Common":{
+    "Productivity_Common":
+    {
       "default": "10"
     },
-    "Productivity_Rare":{
+    "Productivity_Rare":
+    {
       "default": "20"
     },
-    "Productivity_Epic":{
+    "Productivity_Epic":
+    {
       "default": "35"
     },
-    "Productivity_Legendary":{
-      "default": "40"
+    "Productivity_Legendary":
+    {
+      "default": "35"
     },
-    "Productivity_Legendary_Boost":{
-      "default": "70"
+    "Productivity_Legendary_Boost":
+    {
+      "default": "50"
+    },
+    "AdditionalGoods_Amount_Legendary":
+    {
+      "default": "1"
+    },
+    "AdditionalGoods_Cycle_Legendary":
+    {
+      "default": "2"
+    },
+    "AdditionalGoods_Amount_Legendary_Boosted":
+    {
+      "default": "1"
+    },
+    "AdditionalGoods_Cycle_Legendary_Boosted":
+    {
+      "default": "1"
+    },
+    "AreaUpgrade_Common":
+    {
+      "default": "-15"
+    },
+    "AreaUpgrade_Rare":
+    {
+      "default": "-25"
+    },
+    "AreaUpgrade_Epic":
+    {
+      "default": "-35"
+    },
+    "MaintenanceFactorUpgrade_Common":
+    {
+      "default": "-50"
+    },
+    "WorkforceFactorUpgrade_Common":
+    {
+      "default": "-25"
     }
   }
 }
