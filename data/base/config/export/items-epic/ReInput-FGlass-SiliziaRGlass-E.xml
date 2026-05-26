@@ -58,10 +58,6 @@
                 <Text>
                     <OasisId>1600000130</OasisId>
                 </Text>
-                <HealthUpgrade/>
-                <BuildingUpgrade>
-                </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
@@ -70,7 +66,7 @@
                   <AdditionalOutput>
                     <Item>
                       <Product>2151</Product>
-                      <AdditionalOutputCycle>10</AdditionalOutputCycle>
+                      <AdditionalOutputCycle>16</AdditionalOutputCycle>
                       <Amount>1</Amount>
                     </Item>
                   </AdditionalOutput>
@@ -81,14 +77,6 @@
                     </Item>
                   </ReplaceInputs>
                 </FactoryUpgrade>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>

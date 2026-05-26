@@ -54,32 +54,19 @@
                   <Name>Specialist Prod-Kitchens-E BuildingBuff</Name>
                   <IconFilename>data/base/graphics/icons/f_Prod-Kitchens-E.png</IconFilename>
               </Standard>
-              <HealthUpgrade/>
-
               <Text>
                   <OasisId>1600000248</OasisId>
               </Text>
-              <BuildingUpgrade>
-              </BuildingUpgrade>
-              <DistributionUpgrade/>
+
               <Buff>
                   <SourceCategory>Item</SourceCategory>
               </Buff>
-              <ResidenceUpgrade/>
               <FactoryUpgrade>
                 <ProductivityUpgrade>
-                  <Value>35</Value>
+                  <Value><ModValue Insert="$Productivity_Epic"/></Value>
                   <Percental>1</Percental>
                 </ProductivityUpgrade>
               </FactoryUpgrade>
-              <ModuleOwnerUpgrade/>
-              <MaintenanceUpgrade/>
-              <CityInstitutionUpgrade/>
-              <IncidentInfectableUpgrade/>
-              <RecruitmentUpgrade/>
-              <AqueductUpgrade/>
-              <WarehouseUpgrade/>
-              <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>

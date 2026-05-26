@@ -113,10 +113,6 @@
                 <Text>
                     <OasisId>1600000152</OasisId>
                 </Text>
-                <HealthUpgrade/>
-                <BuildingUpgrade>
-                </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
@@ -125,8 +121,8 @@
                   <AdditionalOutput>
                     <Item>
                       <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                      <AdditionalOutputCycle>2</AdditionalOutputCycle>
-                      <Amount>1</Amount>
+                      <AdditionalOutputCycle><ModValue Insert="$AdditionalGoods_Cycle_Legendary"/></AdditionalOutputCycle>
+                      <Amount><ModValue Insert="$AdditionalGoods_Amount_Legendary"/></Amount>
                     </Item> 
                     <Item>
                       <Product>31697</Product>
@@ -145,14 +141,6 @@
                     </Item>
                   </AdditionalOutput>
                 </FactoryUpgrade>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>
@@ -170,20 +158,15 @@
                 <Text>
                     <OasisId>1600000152</OasisId>
                 </Text>
-                <HealthUpgrade/>
-                <BuildingUpgrade>
-                </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
                 <FactoryUpgrade>
                   <AdditionalOutput>
                     <Item>
                       <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                      <AdditionalOutputCycle>1</AdditionalOutputCycle>
-                      <Amount>1</Amount>
+                      <AdditionalOutputCycle><ModValue Insert="$AdditionalGoods_Cycle_Legendary_Boosted"/></AdditionalOutputCycle>
+                      <Amount><ModValue Insert="$AdditionalGoods_Amount_Legendary_Boosted"/></Amount>
                     </Item> 
                     <Item>
                       <Product>31697</Product>
@@ -202,14 +185,6 @@
                     </Item>
                   </AdditionalOutput>
                 </FactoryUpgrade>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>
