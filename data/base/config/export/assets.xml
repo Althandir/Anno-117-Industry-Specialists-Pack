@@ -87,7 +87,7 @@ For Properties see properties-meta.xml from game.rda
     <Include File="items-epic/Prod-Workshops-E.xml" />
 
     <Include File="items-epic/ReInput-FGlass-SiliziaRGlass-E.xml" />
-    <Include File="items-epic/ReInput-Neck-SilberRGold-E.xml" />
+    <Include File="items-epic/ReInput-Neck-SilberRGold-R.xml" />
 
 </Group>
 

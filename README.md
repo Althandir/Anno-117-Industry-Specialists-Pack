@@ -49,6 +49,7 @@ Quick Links:<br>
 | Image Preview | GUID | Internal Name | Item name (Title) | Description | Targets | Base Effects |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![data/base/graphics/icons/m_ReInput-Cloth-WoolRFlax-R.png](data/base/graphics/icons/m_ReInput-Cloth-WoolRFlax-R.png) | 1600000428 | Specialist ReInput-Cloth-WoolRFlax-R | Criticized Wool Weaver | "Come on, don't be like that. With the right processing, wool can work just fine as a fabric." (Industry-Pack) | Weaver | • -35% Productivity Upgrade<br>• Resource Replacement: Replaces input Flax with Wool.<br>• -33% Workforce Maintenance<br>• Replace worker Equites with Plebeians. |
+| ![data/base/graphics/icons/c_m_ReInput-Neck-SilberRGold-R.png](data/base/graphics/icons/c_m_ReInput-Neck-SilberRGold-R.png) | 1600000132 | Specialist ReInput-Neck-SilberRGold-R | Gaius Septicius, the Silversmith | Silver is the new Gold! (Industry-Pack) | Jeweller | • Replaces required input from Gold to Silver. |
 ***
 ### Epic Specialists
 #### Epic Additional Goods Specialists
@@ -87,7 +88,6 @@ Quick Links:<br>
 #### Epic Replace Input Specialists
 | Image Preview | GUID | Internal Name | Item name (Title) | Description | Targets | Base Effects |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![data/base/graphics/icons/c_m_ReInput-Neck-SilberRGold-E.png](data/base/graphics/icons/c_m_ReInput-Neck-SilberRGold-E.png) | 1600000132 | Specialist ReInput-Neck-SilberRGold-E | Gaius Septicius, the Silversmith | Silver is the new Gold! (Industry-Pack) | Jeweller | • Replaces required input from Gold to Silver. |
 | ![data/base/graphics/icons/c_m_ReInput-FGlass-SiliziaRGlass-E.png](data/base/graphics/icons/c_m_ReInput-FGlass-SiliziaRGlass-E.png) | 1600000130 | Specialist ReInput-FGlass-SiliziaRGlass-E | Vitrearios, the Glassmaker | Shapes the glass in form directly in front of your eyes. (Industry-Pack) | Glassblower | • Adds an additional output of Fine Glass every 10 cycles.<br>• Replaces required input from Glass to Silica. |
 ***
 ### Legendary Specialists
