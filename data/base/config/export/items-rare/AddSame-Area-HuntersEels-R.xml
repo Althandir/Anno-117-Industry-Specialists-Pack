@@ -61,14 +61,10 @@
                 <Text>
                     <OasisId>1600000200</OasisId>
                 </Text>
-                <HealthUpgrade/>
-                <BuildingUpgrade>
-                </BuildingUpgrade>
                 <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
                 <FactoryUpgrade>
                   <AdditionalOutput>
                     <Item>
@@ -78,19 +74,10 @@
                     </Item>
                   </AdditionalOutput>
                   <NeededAreaUpgrade>
-                    <Value>-20</Value>
+                    <Value><ModValue Insert="$AreaUpgrade_Rare"/></Value>
                     <Percental>1</Percental>
                   </NeededAreaUpgrade>
                 </FactoryUpgrade>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
- 
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>

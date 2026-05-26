@@ -58,35 +58,22 @@
                 <Text>
                     <OasisId>1600000112</OasisId>
                 </Text>
-                <HealthUpgrade/>
-                <BuildingUpgrade>
-                </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
-                <FactoryUpgrade>
-                  <ProductivityUpgrade>
-                    <Value>0</Value>
-                    <Percental>1</Percental>
-			            </ProductivityUpgrade>
-                </FactoryUpgrade>
                 <ModuleOwnerUpgrade>
-                  <ModuleLimitPercent>100</ModuleLimitPercent>
+                  <ModuleLimitPercent><ModValue Insert="$Pastures_ModuleUpgrade_AmountInPercent_Epic"/></ModuleLimitPercent>
                 </ModuleOwnerUpgrade>
                 <MaintenanceUpgrade>
+                  <MaintenanceFactorUpgrade>
+                    <Value><ModValue Insert="$Pastures_ModuleUpgrade_MaintenanceFactorUpgrade_Epic"/></Value>
+                    <Percental>1</Percental>
+                  </MaintenanceFactorUpgrade>
                   <WorkforceMaintenanceFactorUpgrade>
-                    <Value>100</Value>
+                    <Value><ModValue Insert="$Pastures__ModuleUpgrade_WorkforceFactorUpgrade_Epic"/></Value>
                     <Percental>1</Percental>
                   </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>

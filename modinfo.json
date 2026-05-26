@@ -121,15 +121,87 @@
     },
     "AreaUpgrade_Common":
     {
-      "default": "-15"
+      "default": "-10"
     },
     "AreaUpgrade_Rare":
     {
-      "default": "-25"
+      "default": "-20"
     },
     "AreaUpgrade_Epic":
     {
       "default": "-35"
+    },
+    "AdditionalGoods_SlotBuildings_Amount_Epic":
+    {
+      "default": "1"
+    },
+    "AdditionalGoods_SlotBuildings_Cycle_Epic":
+    {
+      "default": "2"
+    },
+    "AdditionalGoods_SlotBuildings_MaintenanceFactorUpgrade_Epic":
+    {
+      "default": "200"
+    },
+    "AdditionalGoods_SlotBuildings_WorkforceFactorUpgrade_Epic":
+    {
+      "default": "100"
+    },
+    "AdditionalGoods_SlotBuildings_Amount_Rare":
+    {
+      "default": "1"
+    },
+    "AdditionalGoods_SlotBuildings_Cycle_Rare":
+    {
+      "default": "2"
+    },
+    "AdditionalGoods_SlotBuildings_MaintenanceFactorUpgrade_Rare":
+    {
+      "default": "100"
+    },
+    "AdditionalGoods_SlotBuildings_WorkforceFactorUpgrade_Rare":
+    {
+      "default": "50"
+    },
+    "AdditionalGoods_Seaside_Amount_Epic":
+    {
+      "default": "1"
+    },
+    "AdditionalGoods_Seaside_Cycle_Epic":
+    {
+      "default": "2"
+    },
+    "AdditionalGoods_Seaside_MaintenanceFactorUpgrade_Epic":
+    {
+      "default": "50"
+    },
+    "AdditionalGoods_Seaside_WorkforceFactorUpgrade_Epic":
+    {
+      "default": "50"
+    },
+    "Farms_ModuleUpgrade_AmountInPercent_Epic":
+    {
+      "default": "50"
+    },
+    "Farms_ModuleUpgrade_MaintenanceFactorUpgrade_Epic":
+    {
+      "default": "75"
+    },
+    "Farms_ModuleUpgrade_WorkforceFactorUpgrade_Epic":
+    {
+      "default": "50"
+    },
+    "Pastures_ModuleUpgrade_AmountInPercent_Epic":
+    {
+      "default": "100"
+    },
+    "Pastures_ModuleUpgrade_MaintenanceFactorUpgrade_Epic":
+    {
+      "default": "125"
+    },
+    "Pastures_ModuleUpgrade_WorkforceFactorUpgrade_Epic":
+    {
+      "default": "100"
     },
     "MaintenanceFactorUpgrade_Common":
     {

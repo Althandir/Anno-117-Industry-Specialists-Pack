@@ -59,8 +59,7 @@
                     <OasisId>1600000428</OasisId>
                 </Text>
                 <HealthUpgrade/>
-                <BuildingUpgrade>
-                </BuildingUpgrade>
+                <BuildingUpgrade/>
                 <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>

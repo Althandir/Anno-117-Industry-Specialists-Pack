@@ -58,37 +58,26 @@
                 <Text>
                     <OasisId>1600000204</OasisId>
                 </Text>
-                <HealthUpgrade/>
                 <BuildingUpgrade>
                   <AdditionalAttributes>
                     <FireSafety>
                       <AmountOrPercent>
-                        <Value>-5</Value>
+                        <Value><ModValue Insert="$Productivity_Rare*-0.25"/></Value>
                         <Percental>0</Percental>
                       </AmountOrPercent>
                     </FireSafety>
                   </AdditionalAttributes>
                 </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
                 <FactoryUpgrade>
                   <ProductivityUpgrade>
-                    <Value><ModValue Insert="$Productivity_Rare * 1.5"/></Value>
+                    <Value><ModValue Insert="$Productivity_Rare*1.5"/></Value>
                     <Percental>1</Percental>
 			            </ProductivityUpgrade>
-                  <FuelDurationPercent><ModValue Insert="$Productivity_Rare * -1.5"/></FuelDurationPercent>
+                  <FuelDurationPercent><ModValue Insert="$Productivity_Rare*-1.5"/></FuelDurationPercent>
                 </FactoryUpgrade>
-                <ModuleOwnerUpgrade/>
-                <MaintenanceUpgrade/>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>

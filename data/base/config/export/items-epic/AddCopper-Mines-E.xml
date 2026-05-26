@@ -58,44 +58,28 @@
                 <Text>
                     <OasisId>1600000280</OasisId>
                 </Text>
-                <HealthUpgrade/>
-                <BuildingUpgrade>
-                </BuildingUpgrade>
-                <DistributionUpgrade/>
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
                 <FactoryUpgrade>
-                  <ProductivityUpgrade>
-                    <Value>0</Value>
-                    <Percental>1</Percental>
-                  </ProductivityUpgrade>
                   <AdditionalOutput>
                     <Item>
                       <Product>2099</Product>
-                      <AdditionalOutputCycle>1</AdditionalOutputCycle>
-                      <Amount>1</Amount>
+                      <AdditionalOutputCycle><ModValue Insert="$AdditionalGoods_SlotBuildings_Cycle_Epic"/></AdditionalOutputCycle>
+                      <Amount><ModValue Insert="$AdditionalGoods_SlotBuildings_Amount_Epic"/></Amount>
                     </Item>
                   </AdditionalOutput>
                 </FactoryUpgrade>
-                <ModuleOwnerUpgrade/>
                 <MaintenanceUpgrade>
-                  <WorkforceMaintenanceFactorUpgrade>
-                    <Value>200</Value>
-                    <Percental>1</Percental>
-                  </WorkforceMaintenanceFactorUpgrade>
                   <MaintenanceFactorUpgrade>
-                    <Value>200</Value>
+                    <Value><ModValue Insert="$AdditionalGoods_SlotBuildings_MaintenanceFactorUpgrade_Epic"/></Value>
                     <Percental>1</Percental>
                   </MaintenanceFactorUpgrade>
+                  <WorkforceMaintenanceFactorUpgrade>
+                    <Value><ModValue Insert="$AdditionalGoods_SlotBuildings_WorkforceFactorUpgrade_Epic"/></Value>
+                    <Percental>1</Percental>
+                  </WorkforceMaintenanceFactorUpgrade>
                 </MaintenanceUpgrade>
-                <CityInstitutionUpgrade/>
-                <IncidentInfectableUpgrade/>
-                <RecruitmentUpgrade/>
-                <AqueductUpgrade/>
-                <WarehouseUpgrade/>
-                <IrrigationUpgrade/>
             </Values>
         </Asset>
     </ModOp>

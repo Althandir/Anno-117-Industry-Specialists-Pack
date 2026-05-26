@@ -61,6 +61,12 @@
                 <HealthUpgrade/>
                 <BuildingUpgrade>
                   <AdditionalAttributes>
+                    <Prestige>
+                      <AmountOrPercent>
+                        <Value>-2</Value>
+                        <Percental>0</Percental>
+                      </AmountOrPercent>
+                    </Prestige>
                   </AdditionalAttributes>
                 </BuildingUpgrade>
                 <DistributionUpgrade/>
