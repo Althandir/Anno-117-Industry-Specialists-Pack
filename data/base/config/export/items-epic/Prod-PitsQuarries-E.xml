@@ -57,7 +57,6 @@
                   <Name>Specialist Prod-PitsQuarries-E BuildingBuff</Name>
                   <IconFilename>data/base/graphics/icons/r_f_Prod-PitsQuarries-E.png</IconFilename>
               </Standard>
-              <HealthUpgrade/>
               <Text>
                   <OasisId>1600000323</OasisId>
               </Text>

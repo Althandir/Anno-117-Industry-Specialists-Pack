@@ -116,7 +116,6 @@
                 <Buff>
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
-                <ResidenceUpgrade/>
                 <FactoryUpgrade>
                   <AdditionalOutput>
                     <Item>
