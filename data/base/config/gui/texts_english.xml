@@ -1,9 +1,4 @@
 <ModOps>
-  <!-- 
-    UNEVEN NUMBER == TITLE
-    EVEN NUMBER == DESCRIPTION
-  --> 
-  
   <!-- Specialist Prod-Extractors-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -241,7 +236,7 @@
           <Text>Has the hope to catch a mermaid by using overdimentional nets. Instead he finds sandals and sometimes a lost sheep. &#xD;(Industry-Pack)</Text>
           <LineId>1600000153</LineId> 
       </Text>
-      <!-- Description -->
+      <!-- Boosted Description -->
       <Text>
           <Text>Wastes way to many ropes for his dream. (3x Ropemaker on Island - valid only in Latium)</Text>
           <LineId>1600000561</LineId> 
@@ -616,4 +611,26 @@
       </Text>
     </ModOp>
   </Group>
+
+  <!-- Specialist CrazyHoneyBear-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>_PlaceholderText</Text>
+          <LineId>1600000888</LineId> <!-- <GUID>1600000888</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>_PlaceholderText &#xD;(Industry-Pack)</Text>
+          <LineId>1600000889</LineId> 
+      </Text>
+      <!-- Boosted Description -->
+      <Text>
+          <Text>_PlaceholderText (At Most 3x Sardinefisher on Island _PlaceholderText)</Text>
+          <LineId>1600000890</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
 </ModOps>

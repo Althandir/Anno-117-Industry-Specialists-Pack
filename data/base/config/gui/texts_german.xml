@@ -1,9 +1,4 @@
 <ModOps>
-  <!-- 
-    UNEVEN NUMBER == TITLE
-    EVEN NUMBER == DESCRIPTION
-  --> 
-
   <!-- Specialist Prod-Extractors-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -614,6 +609,27 @@
       <Text>
           <Text>Stellt dir jedes Material zum Bau deiner Städte zur Verfügung. &#xD;(Industry-Pack)</Text>
           <LineId>1600000431</LineId> 
+      </Text>
+    </ModOp>
+  </Group>
+
+  <!-- Specialist CrazyHoneyBear-L -->
+  <Group>
+    <ModOp Add="/TextExport/Texts">
+      <!-- Title -->
+      <Text>
+          <Text>_PlaceholderText</Text>
+          <LineId>1600000888</LineId> <!-- <GUID>1600000888</GUID> -->
+      </Text>
+      <!-- Description -->
+      <Text>
+          <Text>_PlaceholderText &#xD;(Industry-Pack)</Text>
+          <LineId>1600000889</LineId> 
+      </Text>
+      <!-- Boosted Description -->
+      <Text>
+          <Text>_PlaceholderText (Höchstens 3x Sardinenfischer auf Insel _PlaceholderText)</Text>
+          <LineId>1600000890</LineId> 
       </Text>
     </ModOp>
   </Group>

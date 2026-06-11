@@ -103,21 +103,37 @@
     {
       "default": "50"
     },
-    "AdditionalGoods_Amount_Legendary":
+    "AdditionalGoods_Amount_L_LatiumFisher":
     {
       "default": "1"
     },
-    "AdditionalGoods_Cycle_Legendary":
+    "AdditionalGoods_Cycle_L_LatiumFisher":
     {
       "default": "2"
     },
-    "AdditionalGoods_Amount_Legendary_Boosted":
+    "AdditionalGoods_Amount_L_LatiumFisher_Boosted":
     {
       "default": "1"
     },
-    "AdditionalGoods_Cycle_Legendary_Boosted":
+    "AdditionalGoods_Cycle_L_LatiumFisher_Boosted":
     {
       "default": "1"
+    },
+    "AdditionalGoods_Amount_L_HoneyBear":
+    {
+      "default": "2"
+    },
+    "AdditionalGoods_Cycle_L_HoneyBear":
+    {
+      "default": "7"
+    },
+    "AdditionalGoods_Amount_L_HoneyBear_Boosted":
+    {
+      "default": "2"
+    },
+    "AdditionalGoods_Cycle_L_HoneyBear_Boosted":
+    {
+      "default": "3"
     },
     "AreaUpgrade_Common":
     {

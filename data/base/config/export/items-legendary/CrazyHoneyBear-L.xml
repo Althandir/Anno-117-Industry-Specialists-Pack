@@ -1,0 +1,164 @@
+<ModOps>
+  <!-- Item Definition GUID:1600000888 - 1600000889 + 1600000890  | LineID:1600000888 - 1600000889 + 1600000890 -->
+  <Group>
+    <ModOp Type="addNextSibling" GUID="106410">
+      <Asset>
+        <Template>ItemWithBoost</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000888</GUID>
+            <Name>Specialist CrazyHoneyBear-L</Name>
+            <IconFilename>data/base/graphics/icons/_Placeholder.png</IconFilename>
+            <InfoDescription>1600000889</InfoDescription>
+          </Standard>
+          <Effect>
+            <EffectScope>Radius</EffectScope>
+            <SourceCategory>Item</SourceCategory>
+            <Buffs>
+              <Item>
+                <GUID>1600000889</GUID>
+              </Item>
+            </Buffs>
+            <Targets> <!-- Targets of Buff -->
+              <Item>
+                <GUID>68720</GUID>
+              </Item>
+            </Targets>
+            <HideInGovernorsBar>1</HideInGovernorsBar>
+          </Effect>
+          <Item>
+            <Niche>Economy</Niche>
+            <TradePrice><ModValue Insert="$TradePrice_Legendary"/></TradePrice>
+            <BarkPool>0</BarkPool> <!-- <GUID>0</GUID> -->
+            <Rarity>Legendary</Rarity>
+          </Item>
+          <Locked>
+            <DefaultLockedState>0</DefaultLockedState>
+          </Locked>
+          <Text>
+            <OasisId>1600000888</OasisId>
+          </Text>
+
+          <ItemWithBoost>
+            <BoostCondition>
+              <IsBaseAutoCreateAsset>1</IsBaseAutoCreateAsset>
+              <Values>
+                <PreConditionList>
+                  <Condition>
+                    <Template>ConditionObjectCount</Template>
+                    <Values>
+                      <Condition/>
+                      <ConditionObjectCount>
+                        <Amount>3</Amount>
+                        <ComparisonOp>AtMost</ComparisonOp>
+                      </ConditionObjectCount>
+                      <ObjectFilter>
+                        <ObjectGUID>2955</ObjectGUID>
+                        <ObjectLocations>
+                          <Template>LocationFilter</Template>
+                          <Values>
+                            <LocationFilter>
+                              <ObjectLocations>
+                                <ObjectFilter>
+                                  <Template>ObjectFilter</Template>
+                                  <Values>
+                                    <ObjectFilter>
+                                      <UseContextObjects>1</UseContextObjects>
+                                    </ObjectFilter>
+                                  </Values>
+                                </ObjectFilter>
+                              </ObjectLocations>
+                            </LocationFilter>
+                          </Values>
+                        </ObjectLocations>
+                      </ObjectFilter>
+                    </Values>
+                  </Condition>
+                </PreConditionList>
+              </Values>
+            </BoostCondition>
+            <BoostBuffs>
+              <Item>
+                <GUID>1600000890</GUID>
+              </Item>
+            </BoostBuffs>
+            <BoostHint>1600000890</BoostHint>
+          </ItemWithBoost>
+
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+  <!-- Buff Definitions-->
+  <Group>
+    <!-- BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+      <Asset>
+        <Template>BuildingBuff</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000889</GUID>
+            <Name>Specialist CrazyHoneyBear-L BuildingBuff</Name>
+            <IconFilename>data/base/graphics/icons/_Placeholder.png</IconFilename>
+          </Standard>
+          <Text>
+            <OasisId>1600000888</OasisId>
+          </Text>
+          <Buff>
+            <SourceCategory>Item</SourceCategory>
+          </Buff>
+          <FactoryUpgrade>
+            <AdditionalOutput>
+              <Item>
+                <Product>2076</Product>
+                <AdditionalOutputCycle><ModValue Insert="$AdditionalGoods_Cycle_L_HoneyBear"/></AdditionalOutputCycle>
+                <Amount><ModValue Insert="$AdditionalGoods_Amount_L_HoneyBear"/></Amount>
+              </Item>
+              <Item>
+                <Product>2088</Product>
+                <AdditionalOutputCycle>16</AdditionalOutputCycle>
+                <Amount>1</Amount>
+              </Item>
+            </AdditionalOutput>
+          </FactoryUpgrade>
+        </Values>
+      </Asset>
+    </ModOp>
+
+    <!-- Boosted BuildingEffect Definition -->
+    <ModOp Type="addNextSibling" GUID="80193">
+      <Asset>
+        <Template>BuildingBuff</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000890</GUID>
+            <Name>Specialist CrazyHoneyBear-L BuildingBuff</Name>
+            <IconFilename>data/base/graphics/icons/_Placeholder.png</IconFilename>
+          </Standard>
+          <Text>
+            <OasisId>1600000888</OasisId>
+          </Text>
+          <Buff>
+            <SourceCategory>Item</SourceCategory>
+          </Buff>
+          <FactoryUpgrade>
+            <AdditionalOutput>
+              <Item>
+                <Product>2076</Product>
+                <AdditionalOutputCycle><ModValue Insert="$AdditionalGoods_Cycle_L_HoneyBear_Boosted"/></AdditionalOutputCycle>
+                <Amount><ModValue Insert="$AdditionalGoods_Amount_L_HoneyBear_Boosted"/></Amount>
+              </Item>
+              <Item>
+                <Product>2088</Product>
+                <AdditionalOutputCycle>8</AdditionalOutputCycle>
+                <Amount>1</Amount>
+              </Item>
+            </AdditionalOutput>
+          </FactoryUpgrade>
+        </Values>
+      </Asset>
+    </ModOp>
+  </Group>
+
+</ModOps>
