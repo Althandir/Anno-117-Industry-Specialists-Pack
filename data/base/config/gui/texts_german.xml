@@ -618,17 +618,17 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>_PlaceholderText</Text>
+          <Text>Zahmer honigliebender Bär</Text>
           <LineId>1600000888</LineId> <!-- <GUID>1600000888</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>_PlaceholderText &#xD;(Industry-Pack)</Text>
+          <Text>Dieser Bär wurde von einer berühmten römischen Imkerfamilie aufgezogen. Deshalb ist sie sehr lieb zu römisch gekleideten Menschen und bringt ihnen Honig. &#xD;(Industry-Pack)</Text>
           <LineId>1600000889</LineId> 
       </Text>
       <!-- Boosted Description -->
       <Text>
-          <Text>_PlaceholderText (12x Imker auf Insel _PlaceholderText)</Text>
+          <Text>Liebt es, in der Nähe von großen Bienenwiesen zu leben. (7x Imker auf Insel)</Text>
           <LineId>1600000890</LineId> 
       </Text>
     </ModOp>
