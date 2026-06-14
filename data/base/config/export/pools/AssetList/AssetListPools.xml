@@ -4,126 +4,128 @@
         <ModOp Type="add" GUID="113059" Path="/Values/AssetPool/AssetList">
         <!-- Common -->
         <Item>
-            <ItemLink>1600000025</ItemLink>
+            <Asset>1600000025</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000027</ItemLink>
+            <Asset>1600000027</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000194</ItemLink>
+            <Asset>1600000194</Asset>
         </Item>
 
         <!-- Rare -->
         <Item>
-            <ItemLink>1600000192</ItemLink>
+            <Asset>1600000192</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000198</ItemLink>
+            <Asset>1600000198</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000200</ItemLink>
+            <Asset>1600000200</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000202</ItemLink>
+            <Asset>1600000202</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000204</ItemLink>
+            <Asset>1600000204</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000270</ItemLink>
+            <Asset>1600000270</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000272</ItemLink>
+            <Asset>1600000272</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000274</ItemLink>
+            <Asset>1600000274</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000276</ItemLink>
+            <Asset>1600000276</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000428</ItemLink>
+            <Asset>1600000428</Asset>
         </Item>      
 
         <!-- Epic -->
         <Item>
-            <ItemLink>1600000002</ItemLink>
+            <Asset>1600000002</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000282</ItemLink>
+            <Asset>1600000282</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000106</ItemLink>
+            <Asset>1600000106</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000108</ItemLink>
+            <Asset>1600000108</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000110</ItemLink>
+            <Asset>1600000110</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000112</ItemLink>
+            <Asset>1600000112</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000118</ItemLink>
+            <Asset>1600000118</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000120</ItemLink>
+            <Asset>1600000120</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000122</ItemLink>
+            <Asset>1600000122</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000130</ItemLink>
+            <Asset>1600000130</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000132</ItemLink>
+            <Asset>1600000132</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000137</ItemLink>
+            <Asset>1600000137</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000139</ItemLink>
+            <Asset>1600000139</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000154</ItemLink>
+            <Asset>1600000154</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000248</ItemLink>
+            <Asset>1600000248</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000250</ItemLink>
+            <Asset>1600000250</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000252</ItemLink>
+            <Asset>1600000252</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000278</ItemLink>
+            <Asset>1600000278</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000280</ItemLink>
+            <Asset>1600000280</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000319</ItemLink>
+            <Asset>1600000319</Asset>
         </Item>      
         <Item>
-            <ItemLink>1600000321</ItemLink>
+            <Asset>1600000321</Asset>
         </Item>        
         <Item>
-            <ItemLink>1600000323</ItemLink>
+            <Asset>1600000323</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000325</ItemLink>
+            <Asset>1600000325</Asset>
         </Item>
         <Item>
-            <ItemLink>1600000430</ItemLink>
+            <Asset>1600000430</Asset>
         </Item>
 
         <!-- Legendary -->
         <Item>
-            <ItemLink>1600000152</ItemLink>
+            <Asset>1600000152</Asset>
         </Item>
-
+        <Item>
+            <Asset>1600000888</Asset>
+        </Item>
         </ModOp>
     </Group>
 </ModOps>

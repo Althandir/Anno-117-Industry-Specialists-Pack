@@ -22,7 +22,7 @@
 #   1600000270 - 1600000283
 #   1600000319 - 1600000326
 #   1600000428 - 1600000431
-#   
+#   1600000888 - 1600000890 (CrazyHoneyBear-L)
 #
 #   
 ###
@@ -94,6 +94,7 @@ For Properties see properties-meta.xml from game.rda
 <!-- Legendary Specialists -->
 <Group>
     <Include File="items-legendary/CrazyLatiumFisheries-L.xml" />
+    <Include File="items-legendary/CrazyHoneyBear-L.xml" />
 </Group>
 
 <!-- Add to Pools -->

@@ -120,8 +120,8 @@
                   <AdditionalOutput>
                     <Item>
                       <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                      <AdditionalOutputCycle><ModValue Insert="$AdditionalGoods_Cycle_Legendary"/></AdditionalOutputCycle>
-                      <Amount><ModValue Insert="$AdditionalGoods_Amount_Legendary"/></Amount>
+                      <AdditionalOutputCycle><ModValue Insert="$AdditionalGoods_Cycle_L_LatiumFisher"/></AdditionalOutputCycle>
+                      <Amount><ModValue Insert="$AdditionalGoods_Amount_L_LatiumFisher"/></Amount>
                     </Item> 
                     <Item>
                       <Product>31697</Product>
@@ -164,8 +164,8 @@
                   <AdditionalOutput>
                     <Item>
                       <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                      <AdditionalOutputCycle><ModValue Insert="$AdditionalGoods_Cycle_Legendary_Boosted"/></AdditionalOutputCycle>
-                      <Amount><ModValue Insert="$AdditionalGoods_Amount_Legendary_Boosted"/></Amount>
+                      <AdditionalOutputCycle><ModValue Insert="$AdditionalGoods_Cycle_L_LatiumFisher_Boosted"/></AdditionalOutputCycle>
+                      <Amount><ModValue Insert="$AdditionalGoods_Amount_L_LatiumFisher_Boosted"/></Amount>
                     </Item> 
                     <Item>
                       <Product>31697</Product>

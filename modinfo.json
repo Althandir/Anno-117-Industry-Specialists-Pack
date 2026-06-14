@@ -1,6 +1,6 @@
 {
   "ModID": "althandir-altdolphin-specialists-industry-pack",
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "Anno": 8,
   "IncompatibleIds": null,
   "ModDependencies": null,
@@ -16,7 +16,7 @@
   },
   "GameSetup": {
     "RequiresNewGame": false,
-    "SafeToRemove": true,
+    "SafeToRemove": false,
     "Multiplayer": true,
     "Campaign": true
   },
@@ -63,7 +63,6 @@
 
   "CreatorName": "Althandir / Altdolphin",
   "CreatorContact": "althandir via Anno-Modding-Discord / https://github.com/Althandir/Anno117-ExtendedSpecialistsPack-Althandir-Altdolphin",
-  "Image": "ModListingImg.png",
 
   "Options": 
   {
@@ -103,21 +102,37 @@
     {
       "default": "50"
     },
-    "AdditionalGoods_Amount_Legendary":
+    "AdditionalGoods_Amount_L_LatiumFisher":
     {
       "default": "1"
     },
-    "AdditionalGoods_Cycle_Legendary":
+    "AdditionalGoods_Cycle_L_LatiumFisher":
     {
       "default": "2"
     },
-    "AdditionalGoods_Amount_Legendary_Boosted":
+    "AdditionalGoods_Amount_L_LatiumFisher_Boosted":
     {
       "default": "1"
     },
-    "AdditionalGoods_Cycle_Legendary_Boosted":
+    "AdditionalGoods_Cycle_L_LatiumFisher_Boosted":
     {
       "default": "1"
+    },
+    "AdditionalGoods_Amount_L_HoneyBear":
+    {
+      "default": "2"
+    },
+    "AdditionalGoods_Cycle_L_HoneyBear":
+    {
+      "default": "7"
+    },
+    "AdditionalGoods_Amount_L_HoneyBear_Boosted":
+    {
+      "default": "2"
+    },
+    "AdditionalGoods_Cycle_L_HoneyBear_Boosted":
+    {
+      "default": "4"
     },
     "AreaUpgrade_Common":
     {
