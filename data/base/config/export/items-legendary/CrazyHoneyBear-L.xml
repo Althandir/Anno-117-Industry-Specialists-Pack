@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000888</GUID>
             <Name>Specialist CrazyHoneyBear-L</Name>
-            <IconFilename>data/base/graphics/icons/_Placeholder.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/black_bear_Honey_L.png</IconFilename>
             <InfoDescription>1600000889</InfoDescription>
           </Standard>
           <Effect>
@@ -49,11 +49,10 @@
                     <Values>
                       <Condition/>
                       <ConditionObjectCount>
-                        <Amount>3</Amount>
-                        <ComparisonOp>AtMost</ComparisonOp>
+                        <Amount>12</Amount>
                       </ConditionObjectCount>
                       <ObjectFilter>
-                        <ObjectGUID>2955</ObjectGUID>
+                        <ObjectGUID>68720</ObjectGUID>
                         <ObjectLocations>
                           <Template>LocationFilter</Template>
                           <Values>
@@ -100,7 +99,7 @@
           <Standard>
             <GUID>1600000889</GUID>
             <Name>Specialist CrazyHoneyBear-L BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/_Placeholder.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/black_bear_Honey_L.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600000888</OasisId>
@@ -134,7 +133,7 @@
           <Standard>
             <GUID>1600000890</GUID>
             <Name>Specialist CrazyHoneyBear-L BuildingBuff</Name>
-            <IconFilename>data/base/graphics/icons/_Placeholder.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/black_bear_Honey_L.png</IconFilename>
           </Standard>
           <Text>
             <OasisId>1600000888</OasisId>

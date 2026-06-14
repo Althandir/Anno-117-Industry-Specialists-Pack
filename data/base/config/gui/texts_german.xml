@@ -628,7 +628,7 @@
       </Text>
       <!-- Boosted Description -->
       <Text>
-          <Text>_PlaceholderText (Höchstens 3x Sardinenfischer auf Insel _PlaceholderText)</Text>
+          <Text>_PlaceholderText (12x Imker auf Insel _PlaceholderText)</Text>
           <LineId>1600000890</LineId> 
       </Text>
     </ModOp>
