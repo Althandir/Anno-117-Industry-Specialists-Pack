@@ -8,7 +8,7 @@
           <Standard>
             <GUID>1600000250</GUID>
             <Name>Specialist Prod-Dressers-E</Name>
-            <IconFilename>data/base/graphics/icons/m_Prod-Dressers-E.png</IconFilename>
+            <IconFilename>data/base/graphics/icons/Indu-Pack/m_Prod-Dressers-E.png</IconFilename>
             <InfoDescription>1600000251</InfoDescription>
           </Standard>
           <Effect>
@@ -53,7 +53,7 @@
               <Standard>
                   <GUID>1600000251</GUID>
                   <Name>Specialist Prod-Dressers-E BuildingBuff</Name>
-                  <IconFilename>data/base/graphics/icons/m_Prod-Dressers-E.png</IconFilename>
+                  <IconFilename>data/base/graphics/icons/Indu-Pack/m_Prod-Dressers-E.png</IconFilename>
               </Standard>
               <Text>
                   <OasisId>1600000250</OasisId>
