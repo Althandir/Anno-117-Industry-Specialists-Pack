@@ -8,7 +8,7 @@
             <Standard>
                 <GUID>1600000137</GUID>
                 <Name>Specialist Prod-Gatherers-E</Name>
-                <IconFilename>data/base/graphics/icons/m_Prod-Gatherers-E.png</IconFilename>
+                <IconFilename>data/base/graphics/icons/Indu-Pack/m_Prod-Gatherers-E.png</IconFilename>
                 <InfoDescription>1600000138</InfoDescription>
             </Standard>
             <Effect>
@@ -53,7 +53,7 @@
                 <Standard>
                     <GUID>1600000138</GUID>
                     <Name>Specialist Prod-Gatherers-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/m_Prod-Gatherers-E.png</IconFilename>
+                    <IconFilename>data/base/graphics/icons/Indu-Pack/m_Prod-Gatherers-E.png</IconFilename>
                 </Standard>
                 <Text>
                     <OasisId>1600000137</OasisId>
