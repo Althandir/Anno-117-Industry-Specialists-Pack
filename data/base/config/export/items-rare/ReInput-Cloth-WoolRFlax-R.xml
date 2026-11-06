@@ -1,5 +1,5 @@
 <ModOps>
-<!-- Item Definition GUID:1600000428 - 1600000429 | LineID:1600000428 - 1600000429 -->
+  <!-- Item Definition GUID:1600000428 - 1600000429 | LineID:1600000428 - 1600000429 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
@@ -12,7 +12,7 @@
             <InfoDescription>1600000429</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>Radius</EffectScope> 
+            <EffectScope>Radius</EffectScope>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
@@ -23,14 +23,17 @@
               <Item>
                 <GUID>3079</GUID>
               </Item>
+              <Item>
+                <GUID>152361</GUID>
+              </Item>
             </Targets>
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Economy</Niche> 
+            <Niche>Economy</Niche>
             <TradePrice><ModValue Insert="$TradePrice_Rare"/></TradePrice>
-            <BarkPool>80244</BarkPool> 
-            <Rarity>Rare</Rarity> 
+            <BarkPool>80244</BarkPool>
+            <Rarity>Rare</Rarity>
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
@@ -47,45 +50,43 @@
   <Group>
     <!-- BuildingEffect Definition -->
     <ModOp Type="addNextSibling" GUID="80193">
-        <Asset>
-            <Template>BuildingBuff</Template>
-            <Values>
-                <Standard>
-                    <GUID>1600000429</GUID>
-                    <Name>Specialist ReInput-Cloth-WoolRFlax-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Indu-Pack/m_ReInput-Cloth-WoolRFlax-R.png</IconFilename>
-                </Standard>
-                <Text>
-                    <OasisId>1600000428</OasisId>
-                </Text>
-                <Buff>
-                    <SourceCategory>Item</SourceCategory>
-                </Buff>
-                <FactoryUpgrade>
-                  <ProductivityUpgrade>
-                    <Value>-35</Value>
-                    <Percental>1</Percental>
-                  </ProductivityUpgrade>
-                  <ReplaceInputs>
-                    <Item>
-                      <OldInput>2063</OldInput>
-                      <NewInput>2073</NewInput>
-                    </Item>
-                  </ReplaceInputs>
-                </FactoryUpgrade>
-                <MaintenanceUpgrade>
-                  <WorkforceMaintenanceFactorUpgrade>
-                    <Value>-33</Value>
-                    <Percental>1</Percental>
-                  </WorkforceMaintenanceFactorUpgrade>
-                  <ReplaceWorkforce>
-                    <OldWorkforce>2185</OldWorkforce> <!--<GUID>2198</GUID> -->
-                    <NewWorkforce>2184</NewWorkforce> <!--<GUID>2199</GUID> -->
-                  </ReplaceWorkforce>
-                </MaintenanceUpgrade>
-            </Values>
-        </Asset>
+      <Asset>
+        <Template>BuildingBuff</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000429</GUID>
+            <Name>Specialist ReInput-Cloth-WoolRFlax-R BuildingBuff</Name>
+            <IconFilename>data/base/graphics/icons/Indu-Pack/m_ReInput-Cloth-WoolRFlax-R.png</IconFilename>
+          </Standard>
+          <Text>
+            <OasisId>1600000428</OasisId>
+          </Text>
+          <Buff>
+            <SourceCategory>Item</SourceCategory>
+          </Buff>
+          <FactoryUpgrade>
+            <ReplaceInputs>
+              <Item>
+                <OldInput>2063</OldInput>
+                <NewInput>2073</NewInput>
+              </Item>
+            </ReplaceInputs>
+            <InputAmountUpgrade>
+              <Item>
+                <Product>2073</Product>
+                <Amount>2</Amount> <!-- Max +2 -->
+              </Item>
+            </InputAmountUpgrade>
+          </FactoryUpgrade>
+          <MaintenanceUpgrade>
+            <WorkforceMaintenanceFactorUpgrade>
+              <Value>-50</Value>
+              <Percental>1</Percental>
+            </WorkforceMaintenanceFactorUpgrade>
+          </MaintenanceUpgrade>
+        </Values>
+      </Asset>
     </ModOp>
   </Group>
-  
+
 </ModOps>
