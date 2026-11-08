@@ -1,5 +1,5 @@
 <ModOps>
-<!-- Item Definition GUID:1600000130 - 1600000131 | LineID:1600000130 - 1600000131 -->
+  <!-- Item Definition GUID:1600000130 - 1600000131 | LineID:1600000130 - 1600000131 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
@@ -12,7 +12,7 @@
             <InfoDescription>1600000131</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>Radius</EffectScope> 
+            <EffectScope>Radius</EffectScope>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
@@ -27,10 +27,10 @@
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Economy</Niche> 
+            <Niche>Economy</Niche>
             <TradePrice><ModValue Insert="$TradePrice_Epic"/></TradePrice>
             <BarkPool>83294</BarkPool> <!-- <GUID>83294</GUID> -->
-            <Rarity>Epic</Rarity> 
+            <Rarity>Epic</Rarity>
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
@@ -47,40 +47,46 @@
   <Group>
     <!-- BuildingEffect Definition -->
     <ModOp Type="addNextSibling" GUID="80193">
-        <Asset>
-            <Template>BuildingBuff</Template>
-            <Values>
-                <Standard>
-                    <GUID>1600000131</GUID>
-                    <Name>Specialist ReInput-FGlass-SiliziaRGlass-E BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Indu-Pack/c_m_ReInput-FGlass-SiliziaRGlass-E.png</IconFilename>
-                </Standard>
-                <Text>
-                    <OasisId>1600000130</OasisId>
-                </Text>
-                <Buff>
-                    <SourceCategory>Item</SourceCategory>
-                </Buff>
-                <ResidenceUpgrade/>
-                <FactoryUpgrade>
-                  <AdditionalOutput>
-                    <Item>
-                      <Product>2151</Product>
-                      <AdditionalOutputCycle>16</AdditionalOutputCycle>
-                      <Amount>1</Amount>
-                    </Item>
-                  </AdditionalOutput>
-                  <ReplaceInputs>
-                    <Item>
-                      <OldInput>2117</OldInput>
-                      <NewInput>2091</NewInput>
-                    </Item>
-                  </ReplaceInputs>
-                </FactoryUpgrade>
-            </Values>
-        </Asset>
+      <Asset>
+        <Template>BuildingBuff</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000131</GUID>
+            <Name>Specialist ReInput-FGlass-SiliziaRGlass-E BuildingBuff</Name>
+            <IconFilename>data/base/graphics/icons/Indu-Pack/c_m_ReInput-FGlass-SiliziaRGlass-E.png</IconFilename>
+          </Standard>
+          <Text>
+            <OasisId>1600000130</OasisId>
+          </Text>
+          <Buff>
+            <SourceCategory>Item</SourceCategory>
+          </Buff>
+          <ResidenceUpgrade/>
+          <FactoryUpgrade>
+            <AdditionalOutput>
+              <Item>
+                <Product>2117</Product>
+                <AdditionalOutputCycle>1</AdditionalOutputCycle>
+                <Amount>1</Amount>
+              </Item>
+            </AdditionalOutput>
+            <ReplaceInputs>
+              <Item>
+                <OldInput>2117</OldInput>
+                <NewInput>2091</NewInput>
+              </Item>
+            </ReplaceInputs>
+            <InputAmountUpgrade>
+              <Item>
+                <Product>2091</Product>
+                <Amount>1</Amount> <!-- Max +2 -->
+              </Item>
+            </InputAmountUpgrade>
+          </FactoryUpgrade>
+        </Values>
+      </Asset>
     </ModOp>
-    
+
   </Group>
 
 </ModOps>
