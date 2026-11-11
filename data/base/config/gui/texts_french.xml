@@ -1,9 +1,4 @@
 <ModOps>
-  <!-- 
-    UNEVEN NUMBER == TITLE
-    EVEN NUMBER == DESCRIPTION
-  --> 
-  
   <!-- Specialist Prod-Extractors-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
@@ -25,12 +20,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Jeune arboriculteur</Text>
+          <Text>Young Arborist</Text>
           <LineId>1600000025</LineId> <!-- <GUID>1600000025</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Aime prendre soin des arbres. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Enjoys caring for trees. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000026</LineId> 
       </Text>
     </ModOp>
@@ -41,30 +36,28 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Chasseresse de poneys sauvages</Text>
+          <Text>Wild Pony Huntress</Text>
           <LineId>1600000027</LineId> <!-- <GUID>1600000027</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Continue de se comporter comme un poney sauvage. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Keeps behaving like a wild pony. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000028</LineId> 
       </Text>
     </ModOp>
   </Group>
   
-
-
   <!-- Specialist AddMineral-QuarriesMines-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Marcus Speculator, expert en minéraux</Text>
+          <Text>Marcus Speculator, Mineral Expert</Text>
           <LineId>1600000106</LineId> <!-- <GUID>1600000106</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Sait où trouver tous les minéraux nécessaires. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Knows where to find any needed minerals. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000107</LineId> 
       </Text>
     </ModOp>
@@ -75,12 +68,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Piso Agricola, gardiens de la terre</Text>
+          <Text>Piso Agricola, Custodes of the Land</Text>
           <LineId>1600000108</LineId> <!-- <GUID>1600000108</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Aime la vie à la campagne. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Enjoys the countrylife. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000109</LineId> 
       </Text>
     </ModOp>
@@ -91,12 +84,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Publius Arboreus, le planteur pour les générations futures</Text>
+          <Text>Publius Arboreus, the Planter For Generations</Text>
           <LineId>1600000110</LineId> <!-- <GUID>1600000110</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Récolte les fruits de ce qui a été semé il y a plusieurs générations. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Reaps the fruits of what was planted generations ago. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000111</LineId> 
       </Text>
     </ModOp>
@@ -107,12 +100,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Junia Pascua, gardienne d'animaux</Text>
+          <Text>Junia Pascua, Animal Caretaker</Text>
           <LineId>1600000112</LineId> <!-- <GUID>1600000112</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Le meilleur gardien dont un animal puisse rêver. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Best caretaker any animal could dream of. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000113</LineId> 
       </Text>
     </ModOp>
@@ -123,12 +116,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Lucius Textor, l'artisan textile</Text>
+          <Text>Lucius Textor, the Textile Craftsmen</Text>
           <LineId>1600000118</LineId> <!-- <GUID>1600000118</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Toujours approvisionné en tissus de toutes sortes. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Always stocks up on every kind of fabric. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000119</LineId> 
       </Text>
     </ModOp>
@@ -139,12 +132,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Cornelia Fusilla, artiste fluide</Text>
+          <Text>Cornelia Fusilla, Fluid Artista</Text>
           <LineId>1600000120</LineId> <!-- <GUID>1600000120</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Sait comment travailler avec des liquides et des bocaux. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Knows how to work with Liquids and Jars. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000121</LineId> 
       </Text>
     </ModOp>
@@ -155,12 +148,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Decimus Argentarius, géologue expérimenté spécialisé dans l'argent</Text>
+          <Text>Decimus Argentarius, Experienced Silver Geologist</Text>
           <LineId>1600000122</LineId> <!-- <GUID>1600000122</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>A un talent pour trouver des gisements d'argent. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Has a talent for finding silver deposits. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000123</LineId> 
       </Text>
     </ModOp>
@@ -171,12 +164,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Vitrearios, le verrier</Text>
+          <Text>Vitrearios, the Glassmaker</Text>
           <LineId>1600000130</LineId> <!-- <GUID>1600000130</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Façonne le verre sous vos yeux. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Shapes the glass in form directly in front of your eyes. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000131</LineId> 
       </Text>
     </ModOp>
@@ -187,12 +180,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Gaius Septicius, L'orfèvre</Text>
+          <Text>Gaius Septicius, the Silversmith</Text>
           <LineId>1600000132</LineId> <!-- <GUID>1600000132</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Le silver est le nouveau gold!&#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Silver is the new Gold!&#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000133</LineId> 
       </Text>
     </ModOp>
@@ -219,12 +212,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Apprilia, ingénieur débutant</Text>
+          <Text>Apprilia, Early Engineer</Text>
           <LineId>1600000139</LineId> <!-- <GUID>1600000139</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Rêves d'une époque dominée par les machines et la vapeur. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Dreams of an age of machines and steam. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000140</LineId> 
       </Text>
     </ModOp>
@@ -243,7 +236,7 @@
           <Text>Has the hope to catch a mermaid by using overdimentional nets. Instead he finds sandals and sometimes a lost sheep. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000153</LineId> 
       </Text>
-      <!-- Description -->
+      <!-- Boosted Description -->
       <Text>
           <Text>Wastes way to many ropes for his dream. (3x Ropemaker on Island - valid only in Latium)</Text>
           <LineId>1600000561</LineId> 
@@ -256,12 +249,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Silvius Vercannos, chasseur expérimenté</Text>
+          <Text>Silvius Vercannos, Experienced Hunter</Text>
           <LineId>1600000154</LineId> <!-- <GUID>1600000154</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>C'était un chasseur si doué qu'il arrivait même à capturer des créatures mystiques. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Such a great hunter, he would even catch mystical creatures. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000155</LineId> 
       </Text>
     </ModOp>
@@ -272,12 +265,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Pelle à argile</Text>
+          <Text>Clay Digger</Text>
           <LineId>1600000192</LineId> <!-- <GUID>1600000192</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Il a conservé le plaisir de creuser dans l'argile depuis son enfance. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Kept the fun from digging into Clay since the childhood. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000193</LineId> 
       </Text>
     </ModOp>
@@ -288,12 +281,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Formateur en tapisserie d'ameublement</Text>
+          <Text>Upholsterer Trainer</Text>
           <LineId>1600000194</LineId> <!-- <GUID>1600000194</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Enseigne comment manipuler les outils à aiguilles afin d'éviter les arrêts de travail. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Teaches how to handle needle tools to prevent worker outages. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000195</LineId> 
       </Text>
     </ModOp>
@@ -304,12 +297,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Reedgrower couvert de boue</Text>
+          <Text>Mud-covered Reedgrower</Text>
           <LineId>1600000198</LineId> <!-- <GUID>1600000198</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>"Hein ? Qu'est-ce que tu fais dans mon marais ?! "&#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>"Huh? What are you doing in my swamp?! "&#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000199</LineId> 
       </Text>
     </ModOp>
@@ -320,12 +313,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Chasseuse Impatiente</Text>
+          <Text>Eager Huntress</Text>
           <LineId>1600000200</LineId> <!-- <GUID>1600000200</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Aspire à la chasse. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Yearns for the hunt. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000201</LineId> 
       </Text>
     </ModOp>
@@ -336,12 +329,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Travailleur de plage</Text>
+          <Text>Beachworker</Text>
           <LineId>1600000202</LineId> <!-- <GUID>1600000202</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Elle pourrait travailler à la plage tout le temps. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Could work at the beach all the time. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000203</LineId> 
       </Text>
     </ModOp>
@@ -352,12 +345,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Chauffage habituel</Text>
+          <Text>Habitual Heater</Text>
           <LineId>1600000204</LineId> <!-- <GUID>1600000204</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>"La cuisson améliore le goût, pourquoi cela ne fonctionnerait-il pas pour d'autres choses ?"&#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>"Baking stuff makes it taste better, why shouldn't it work for other things?"&#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000205</LineId> 
       </Text>
     </ModOp>
@@ -373,7 +366,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>"Montre-moi la cuisine et je te préparerai quelque chose de délicieux en un clin d'œil."&#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>"Show me the kitchen and I'll whip up something delicious faster than you can blink."&#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000249</LineId> 
       </Text>
     </ModOp>
@@ -384,12 +377,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Bennicus Sartor Steckus, rapide avec l'aiguille</Text>
+          <Text>Bennicus Sartor Steckus, Swift with the Needle</Text>
           <LineId>1600000250</LineId> <!-- <GUID>1600000250</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>"Les beaux plumages font les beaux oiseaux ! On n'a jamais assez de vêtements !"&#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>"Fine feathers make fine birds! You can never have enough clothes!"&#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000251</LineId> 
       </Text>
     </ModOp>
@@ -400,12 +393,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Junia Daedala, maître embellisseur</Text>
+          <Text>Junia Daedala, Master Embellisher</Text>
           <LineId>1600000252</LineId> <!-- <GUID>1600000252</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>À travers son art, elle montre au monde sa propre beauté. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Through her artistry, she shows the world her own beauty. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000253</LineId> 
       </Text>
     </ModOp>
@@ -416,12 +409,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Forestier ambitieux</Text>
+          <Text>Ambitious Forester</Text>
           <LineId>1600000270</LineId> <!-- <GUID>1600000270</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Rendre les arbres utilisables est sa vocation. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Making trees usable is his calling. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000271</LineId> 
       </Text>
     </ModOp>
@@ -432,12 +425,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Fermier tranquille</Text>
+          <Text>Quiet Farmer</Text>
           <LineId>1600000272</LineId> <!-- <GUID>1600000272</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Il pense toujours à ses champs. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>His mind is always on his fields. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000273</LineId> 
       </Text>
     </ModOp>
@@ -448,12 +441,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Éleveur avisé</Text>
+          <Text>Prudent Livestock Breeder</Text>
           <LineId>1600000274</LineId> <!-- <GUID>1600000274</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Assurez-vous que chaque animal apporte sa contribution. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Make sure that every animal fulfills its contribution. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000275</LineId> 
       </Text>
     </ModOp>
@@ -464,12 +457,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Aide à la plantation heureuse</Text>
+          <Text>Happy Plantation Helper</Text>
           <LineId>1600000276</LineId> <!-- <GUID>1600000276</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>"Il ne faut pas grand-chose pour être heureux."&#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>"You don't need much variation to be happy."&#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000277</LineId> 
       </Text>
     </ModOp>
@@ -480,12 +473,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Morigenos Conchylius, noble collectionneur de coquillages</Text>
+          <Text>Morigenos Conchylius, Noble Shellcollector</Text>
           <LineId>1600000278</LineId> <!-- <GUID>1600000278</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>On entend toujours le murmure de la mer à proximité. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>The sea can always be heard whispering nearby. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000279</LineId> 
       </Text>
     </ModOp>
@@ -496,12 +489,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Coperovicos, le premier né du Rock</Text>
+          <Text>Coperovicos, the first Rock-born</Text>
           <LineId>1600000280</LineId> <!-- <GUID>1600000280</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Tout comme son frère Stannos, il possède un sixième sens pour détecter les gisements de cuivre. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Similar to his brother Stannos, he has a sixth sense for copper deposits. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000281</LineId> 
       </Text>
     </ModOp>
@@ -512,12 +505,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Stannos, le deuxième né de la Roche</Text>
+          <Text>Stannos, the second Rock-born</Text>
           <LineId>1600000282</LineId> <!-- <GUID>1600000282</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Tout comme son frère Coperovicos, il a un sixième sens pour les gisements d'étain. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Similar to his brother Coperovicos, he has a sixth sense for tin deposits. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000283</LineId> 
       </Text>
     </ModOp>
@@ -528,12 +521,12 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Lucia Marmoria, géologue spécialiste du marbre</Text>
+          <Text>Lucia Marmoria, Marble Geologist</Text>
           <LineId>1600000319</LineId> <!-- <GUID>1600000319</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>A un sens aigu du marbre. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Has a keen sense for marble. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000320</LineId> 
       </Text>
     </ModOp>
@@ -549,7 +542,7 @@
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Il se met en colère si les arbres sandarak ne sont pas parfaitement en forme. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Gets angry if the sandarak trees aren't perfectly in shape. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000322</LineId> 
       </Text>
     </ModOp>
@@ -560,28 +553,28 @@
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Cassia Ferrata, Chef d'équipe</Text>
+          <Text>Cassia Ferrata, Pit Foreman</Text>
           <LineId>1600000323</LineId> <!-- <GUID>1600000323</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Sa simple présence fait trembler la terre. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Makes the earth tremble by her mere presence. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000324</LineId> 
       </Text>
     </ModOp>
   </Group>
-   
+
   <!-- Specialist Prod-Fisheries-E -->
   <Group>
     <ModOp Add="/TextExport/Texts">
       <!-- Title -->
       <Text>
-          <Text>Lucius Amnius Piscator, le pêcheur bavard</Text>
+          <Text>Lucius Amnius Piscator, Talking Fisherman</Text>
           <LineId>1600000325</LineId> <!-- <GUID>1600000325</GUID> -->
       </Text>
       <!-- Description -->
       <Text>
-          <Text>Peut communiquer avec les poissons. &#xD;(Altdolphin-Industry-Pack)</Text>
+          <Text>Can communicate with the Fish. &#xD;(Altdolphin-Industry-Pack)</Text>
           <LineId>1600000326</LineId> 
       </Text>
     </ModOp>
