@@ -1,5 +1,5 @@
 <ModOps>
-<!-- Item Definition GUID:1600000198 - 1600000199 | LineID:1600000198 - 1600000199 -->
+  <!-- Item Definition GUID:1600000198 - 1600000199 | LineID:1600000198 - 1600000199 -->
   <Group>
     <ModOp Type="addNextSibling" GUID="106410">
       <Asset>
@@ -12,7 +12,7 @@
             <InfoDescription>1600000199</InfoDescription>
           </Standard>
           <Effect>
-            <EffectScope>Radius</EffectScope> 
+            <EffectScope>Radius</EffectScope>
             <SourceCategory>Item</SourceCategory>
             <Buffs>
               <Item>
@@ -27,10 +27,10 @@
             <HideInGovernorsBar>1</HideInGovernorsBar>
           </Effect>
           <Item>
-            <Niche>Agriculture</Niche> 
+            <Niche>Agriculture</Niche>
             <TradePrice><ModValue Insert="$TradePrice_Rare"/></TradePrice>
             <BarkPool>83353</BarkPool> <!-- <GUID>83353</GUID> -->
-            <Rarity>Rare</Rarity> 
+            <Rarity>Rare</Rarity>
           </Item>
           <Locked>
             <DefaultLockedState>0</DefaultLockedState>
@@ -47,36 +47,37 @@
   <Group>
     <!-- BuildingEffect Definition -->
     <ModOp Type="addNextSibling" GUID="80193">
-        <Asset>
-            <Template>BuildingBuff</Template>
-            <Values>
-                <Standard>
-                    <GUID>1600000199</GUID>
-                    <Name>Specialist Module-Reed-R BuildingBuff</Name>
-                    <IconFilename>data/base/graphics/icons/Indu-Pack/c_f_Module-Reed-R.png</IconFilename>
-                </Standard>
-                <Text>
-                    <OasisId>1600000198</OasisId>
-                </Text>
-                <Buff>
-                    <SourceCategory>Item</SourceCategory>
-                </Buff>
-                <FactoryUpgrade>
-                  <AdditionalOutput>
-                    <Item>
-                      <Product>2103</Product>
-                      <AdditionalOutputCycle>10</AdditionalOutputCycle>
-                      <Amount>1</Amount>
-                    </Item>
-                  </AdditionalOutput>
-                </FactoryUpgrade>
-                <ModuleOwnerUpgrade>
-                  <ModuleLimitPercent><ModValue Insert="$Farms_ModuleUpgrade_AmountInPercent"/></ModuleLimitPercent>
-                </ModuleOwnerUpgrade>
-            </Values>
-        </Asset>
+      <Asset>
+        <Template>BuildingBuff</Template>
+        <Values>
+          <Standard>
+            <GUID>1600000199</GUID>
+            <Name>Specialist Module-Reed-R BuildingBuff</Name>
+            <IconFilename>data/base/graphics/icons/Indu-Pack/c_f_Module-Reed-R.png</IconFilename>
+          </Standard>
+          <Text>
+            <OasisId>1600000198</OasisId>
+          </Text>
+          <Buff>
+            <SourceCategory>Item</SourceCategory>
+          </Buff>
+          <ModuleOwnerUpgrade>
+            <ModuleLimitPercent><ModValue Insert="$Farms_ModuleUpgrade_AmountInPercent"/></ModuleLimitPercent>
+          </ModuleOwnerUpgrade>
+          <MaintenanceUpgrade>
+            <MaintenanceFactorUpgrade>
+              <Value><ModValue Insert="$Farms_ModuleUpgrade_MaintenanceFactorUpgrade_Epic"/></Value>
+              <Percental>1</Percental>
+            </MaintenanceFactorUpgrade>
+            <WorkforceMaintenanceFactorUpgrade>
+              <Value><ModValue Insert="$Farms_ModuleUpgrade_WorkforceFactorUpgrade_Epic"/></Value>
+              <Percental>1</Percental>
+            </WorkforceMaintenanceFactorUpgrade>
+          </MaintenanceUpgrade>
+        </Values>
+      </Asset>
     </ModOp>
-    
+
   </Group>
 
 </ModOps>

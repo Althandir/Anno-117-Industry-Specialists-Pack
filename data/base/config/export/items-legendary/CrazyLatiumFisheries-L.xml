@@ -125,17 +125,17 @@
                     </Item> 
                     <Item>
                       <Product>31697</Product>
-                      <AdditionalOutputCycle>40</AdditionalOutputCycle>
-                      <Amount>1</Amount>
-                    </Item>
-                    <Item>
-                      <Product>2144</Product>
                       <AdditionalOutputCycle>32</AdditionalOutputCycle>
                       <Amount>1</Amount>
                     </Item>
                     <Item>
+                      <Product>2144</Product>
+                      <AdditionalOutputCycle>48</AdditionalOutputCycle>
+                      <Amount>1</Amount>
+                    </Item>
+                    <Item>
                       <Product>2073</Product>
-                      <AdditionalOutputCycle>42</AdditionalOutputCycle>
+                      <AdditionalOutputCycle>86</AdditionalOutputCycle>
                       <Amount>1</Amount>
                     </Item>
                   </AdditionalOutput>
@@ -174,12 +174,12 @@
                     </Item>
                     <Item>
                       <Product>2144</Product>
-                      <AdditionalOutputCycle>32</AdditionalOutputCycle>
+                      <AdditionalOutputCycle>48</AdditionalOutputCycle>
                       <Amount>1</Amount>
                     </Item>
                     <Item>
                       <Product>2073</Product>
-                      <AdditionalOutputCycle>42</AdditionalOutputCycle>
+                      <AdditionalOutputCycle>86</AdditionalOutputCycle>
                       <Amount>1</Amount>
                     </Item>
                   </AdditionalOutput>

@@ -65,13 +65,6 @@
                     <SourceCategory>Item</SourceCategory>
                 </Buff>
                 <FactoryUpgrade>
-                  <AdditionalOutput>
-                    <Item>
-                      <ForceProductSameAsFactoryOutput>1</ForceProductSameAsFactoryOutput>
-                      <AdditionalOutputCycle>10</AdditionalOutputCycle>
-                      <Amount>1</Amount>
-                    </Item>
-                  </AdditionalOutput>
                   <NeededAreaUpgrade>
                     <Value><ModValue Insert="$AreaUpgrade_Rare"/></Value>
                     <Percental>1</Percental>

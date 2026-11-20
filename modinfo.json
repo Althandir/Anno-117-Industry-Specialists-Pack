@@ -112,7 +112,7 @@
     },
     "AdditionalGoods_Amount_L_LatiumFisher_Boosted":
     {
-      "default": "1"
+      "default": "2"
     },
     "AdditionalGoods_Cycle_L_LatiumFisher_Boosted":
     {
@@ -200,11 +200,11 @@
     },
     "Farms_ModuleUpgrade_MaintenanceFactorUpgrade_Epic":
     {
-      "default": "75"
+      "default": "100"
     },
     "Farms_ModuleUpgrade_WorkforceFactorUpgrade_Epic":
     {
-      "default": "50"
+      "default": "100"
     },
     "Pastures_ModuleUpgrade_AmountInPercent_Epic":
     {
@@ -212,11 +212,11 @@
     },
     "Pastures_ModuleUpgrade_MaintenanceFactorUpgrade_Epic":
     {
-      "default": "125"
+      "default": "200"
     },
     "Pastures_ModuleUpgrade_WorkforceFactorUpgrade_Epic":
     {
-      "default": "100"
+      "default": "200"
     },
     "MaintenanceFactorUpgrade_Common":
     {
